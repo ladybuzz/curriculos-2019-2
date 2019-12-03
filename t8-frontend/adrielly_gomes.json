@@ -6,7 +6,7 @@
     "link_github": "https://github.com/adriellygomes",
     "email": "adriellygomess@outlook.com",
     "um_pouco_sobre_mim": [
-        "Eu sou a Adrielly, minha maior experiência em carteira assinada foi como professora de informática, onde eu dava aula de pacote office e alguns programas de Design. Estudei Design por muitos anos da minha vida, até me descobrir na área de tecnologia e me apaixonar completamente! Considero tudo que vivi uma ótima bagagem pra área que estou em trânsição que é como Desenvolvedora Front-End!",
+        "Eu sou a Adrielly, trabalhei formalmente como professora de informática. Estudei Design por muitos anos da minha vida, até me descobrir na área de tecnologia e me apaixonar completamente! Considero tudo que vivi e todas as minhas experiências uma ótima bagagem pra área que estou em trânsição, e atualmente procuro oportunidade como desenvolvedora front-end. Além disso, me considero uma pessoa muito empatica com as pessoas, gosto muuuito dos animais, e meu bolo de chocolate é show!"
     ],
     "no_que_ja_trabalhei": [
         {
@@ -15,6 +15,12 @@
             "periodo": "Set/2015 a Dez/2017",
             "atividades_desenvolvidas": "Instrutora na área de informática (pacote office: Windows, Word, Excel, Power Point. Design: Photoshop, CorelDraw, Illustrator). Auxiliando e avaliando o desenvolvimento de cada aluno, elaboração e aplicação de aulas, controle de faltas, fechamento de contratos e atendimento de pais e alunos.",
             "link": null
+        },
+        {
+            "cargo_funcao": "Instrutora de Informática",
+            "empresa": "S.O.S Computadores",
+            "periodo": "FREELANCER",
+            "atividades_desenvolvidas": "Instrutora na área de informática (pacote office: Windows, Word, Excel, Power Point). Auxiliando e avaliando o desenvolvimento de cada aluno, elaboração e aplicação de aulas, controle de faltas."
         }
     ],
     "o_que_ja_estudei": [
@@ -75,6 +81,7 @@
         {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 9},
         {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 9},
         {"habilidade_ferramenta":"INDESIGN", "pontuacao": 9},
+        {"habilidade_ferramenta":"CORELDRAW", "pontuacao": 9},
         {"habilidade_ferramenta":"PACOTE OFFICE", "pontuacao": 9}
     ]
 }
