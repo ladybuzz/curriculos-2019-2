@@ -102,7 +102,7 @@
         {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 6},
         {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 8},
         {"habilidade_ferramenta":"ILLUSTRATOR", "pontuacao": 9},
-        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 9}
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 9},
         {"habilidade_ferramenta":"GESTÃO DE PROJETOS", "pontuacao": 7}
     ]
 }
