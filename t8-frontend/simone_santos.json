@@ -1,0 +1,150 @@
+{
+    "nome_completo":"Simone Santos Pimenta",
+    "o_que_eu_quero":"Resolver problemas propondo soluçoes criativas como desenvolvedora front-end para construir assim um mundo cada vez melhor",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/simone-santos-pimenta-1a4165187/",
+    "link_github":"https://github.com/simone-art",
+    "email": "simonepereiodista3@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        
+    "Profissional que gosta de sair da zona de conforto, de desafíos e aprender coisas novas. Por isso, tenho ampla experiência na área de Comunicação, por ter atuado mais de 15 anos na área,
+    tanto em Empresas Públicas como em Privadas, expertise no desenvolvimento de material institucional, com habilidade desde manual de identidade
+    à elaboração de conteúdo para as mídias sociais e participação ativa no fortalecimento de marcas nacionais e internacionais, atingindo mais de 18 mil
+    seguidores no Twitter, 53 mil likes no Facebook e 10 mil no Instagram, dando assim visibilidade e
+    consolidação destas marcas no ambiente digital.
+
+
+    Marcante atuação na elaboração textos para matérias, artigos e blogs com a prática da escrita desde
+    o início de sua carreira.
+        "Aqui é um parágrafo descrevendo um pouco sobre você", 
+        "Aqui é outro parágrafo falando sobre sua trajetória", 
+        "Nesse aqui você pode dizer o que você curte fazer",
+        "Fique a vontade, mas busque ser objetiva" 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Redatora de conteúdo para mídias sociais",
+            "empresa":"Agencia Digital Imperdible Web". Caracas, Venezuela. 
+            "periodo":"Mar/2017 a Mar/2019",
+            "atividades_desenvolvidas": " Responsável pela elaboração do conteúdo das redes: 
+            facebook, instagram e twitter de várias marcas nacionais e internacionais 
+            e  definição de estratégias para o desenvolvimento do plano de marketing digital aos clientes",
+            "link": "http://imperdibleweb.com/"
+        },
+        {
+            "cargo_funcao": "Gerente de Relações Institucionais e Marketing",
+            "empresa":"Venezolana de Turismo". Caracas, Venezuela. 
+            "periodo":"Jul/2013 a Jul/2017",
+            "atividades_desenvolvidas": "• Responsável pelo plano de marketing com ênfase em canais digitais e mídias tradicionais, 
+            com o fortalecimento da marca Venetur e a rede hoteleira (14 hotéis), o que resultou em mais de 18 mil seguidores do twitter, 46 mil likes no facebook e 5 mil no instagram.
+            • Líder de uma equipe de 14 profissionais da área de marketing e vendas, atingindo o percentual de 20% no aumento de vendas de pacotes turísticos através do uso das redes sociais, gerando assim também maior engajamento do público alvo. 
+            • Apresentação de relatórios mensais: plataforma Review Pro, responsável por mensurar o nível de qualidade do serviço da empresa em relação aos seus principais concorrentes, e Google Analytics que fornece informações sobre tráfego do site (www.venetur.gob.ve) e  o resultado das divulgações e campanhas para o público da rede hoteleira.
+            • Implementação de estratégias de marketing focadas para as Feiras Internacionais de Turismo da: Venezuela, Alemanha, Espanha e Inglaterra.
+            • Desenvolvimento de alianças estratégicas para a projeção da marca na mídia tradicional",
+        }
+
+        {
+            "cargo_funcao": "Chefe de Captação e Desenvolvimento Humano. Área: Recursos Humanos",
+            "empresa":"Venezolana de Televisão (VTV)". Caracas, Venezuela.
+            "periodo":"Ago/2011 a Nov/2012",
+            "atividades_desenvolvidas": "•Responsável pela estratégia de atração e seleção de talentos.
+            • Implementação de cursos focados na formação profissional, o que contribuiu na retenção dos colaboradores.
+            • Desenvolvimento do plano de remuneração da Empresa para um universo de 1.191 trabalhadores.
+            • Organização de eventos que resultaram em maior engajamento entre os profissionais da Empresa".,
+        }
+
+        {
+            "cargo_funcao": "Analista de imprensa Sênior",
+            "empresa":"Procuraduría Geral da República (PGR)". Caracas, Venezuela.
+            "periodo":"Sep/2003 a Maio/2011",
+            "atividades_desenvolvidas": "•Responsável pela redação de conteúdos voltados para a Imprensa (comunicados e artigos em revistas).
+            • Produtora de programa de rádio apresentado pela emissora YVKE Mundial.
+            • Apresentação de relatórios jornalísticos com participação ativa nas áreas: política, jurídica e internacional.
+            • Organização de eventos destinados para a área de Relações Públicas",
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp desenvolvedora front-end",
+            "instituicao":"{Reprograma}",
+            "periodo":"Agos/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "UX-Design, HTML, CSS, GitHub, Boostrap, Lógica de Programaçao, Javascript, React.Js "
+        },
+        {
+            "curso": "Curso de inglês",
+            "instituicao":"Universidade da Pensilvania/plataforma Coursera",
+            "periodo":"Feb/2015 a Abril/2015",
+            "resumo_conhecimentos_aprendidos": "Curso de inglês exclusivamente para jornalistas desenvolvido pela
+            Universidade da Pensilvania e patrocinado por a Embaixada dos Estados Unidos na Venezuela".
+        }
+        {
+            "curso": "Curso de Marketing Digital",
+            "instituicao":"Instituto Internet", Caracas, Venezuela. O certificado é avalado pela Universidade Central da
+            Venezuela, que segundo o Rankings QS World, ocupa o posto número 37 entre 400 faculdades latinoamericanas.
+            "periodo":"Jul/2017 a Oct/2017",
+            "resumo_conhecimentos_aprendidos": "Curso focado na aprendizagem e implementaçao de estratégias 
+            que facilitem aproveitar ao máximo os canais digitais e gerem os resultados comerciais 
+            esperados pelas marcas e empresas".
+        }
+        {
+            "curso": "Mestrado em Política e Gestão da Inovação Tecnológica",
+            "instituicao": "Centro de Estudios del Desarrollo (Cendes) Universidade Central da Venezuela.
+            "periodo":"Sep/2004 a Sep/2006",
+            "resumo_conhecimentos_aprendidos": "Curso de posgraduaçao focado na implementaçao de políticas públicas 
+            para o desenvolvimento das áreas de innovaçao e tecnología. Faltou apresentar o trabalho final. 
+        }
+
+        {
+            "curso": "Licenciatura em Comunicação Social. Menção: Jornalismo Audiovisual",
+            "instituicao": "Instituto Language Collage"
+            "periodo":"Sep/1997 a Sep/2002",
+            "resumo_conhecimentos_aprendidos": "Curso completo de estudo superior na área de jornalismo audiovisual".
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Formação Econômica para jornalistas (EAD)
+            "instituicao":"Instituto Espanhol de Comércio Exterior (2005) com o patrocínio da agência internacional de notícias EFE",
+            "resumo_conhecimentos_interesses": "Conhecimento básico sobre a economía e suas implicaçoes no mundo".
+        }
+        {
+            "interesse_evento_curso": "Protocolo e Relações Públicas
+            "instituicao":"German´s Institute (2003)". Caracas, Venezuela. 
+            "resumo_conhecimentos_interesses": "Conhecimento básico sobre organizaçao de eventos e etiqueta".
+        }
+        {
+            "interesse_evento_curso": "Curso de inglês",
+            "instituicao": "Instituto Language Collage". Estado Aragua, Venezuela.
+            "resumo_conhecimentos_interesses": "Curso completo de inglês atingindo até o nivel de conversaçao"
+        },
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 1}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 8},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 9},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 3},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 3},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 8},
+        {"habilidade_ferramenta":"FTP", "pontuacao": 5},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 9},
+        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 9},
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 9}
+    ]
+}
