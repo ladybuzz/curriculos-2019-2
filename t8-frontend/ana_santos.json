@@ -1,0 +1,107 @@
+{
+    "nome_completo":"Ana Santos",
+    "o_que_eu_quero":"Atuar como desenvolvedora Front-end",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/anar-santos/",
+    "link_github":"https://github.com/anarsantos",
+    "email": "aninha_rsantos@yahoo.com.br",
+
+    "um_pouco_sobre_mim":[
+        "Sou formada em Letras há 10 anos pela PUC-SP e como Técnica em Secretariado há 20 anos. Atuei em instituições relacionadas à educação, além de trabalhar na área administrativa organizando contratos e arquivos, auxíliando o setor financeiro, controlando despesas de viagens para colaboradores e planilhas, além de participar e elaborar atas em reuniões.",
+        "Estagiei por 2 anos na Scielo - Scientific Electronic Library Online, onde diagramei e apliquei o programa Markup em HTML nos artigos científicos publicados no site.",
+        "Esta atuação na Scielo despertou meu interesse pela área de TI e após 2 anos desempregada me inscrevi no projeto da {reprograma} para poder aprofundar meus conhecimentos, onde fui aprovada. Durante o curso pude colocar em prática as habilidades que desenvolvi com minhas colocações anteriores, como trabalho em equipe, organização de tarefas, facilidade de comunicação verbal e escrita, facilitando minha transição de carreira,como uma desenvolvedora pronta para vencer novos desafios.",
+        "Cantei em um coral por 4 anos, amo música. Iniciei violão clássico, mas tive que interromper por causa da faculdade. Adoro eventos culturais como: cinema, teatro, shows e toda e qualquer manisfestação artística. Amo ler, principalmente, biografias. Tenho interesse pelas histórias das pessoas, saber como lidam com os revezes da vida, acredito que sempre tiramos uma lição das histórias que ouvimos. E também temos a oportunidade de notar que outras pessoas passam pela mesmas dificuldades que nós."
+    ],   
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Atendimento ao cliente",
+            "empresa":"Senac São Paulo",
+            "periodo":"03/2017 – 09/2017",
+            "atividades_desenvolvidas": "Atendimento ao cliente telefônico consultivo, orientação ao aluno e atendimento corporativo.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Assistente administrativo",
+            "empresa":"International School",
+            "periodo":"10/2015 – 04/2016",
+            "atividades_desenvolvidas": "Atendimento telefônico e público interno, elaboração de planilhas, verificação de reembolsos dos colaboradores, organização de arquivos, solicitação de motoboy, cotação de material de escritório/limpeza e controle de estoque, pagamento de boletos, acompanhamento de faturas, notas fiscais e contratos, participação em reuniões e preparação de atas, despacho de material e auxílio à equipe em quaisquer necessidades.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Auxiliar administrativo",
+            "empresa":"São Paulo Open Centre",
+            "periodo":"05/2014 – 03/2015",
+            "atividades_desenvolvidas": "Atendimento telefônico e pessoal ao público buscando identificar suas necessidades e oferecendo a melhor opção para seus objetivos, confecção e atualização de planilhas, organização arquivo e dos exames Cambridge.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Revisor de texto",
+            "empresa":"Caboverde Design Digital",
+            "periodo":"06/2010 – 02/2014",
+            "atividades_desenvolvidas": "Diagramação e verificação de artigos científicos do impresso com o digital e aplicação do programa Smark.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Estagiária",
+            "empresa":"Scielo – Scientific Electronic Library Online",
+            "periodo":"08/2006 – 09/2008",
+            "atividades_desenvolvidas": "Verificação e diagramação dos artigos científicos, identificação de seus elementos e aplicação do programa Markup para publicação do texto no site da empresa.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Projeto Voluntário",
+            "empresa": "Reprograma - Studio Lilian Seraos ",
+            "periodo": "Out/2019",
+            "atividades_desenvolvidas": "Criação site, junto com uma equipe de 5 desenvolvedores, utilizamos HTML, CSS, Bootstrap, JavaScript e Jquery, com layout responsivo para mobile, tablet e deskop",
+            "link": "https://studiolilianseraos.github.io/"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp Desenvolvimento Front-end",
+            "instituicao":"Reprograma",
+            "periodo":"08/2019 a 12/2019 (704 horas, presencial e integral)",
+            "resumo_conhecimentos_aprendidos": "HTML 5, CSS, Lógica de Programaçã, JavaScript, Bootstrap, Git, Github, Jquery, Sass, React, UX, UI, Empreendedorismo, "
+        },
+        {
+            "curso": "Letras - Licenciatura e Bacharelado em Inglês",
+            "instituicao":"Pontifícia Universidade Católica de São Paulo - PUC-SP",
+            "periodo":"02/2004 – 12/2009",
+            "resumo_conhecimentos_aprendidos": "Linguística, morfologia, sintaxe, semântica, fonética e fonologia, literatura portuguesa e inglesa."
+        },
+        {
+            "curso": "Técnico em Secretariado",
+            "instituicao":"E. T. E. Albert Einstein",
+            "periodo":"08/1998 – 12/1999",
+            "resumo_conhecimentos_aprendidos": "Organização da rotina do escritório, documentos, notas, finanças, arquivos, viagens e reuniões."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso online de React",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do React"
+        }       
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":7},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 7},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 4},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 6},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 1}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 6},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 6},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 3},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 4},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 7},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
+        {"habilidade_ferramenta":"INGLÊS", "pontuacao": 6}
+        
+    ]
+}
