@@ -1,0 +1,82 @@
+{
+    "nome_completo":"Carolina Nobre Vitorino",
+    "o_que_eu_quero":"Atuar na área de desenvolvimento de front-end",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/carolina-nobre-3266a0168",
+    "link_github":"https://github.com/carolina-nobre",
+    "email": "carolina.nobre.v@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Sou formada em Biologia e atuei na área como auxiliar de pesquisa de Laboratório Especial de Coleções Zoológicas no Instituto Butantan.Estou em transição de carreira  e  quero trabalhar como desenvolvedora de front-end pois acredito ser uma grande oportunidade de encontrar novos desafios."
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Estagiária",
+            "empresa":"Instituto Butantan",
+            "periodo":"Nov/2017 a Jul/2018",
+            "atividades_desenvolvidas": "Preparo do material para a Coleção Herpetológica, pesagem e medidas dos espécimes, coletas de tecidos do fígado para Banco de Tecidos, fixação e preservação dos espécimes para pesquisa e ensino, acompanhamento das rotinas do laboratório.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Desenvolvedora front-end",
+            "empresa":"Reprograma - Patti Xavier",
+            "periodo":"Out/2019",
+            "atividades_desenvolvidas": "Projeto realizado pelo curso Reprograma com a cliente Patti Xavier. Site feito em HTML, CSS, Bootstrap, SASS, JavaScript",
+            "link":"https://pattixavierconfeitaria.netlify.com/"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp de Front-end",
+            "instituicao":"Reprograma",
+            "periodo":"704 horas",
+            "resumo_conhecimentos_aprendidos": "Além das tecnologias vista no curso, aprendemos também sobre trabalho em equipe, respeitar nossas colegas com todas as diferenças e diversidade que o curso traz e assim criando uma rede de apoio.No decorrer do curso aprendemos sobre varios assunto e para praticar realizamos projetos, o primeiro projeto realizado foi um site com HTML e CSS, logo após foi realizado outro site utilizando as tecnologias anteriores e adicionando JAVASCRIPT. No projeto com clientes reais, fizemos em  grupo um site somando todo o conhecimento anterior junto com Bootstrap e SASS, e o último projeto com tema livre e escolhemos quais tecnologias que iríamos usar e em particular escolhi utilizar React para criar o meu site."
+        },
+        {
+            "curso": "Biologia",
+            "instituicao":"FMU",
+            "periodo":"Set/2018",
+            "resumo_conhecimentos_aprendidos": "Conhecimento em microbiologia, citologia, bioquímica, dissecação de animais, zoologia;"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Introdução à programação",
+            "instituicao":"Girls 4 Tech",
+            "resumo_conhecimentos_interesses": "Foi passado conhecimento básico sobre HTML e CSS"
+        },
+        {
+            "interesse_evento_curso": "Voluntariado",
+            "instituicao":"Grupo Escoteiro Falcão Peregrino",
+            "resumo_conhecimentos_interesses": "Como Chefe Escoteira realizava atividades com jovens de 11 até 14 anos com o foco no desenvolvimento educacional, social e junto com a sua própria comunidade dessa forma trabalhando em grupo e enfrentando de novos desafios."
+        },
+        {
+            "interesse_evento_curso": "Voluntariado",
+            "instituicao":"Reprograma",
+            "resumo_conhecimentos_interesses": "Tive oportunidade de participar como monitora da turma online de front-end na Reprograma com a plataforma Zoom. Na aula ajudei as alunas sobre DOM em JAVASCRIPT."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 7},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 7},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 9},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 7},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 7},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 7},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 6},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 6},
+        {"habilidade_ferramenta":"CRIATIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"TRABALHO EM EQUIPE", "pontuacao": 9},
+        {"habilidade_ferramenta":"INGLÊS", "pontuacao": 5}
+    ]
+}
