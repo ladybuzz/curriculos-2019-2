@@ -9,13 +9,21 @@
     "um_pouco_sobre_mim":[
         "Em transição de carreira para técnologia, apaixonada por aprender coisas novas", 
         "Formada em engenharia civil, durante uma busca pra desenvolvimento e crescimento profissional descobri na técnologia um espaço colaborativo onde posso contribuir e fazer a diferença", 
-        "Uma criança curiosa que cresceu, apaixonada por ler e aprender sobre os mais diversos assuntos."
-        "Me considero comunicativa, criativa e uma pessoa que gosta de encontrar soluções para tudo."
+        "Uma criança curiosa que cresceu, apaixonada por ler e aprender sobre os mais diversos assuntos.",
+        "Comunicativa, criativa e uma pessoa que gosta de buscar soluções para o mundo."
     ],
 
     "no_que_ja_trabalhei":[
         {
-            "cargo_funcao": "Estagiário engenharia",
+            "cargo_funcao": "Engenheira Civil",
+            "empresa":"Autonoma",
+            "periodo":"março de 2017 - abril de 2019 (2 anos)",
+            "atividades_desenvolvidas": "Desenvolvimento de pequenos projetos de regularização de construção, orçamentos, atendimento a clientes.",
+            "link": null
+        },
+
+        {
+            "cargo_funcao": "Estagiária engenharia",
             "empresa":"Construtora Adolpho Lindenberg SA (CALI3)",
             "periodo":"março de 2015 - dezembro de 2016 (1 ano 10 meses)",
             "atividades_desenvolvidas": "Atuação na área de gerenciamento de obras e personalização, responsávelpela elaboração e controle de contratos, medições, levantamentosquantitativos e elaboração de orçamentos, controle de projetos. Treinamentode equipes, participação em auditorias certificadoras, conhecimento dosistema de gestão da qualidade, ISO 9001-2008, PBPQ-H.",
@@ -40,14 +48,14 @@
         {
             "curso": "Bacharelado Engenharia Civil",
             "instituicao":"Centro Universitário Padre Anchieta",
-            "periodo":"Jan/2012 a Fev/2017",
-            "resumo_conhecimentos_aprendidos": "Curso bacharelado de 5 anos, tecnologia dos materiais de construção, calculo I ao IV, física, planejamento, fundações, patologias, trabalho de conclusão de curso voltado para personalização de obras "
+            "periodo":"Jan/2012 a Fev/2017- 5 anos",
+            "resumo_conhecimentos_aprendidos": "Curso bacharelado de engenharia com duração de 5 anos, foi um periodo de grande crescimento e desenvolvimento pessoal, . A resolução de problemas era um objetivo constante nas aulas e a integração das atividades desenvolvidas com o estágio foi um grande diferencial no meu periodo de estudos."
         },
         {
             "curso": "Curso Técnico de Edificação",
             "instituicao":"Escola Técnica Estadual Vasco Antonio Venchiarutti",
-            "periodo":"Jan/2010 a Dez/2011",
-            "resumo_conhecimentos_aprendidos": "curso técnico de 1 ano e 6 meses, preparar o profissional para projetar e executar obras de acordo com os procedimentos legais, propondo alternativas do uso de técnicas e materiais de construção, elaborando o planejamento e o orçamento necessários à escolha da melhor solução a ser adotada na ocupação do solo, tendo por premissa o respeito e a preservação ambiental.  "
+            "periodo":"Jan/2010 a Dez/2011- 1 ano e 6 meses",
+            "resumo_conhecimentos_aprendidos": "curso técnico de 1 ano e 6 meses, prepara o profissional para projetar e executar obras de acordo com os procedimentos legais, propondo alternativas do uso de técnicas e materiais de construção, elaborando o planejamento e o orçamento necessários à escolha da melhor solução a ser adotada na ocupação do solo, tendo por premissa o respeito e a preservação ambiental.  "
         }
     ],
 
@@ -61,8 +69,7 @@
             "interesse_evento_curso": "Python",
             "instituicao":"Curso em vídeo",
             "resumo_conhecimentos_interesses": "Fundamentos, operadores aritméticos, condições, estrutura de repetição, funções"
-        },
-
+        }
     ],
 
     "no_que_me_destaco":[
@@ -70,7 +77,7 @@
         {"habilidade_ferramenta":"CSS", "pontuacao": 9},
         {"habilidade_ferramenta":"SASS", "pontuacao": 6},
         {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
-        {"habilidade_ferramenta":"JQUERY", "pontuacao": 7}
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 7},
         {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
         {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 8},
         {"habilidade_ferramenta":"REACT", "pontuacao": 7},
@@ -79,11 +86,11 @@
         {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 8},
         {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
         {"habilidade_ferramenta":"PYTHON", "pontuacao": 4},
-        {"habilidade_ferramenta":"FIGMA", "pontuacao": 6}
+        {"habilidade_ferramenta":"FIGMA", "pontuacao": 6},
+        {"habilidade_ferramenta":"INGLÊS", "pontuacao": 6},
+        {"habilidade_ferramenta":"FRANCÊS", "pontuacao": 4}
+        
 
         
-        // Dentre as ferramentas estudadas tive um ótimo desenvolvimento com  as atividades de UX, o primeiro projeto do curso colocou na pratica as habilidades de HTML, CSS e Git no qual veio sendo exercitado durante essas 18 semanas . Quando começamos com lógica de programação tive facilidade com o entendimento de JavaScript puro e   React.          
-
-        // Pré-processadores (SASS) | Bootstrap| Tecnologias assistivas|API
     ]
 }
