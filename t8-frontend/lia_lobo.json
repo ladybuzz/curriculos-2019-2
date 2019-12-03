@@ -1,0 +1,100 @@
+{
+    "nome_completo":"Lia Freitas Lobo",
+    "o_que_eu_quero":"Busco um lugar para desenvolver minhas habilidade de front end.",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/lia-freitas/",
+    "link_github":"https://github.com/LiaLobo",
+    "email": "lia.lobo@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Aqui é um parágrafo descrevendo um pouco sobre você", 
+        "Aqui é outro parágrafo falando sobre sua trajetória", 
+        "Nesse aqui você pode dizer o que você curte fazer",
+        "Fique a vontade, mas busque ser objetiva" 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Monitoria online turma de front end",
+            "empresa":"Voluntariado - Reprograma",
+            "periodo":"9h-13h Nov/2019",
+            "atividades_desenvolvidas": "Tirar dúvidas sobre lógica de programação e JavaScript, das alunas por chat e/ou WhatsApp.",
+            "link":"http://www.ctn.org.br/"
+        },
+        {
+            "cargo_funcao": "Recepcionista",
+            "empresa":"Empresa West Ink Tattoo",
+            "periodo":"Jan/2016 a Jul/2019",
+            "atividades_desenvolvidas": "Atendimento ao cliente por telefone e mídias sociais, auxílio de criação de conteúdo para mídias sociais; controle de estoque; fluxo de caixa; cobrança; envio de orçamentos; organização das agendas; responsável por abrir e fechar o estúdio.",
+            "link": "https://www.instagram.com/westink.tattoo/"
+        },
+        {
+            "cargo_funcao": "Freelance de Fotografia",
+            "empresa":"São João de Nóis Tudim - Centro de Tradições Nordestinas",
+            "periodo":"4 finais de semana de Jun/2017",
+            "atividades_desenvolvidas": "Fotos da rotatividade de públlico; todas atrações do evento.",
+            "link":"http://www.ctn.org.br/"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp presencial Front End",
+            "instituicao":"{reprograma}",
+            "periodo":"Ago/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "O conteúdo do bootcamp, focado na formação de mulheres front-end developers inclui
+                UX Design, HTML, CSS, JavaScript, Bootstrap, Jquery, React e pré-processadores (SASS, SCSS), projetos desafiadores,
+                aulas de empreendedorismo e orientação profissional"
+        },
+        {
+            "curso": "Gestão de Tecnologia da Informação",
+            "instituicao":"Anhembi Morumbi",
+            "periodo":"Fev/2019 a Dez/2021",
+            "resumo_conhecimentos_aprendidos": "Comunicação em organizações, sistemas da informação, liderança de pessoas, empreendedorismo"
+        },
+        {
+            "curso": "Produção Audiovisual",
+            "instituicao":"Faculdade das Américas",
+            "periodo":"Ago/2016 a Jul/2018",
+            "resumo_conhecimentos_aprendidos": "Comunicação em organizações, sistemas da informação, liderança de pessoas, empreendedorismo"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso online de Javascript",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+        },
+        {
+            "interesse_evento_curso": "Curso ES6",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 1}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 8},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 9},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 3},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 3},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 8},
+        {"habilidade_ferramenta":"FTP", "pontuacao": 5},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 9},
+        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 9},
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 9}
+    ]
+}
