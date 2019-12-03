@@ -1,0 +1,172 @@
+{
+    "nome_completo": "Romênia Ishiyama",
+    "o_que_eu_quero": "Desenvolvimento Front-end | UX Design | MVP - Prototipação",
+    "cidade_estado:": "São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/romeniaishiyama/",
+    "link_github": "https://github.com/roms2019",
+    "email": "romeniaishiyama@gmail.com",
+    "um_pouco_sobre_mim": [
+        "Sou curiosa e gosto de aprender coisas novas. Estas características me influenciaram na opção da escolha de carreira em Design de Moda.",
+        "No final de 2018, quando passava por questionamentos sobre minha trajetória, desafios, estagnação, me guiaram a buscar alternativas para mudanças. Tive a oportunidade de conhecer iniciativas que apoiam mulheres a ingressarem no setor da TECNOLOGIA. Conheci a {reprograma} e no início de 2019, enquanto negociava meu desligamento da empresa que trabalhava, prestei 3 processos seletivos, até ser aprovada no quarto processo da instituição, ao qual estou me formando. Para o curso, não há a necessidade de conhecimento prévio na área, encorajando a transição de carreira. A rede de apoio que o ambiente de formação proporciona é, na minha opinião o maior diferencial, que forma não somente a área técnica,como estimula o desenvolvimento de softs skills, tão importante quanto, como confiança, empoderamento e empatia. Aliar as skills acumuladas dos anos anteriores de trabalho à transição de carreira é um pilar importante, que reflete e imprimi minha identidade na jornada profissional.",
+        "Gosto de caminhadas ao ar livre e alio a prática com fotografia, hobbie que pratico desde a adolescência. Yoga e Desenho são práticas terapêuticas que realizo com regularidade afim de controlar a ansiedade. Como desafio que me propõe sair da zona de conforto, estando em contato em uma atividade coletiva, participo semanalmente do Clube de Volei (Sesc Bom Retiro).",
+        "https://www.youtube.com/user/Romenia2008",
+        "https://www.instagram.com/roms_flaneur/",
+        "https://twitter.com/Romeniaishiyama",
+        "https://www.figma.com/proto/X1waNLLJupTsLiZtGN8Daw/Projetos-Figma?node-id=2%3A2&scaling=scale-down"
+    ],
+    "no_que_ja_trabalhei": [
+        {
+            "cargo_funcao": "Desenvolvimento de produtos para vestuário",
+            "empresa": "Confecções de Roupas Sunstar",
+            "periodo": "2015 a Abr/2019",
+            "atividades_desenvolvidas": "Contribuí com pesquisa de tendências, montagem de painel de inspiração,desenho técnico manual, liberação de ficha técnica apara modelista, prova e liberação das peças-pilotos, cotação e compra de tecidos e aviamentos, envio das coleçoes do showroom para fotografia de estúdio e blogueiras para divulgação. Acompanhei a implantação de dois aplicativos voltadas para o segmento de vendas por atacado, direcionado exclusivamente a lojistas do setor. A atualização semanal de coleção me deixava em contato com os inputs dos aplicativos, cadastrando fotos, descrições, preços e ações de vendas.",
+            "link": "https://www.instagram.com/papayafashion/",
+            "link": "https://vesti.mobi/",
+            "link": "https://houpa.app/"
+        },
+        {
+            "cargo_funcao": "Assistente de Planejamento e Controle de Produção",
+            "empresa": "Confecção de Roupas Limelight Jeans",
+            "periodo": "2014",
+            "atividades_desenvolvidas": "Preenchimento de fichas técnicas para liberação dos protótipos para liberação de produção, fotografia e organização dos protótipos,cálculo de custo, liberação da produção para as lojas",
+            "link": "https://www.instagram.com/limelightjeans/"
+        },
+        {
+            "cargo_funcao": "Fotógrafa voluntária",
+            "empresa": "ONG - Viva o Centro",
+            "periodo": "2013",
+            "atividades_desenvolvidas": "Fotografia de eventos e corporativo.",
+            "link": "http://www.vivaocentro.org.br/"
+        },
+        {
+            "cargo_funcao": "Estágio",
+            "empresa": "Maquinário - Assessoria de imprensa",
+            "periodo": "2012",
+            "atividades_desenvolvidas": "Atuei no departamento de produção de Moda, realizando follow-up a jornalistas revistas e jornais impressos da época em busca das pautas em andamento para envio de releases e peças para produção fotográfica. Organização e controle do acervo para envio e devolução de peças para as produtoras. Sugestão de pautas para elaboração de releases.",
+        },
+    ],
+    "o_que_ja_estudei": [
+        {
+            "curso": "Design de Moda",
+            "instituicao": "Centro Universitário Moura Lacerda/Universidade Anhembi Morumbi",
+            "periodo": "Jan/2007 a Jun/2012",
+            "resumo_conhecimentos_aprendidos": "tecnologia têxtil, edição de mídias e conteúdos, desenho técnico manual, desenho técnico vetorial, história do Design, fotografia, modelagem plana, moulage, economia, ética, visual merchandising, princípios da gestalt. Iniciei o curso na primeira instituição, onde cursei os 2 primeiros anos da graduação, na cidade de Ribeirão Preto. Transferi o curso ao me mudar para São Paulo em busca de atuar no mercado."
+        },
+        {
+            "curso": "Técnico em estilismo e coordenação em Moda",
+            "instituicao": "Senac - Ribeirão Preto",
+            "periodo": "ago/2005 a abr/2007",
+            "resumo_conhecimentos_aprendidos": "1.100 hs. Criação e planejamento de coleção, história da arte, marketing, desenho técnico, preenchimento de ficha técnica, teoria das cores. "
+        }
+        {
+            "curso": "Programação - Front-end",
+            "instituicao": "{reprograma}",
+            "periodo": "ago/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Bootcamp presencial realizado na Estação Hack da Avenida Paulista, subsidiado pelo Facebook, em período integral, totalizando 700 horas de estudo teórico, prático, mentorias e visitas técnicas."
+        }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+        {
+            "interesse_evento_curso": "Fundamentos de lógica de programação",
+            "instituicao": "Digital Innovation One",
+            "resumo_conhecimentos_interesses": "2019 - 2 horas - Curso complementar online que realizei durante o bootcamp presencial de front-end para reforçar o aprendizado. https://certificates.digitalinnovation.one/3493BC75"
+        },
+        {
+            "interesse_evento_curso": "Programação para Internet com JavaScript",
+            "instituicao": "Digital Innovation One",
+            "resumo_conhecimentos_interesses": "2019 - 2 horas - Curso complementar online que realizei durante o bootcamp presencial de front-end para reforçar o aprendizado. https://certificates.digitalinnovation.one/AC3B7C8D"
+        }
+        {
+            "interesse_evento_curso": "Design Textil Digital",
+            "instituicao": "Sesc Avenida Paulista",
+            "resumo_conhecimentos_interesses": "2019 - 24 horas de atividades utilizando Photoshop, Illustrator e Processing que resultaram na impressão têxtil dos trabalhos desenvolvidos. Com Mônica Rizzolli. https://contrast.parts/DesignPaulista"
+        }
+        {
+            "interesse_evento_curso": "Oficina de Texto e Interpretação - No princípio Era o Verbo",
+            "instituicao": "Centro Cultural Oswald de Andrade",
+            "resumo_conhecimentos_interesses": "2018 - 60 horas de aula com atividades práticas e teóricas. Com Imara Reis.  https://www.linkedin.com/in/romeniaishiyama/detail/recent-activity/shares/"
+        }
+    ],
+    "no_que_me_destaco": [
+        {
+            "habilidade_ferramenta": "HTML",
+            "pontuacao": 9
+        },
+        {
+            "habilidade_ferramenta": "CSS",
+            "pontuacao": 9
+        },
+        {
+            "habilidade_ferramenta": "SASS",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "JAVASCRIPT",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "JQUERY",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "GIT/GITHUB",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "BOOTSTRAP",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "REACT",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "RESPONSIVIDADE",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "UX DESIGN",
+            "pontuacao": 9
+        },
+        {
+            "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "PROCESSING",
+            "pontuacao": 1
+        },
+        {
+            "habilidade_ferramenta": "FIGMA",
+            "pontuacao": 9
+        },
+        {
+            "habilidade_ferramenta": "PHOTOSHOP",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "ILUSTRATOR",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "COREL DRAW",
+            "pontuacao": 9
+        },
+        {
+            "habilidade_ferramenta": "INGLÊS",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "ESPANHOL",
+            "pontuacao": 3
+        },
+        {
+            "habilidade_ferramenta": "FRANCÊS",
+            "pontuacao": 1
+        },
+    ]
+}
