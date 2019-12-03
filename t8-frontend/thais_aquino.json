@@ -1,0 +1,108 @@
+{
+    "nome_completo":"Thaís Aquino",
+    "o_que_eu_quero":"Trabalhar com desenvolvimento front-end.",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/thaqnos",
+    "link_github":"https://github.com/thaqnos",
+    "email": "thaqnos@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Estudei 4 anos de Design Gráfico com Ênfase em Tipografia e tive mais 2 anos e meio de carreira no setor editorial. Nesse tempo, senti a necessidade de utilizar os meus conhecimentos para trabalhos voluntários e decidi agregar à minha jornada a carreira com tecnologia." 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Desenvolvedora Front-end Freelancer - Voluntário",
+            "empresa":"Reprograma - Cliente Aneesa",
+            "periodo":"Out/2019",
+            "atividades_desenvolvidas": "Aplicação de metodologia Scrum para o gerenciamento do projeto, usando HTML, Sass, Javascript, JQuery e Bootstrap resultando em um layout limpo e responsivo",
+            "link":"https://compreaneesa.com.br/"
+        },
+        {
+            "cargo_funcao": "Instrutora NINJA (Need Information Now Just Ask)",
+            "empresa":"Mastertech",
+            "periodo":"Out/2019",
+            "atividades_desenvolvidas": "Auxiliar de instrutor na Estação de Programação da Mastertech na Estação Hack, com durabilidade de um final de semana. As competências desenvolvidas foram: introdução a programação e as 3 linguagens da web: HTML, CSS e JavaScript, onde auxiliei os alunos a criarem seu primeiro site dinâmico.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Diagramadora Plena e Capista",
+            "empresa":"Linotec - Produção Editorial",
+            "periodo":"Fev/2018 a Ago/2019",
+            "atividades_desenvolvidas": "Desenvolvimento de projeto gráfico e diagramação de livros, criação de capa, gerenciamento de mídias sociais e projetos.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Freelance - Professora de Design Editorial",
+            "empresa":"Editora Hyria",
+            "periodo":"Jul/2018",
+            "atividades_desenvolvidas": "Curso de diagramação de revistas e periódicos, com foco em composição, cores e tipografias que se dispõe harmonicamente em uma página. Com duração de um final de semana.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Designer Gráfica Junior",
+            "empresa":"Editora Planmark",
+            "periodo":"Jun/2016 a Ago/2017",
+            "atividades_desenvolvidas": "Diagramação de livros, revistas, periódicos e monografias, criação de mídias sociais, logotipos e demais peças multimídias, como projetos digitais.",
+            "link": null
+        }
+    ],
+
+    "o_que_ja_estudei":[   
+        {
+            "curso": "Bacharelado em Design Gráfico com Ênfase em Tipografia",
+            "instituicao":"Universidade Anhembi Morumbi",
+            "periodo":"fev/2013 a Dez/2017 (incompleto)",
+            "resumo_conhecimentos_aprendidos": "Durante o período em que estive na faculdade, tive conhecimento em Fotografia, Ilustração, Tipografia, Lettering, Design de Identidade Visual, Design de Embalagem, Design Editorial, Criação e Produção Gráfica, Metodologia Projetual."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Bootcamp de Front-end",
+            "instituicao":"Reprograma",
+            "resumo_conhecimentos_interesses": "Programação front-end do zero, com conteúdo de UX Design, Git e Github, Scrum, Lógica de Programação, HTML, CSS, Javascript e bibliotecas e frameworks como Sass, React e Bootstrap."
+        },
+        {
+            "interesse_evento_curso": "Academia Mastertech",
+            "instituicao":"Mastertech",
+            "resumo_conhecimentos_interesses": "Programação de front-end e back-end, tais como HTML, CSS, Javascript, Python e DJango."
+        },
+        {
+            "interesse_evento_curso": "Estação de Programação da Mastertech - Aprenda a programar em um FDS",
+            "instituicao":"Mastertech",
+            "resumo_conhecimentos_interesses": "Design Thinking, Metodologia Ágil - Scrum, Lógica de Programação, itrodução ao HTML, CSS, Javascript."
+        },
+        {
+            "interesse_evento_curso": "Lógica de Programação com Javascript",
+            "instituicao":"Caelum",
+            "resumo_conhecimentos_interesses": "Práticas das principais estruturas de um programa, como condicionais, loops, funções e declarações de variáveis."
+        },
+        {
+            "interesse_evento_curso": "Desenvolvimento Web com HTML, CSS e JavaScript",
+            "instituicao":"Caelum",
+            "resumo_conhecimentos_interesses": "Desenvolvimento de projetos com HTML, CSS e Javascript com foco em semântica, boas práticas, SEO e acessibilidade. O CSS foi aplicado além das propriedades básicas, com foco em um código reusável, desacoplado e flexível. As páginas web foram desenvolvidas para mobile com design responsivo e rápida renderização no navegador."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":8},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 8},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 7},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 7},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6},  
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 7},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 7},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 8},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 7},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 8},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 7},
+        {"habilidade_ferramenta":"FTP", "pontuacao": 5},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 6},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 8},
+        {"habilidade_ferramenta":"ILLUSTRATOR", "pontuacao": 9},
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 9}
+        {"habilidade_ferramenta":"GESTÃO DE PROJETOS", "pontuacao": 7}
+    ]
+}
