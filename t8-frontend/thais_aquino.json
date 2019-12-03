@@ -52,7 +52,7 @@
         {
             "curso": "Bacharelado em Design Gráfico com Ênfase em Tipografia",
             "instituicao":"Universidade Anhembi Morumbi",
-            "periodo":"fev/2013 a Dez/2017 (incompleto)",
+            "periodo":"Fev/2013 a Dez/2017 (incompleto)",
             "resumo_conhecimentos_aprendidos": "Durante o período em que estive na faculdade, tive conhecimento em Fotografia, Ilustração, Tipografia, Lettering, Design de Identidade Visual, Design de Embalagem, Design Editorial, Criação e Produção Gráfica, Metodologia Projetual."
         }
     ],
@@ -61,12 +61,12 @@
         {
             "interesse_evento_curso": "Bootcamp de Front-end",
             "instituicao":"Reprograma",
-            "resumo_conhecimentos_interesses": "Programação front-end do zero, com conteúdo de UX Design, Git e Github, Scrum, Lógica de Programação, HTML, CSS, Javascript e bibliotecas e frameworks como Sass, React e Bootstrap."
+            "resumo_conhecimentos_interesses": "Curso presencial de 700 horas em 4 meses e meio. O conteúdo foi front-end do zero, com conteúdo de UX Design, Git e Github, Scrum, Lógica de Programação, HTML, CSS, Javascript e bibliotecas e frameworks como Sass, React e Bootstrap."
         },
         {
             "interesse_evento_curso": "Academia Mastertech",
             "instituicao":"Mastertech",
-            "resumo_conhecimentos_interesses": "Programação de front-end e back-end, tais como HTML, CSS, Javascript, Python e DJango."
+            "resumo_conhecimentos_interesses": "Programação de front-end e back-end, o conteúdo abordado foi HTML, CSS, Javascript, Python e DJango."
         },
         {
             "interesse_evento_curso": "Estação de Programação da Mastertech - Aprenda a programar em um FDS",
