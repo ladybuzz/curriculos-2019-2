@@ -1,0 +1,111 @@
+{
+    "nome_completo": "Adriana Fernandes Dorigão",
+    "o_que_eu_quero": "Desenvolvedora Front-End",
+    "cidade_estado:": "São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/fernandesadriana/",
+    "link_github": "https://github.com/AdrianaFernandes",
+    "email": "adrianafernandes.af@gmail.com",
+    "um_pouco_sobre_mim": [
+        "Sempre atuei na área financeira, lidando muito bem com números, controles e planilhas. Este vínculo com a área de Exatas foi fortalecido após minha formação  acadêmica em Gestão Financeira, ocasião em que eu já estava trabalhando em bancos, onde atuei por sete anos.",
+        "Assim que fiquei desempregada, resolvi voltar meus esforços para a área que sempre me atraiu: Tecnologia da Informação.",
+        "Pesquisando por formas de ingressar na área, encontrei a {reprograma}, me inscrevi e fui aprovada.",
+        "Hoje sei que meus conhecimentos prévios de controle de dados, de planilhas, organização de tarefas, gestão de rotinas administrativas e financeiras, mapeamento e melhoria de processos, análise e liberação de documentos, homologação de sistemas, entre outros, podem ser somados aos conhecimento adquirido durante o curso",
+        "Estou segura de que me encontrei profissionalmente e quero crescer dentro da carreira de desenvolvedora."
+    ],
+    "no_que_ja_trabalhei": [
+        {
+            "cargo_funcao": "Analista de Backoffice",
+            "empresa": "Banco Safra - Seguradora",
+            "periodo": "Abil/2012 a Abril/2019 - (7 anos)",
+            "atividades_desenvolvidas": "Administração do sistema de controles da Seguradora - Gseg - Access, Alterações dos seguros, Análise e liberação Dom - estorno, Análise e Subscrição de Seguros de Vida, Caixa corporativa - atendimento e analise órgãos reguladores, Controle Documentos  Sip Corretora, Dashboard Comerciais e Operacionais, Desenvolver e aprimorar Produtos - 40 Produtos de Vida, Faturamento VG Clássico, Gestão das áreas de Cadastro de Propostas e Manutenção, Homologações no Sistema I4-Pro, Mapeamento e Melhorias dos Processos, Realização Kaizen Corretora de Seguros, Suporte aos regionais de seguros e gerentes das agências."
+        },
+        {
+            "cargo_funcao": "Projeto Voluntário",
+            "empresa": "Reprograma - Studio Lilian Seraos ",
+            "periodo": "Out/2019",
+            "atividades_desenvolvidas": "Criação site, junto com uma equipe de 6 desenvolvedores, utilizamos HTML, CSS, Bootstrap, JavaScript e Jquery, com layout responsivo para mobile, tablet e deskop",
+            "link": "https://studiolilianseraos.github.io/"
+        }
+        {
+            "cargo_funcao": "Voluntária",
+            "empresa": "Reprograma - Turma on-line ",
+            "periodo": "Out/2019",
+            "atividades_desenvolvidas": "Monitoria e apoio no estudo on-line da turma Front-end atráves da ferramenta Zoom."
+        }
+    ],
+    "o_que_ja_estudei": [
+        {
+            "curso": "Bootcamp Desenvolvimento Front-end.",
+            "instituicao": "{Reprograma}",
+            "periodo": "Ago/2019 a Dez/2019 - (704 horas, presencial e integral)",
+            "resumo_conhecimentos_aprendidos": "Empreendedorismo, UX, UI, HTML 5, CSS 3, SCSS/SASS, Bootstrap, Git, GitHub, Web Responsivo, Scrum, Lógica de Programação, Javascript, Jquery e React."
+        },
+        {
+            "curso": "Gestão Financeira",
+            "instituicao": "Unip - Universidade Paulista",
+            "conclusão": "Nov/2014",
+            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+        }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+        {
+            "interesse_evento_curso": "Curso online de React, Redux, React-Router, Hooks",
+            "instituicao": "Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do React, Redux, React-Router, Hooks"
+        }
+    ],
+    "no_que_me_destaco": [
+        {
+            "habilidade_ferramenta": "HTML5",
+            "pontuacao": 9
+        },
+        {
+            "habilidade_ferramenta": "CSS3",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "SCSS/SASS",
+            "pontuacao": 4
+        },
+        {
+            "habilidade_ferramenta": "BOOTSTRAP",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "GIT/GITHUB",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "RESPONSIVIDADE",
+            "pontuacao": 9
+        },
+        {
+            "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "UX DESIGN",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "LÓGICA DA PROGRAMAÇÃO",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "JAVASCRIPT",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "JQUERY",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "REACT",
+            "pontuacao": 7
+        }
+    ]
+}
