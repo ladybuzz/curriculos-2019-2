@@ -1,0 +1,158 @@
+{
+    "nome_completo": "Talita Barbosa dos Santos",
+    "o_que_eu_quero": "Busco colocação em desenvolvimento Fron-end",
+    "cidade_estado:": "São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/talitabarbosas/",
+    "link_github": "https://github.com/talibarbosa-hub",
+    "email": "talitabarbosa@live.com",
+    "um_pouco_sobre_mim": [
+        "Tenho 29 anos, sou uma pessoa determinada e dedicada.",
+        "Fui a primeira pessoa da minha família a se formar na faculdade através de bolsa de estudos integral, cursei Gestão Comercial e trabalhei durantes 10 anos na área o que me possibilitou desenvolver Soft Skills tais como habilidade de negociação e planejamento estratégico. Estou em transição de carreira no momento para TI pois descobri grande interesse e entusiasmo pela área.",
+        "Gosto de participar de eventos da comunidade de Tecnologia pois acredito que é um ótimo ambiente para compartilhar conhecimento, e trocar experiências."
+    ],
+    "no_que_ja_trabalhei": [
+        {
+            "cargo_funcao": "Assistente Comercial ",
+            "empresa": "CTI Consultores Associados ",
+            "periodo": "Maio/2016 a Agosto/2019",
+            "atividades_desenvolvidas": "Renovação da subscrição e suporte de licenças dos softwares IBM para a carteira de clientes da empresa. Gerenciamento do sistema de registro e administração de oportunidades IBM Global Partner Portal e administração do Partner World IBM bem como, demais portais de uso comercial e Marketing. Suporte a equipe comercial, marketing e sócios. Elaboração e alimentação de planilhas gerenciais para uso dos sócios diretores e interface com diversas áreas da empresa para desenvolvimento de novas sistemáticas de trabalho e aprimoração das existentes.",
+            "link": "http://www.ctiglobal.com/"
+        },
+        {
+            "cargo_funcao": "Comercial",
+            "empresa": "Vila Velha Corretora de Seguros Comercial",
+            "periodo": "Março/2015 a Setembro/2015 ",
+            "atividades_desenvolvidas": "Atuação nas concessionárias Nissan e Renault com prospecção, vendas e pós-vendas de seguros. Posteriormente direcionada para atender clientes da carteira de renovação de seguro automóvel de São Paulo. Elaboração de propostas comerciais e cotações em diversos portais de seguradoras, conhecimento do setor securitário.",
+            "link": "https://www.vilavelha.com.br"
+        },
+        {
+            "cargo_funcao": "Adespec Saint-Gobain",
+            "empresa": "Analista de Mercado",
+            "periodo": "Dezembro/2012  a Novembro/2013",
+            "atividades_desenvolvidas": "Identificação de prospects para aumento da distribuição em segmentos específicos do mercado; Elaboração, registro e mensuração das ações especiais de PDV; Coordenação das ações  promocionais em Supermercados e Home Centers; Elaboração de relatórios e suporte a diretoria  equipe de vendas e promotores.",
+            "link": "http://www.adespec.com.br/"
+        },
+        {
+            "cargo_funcao": "Adespec Saint-Gobain",
+            "empresa": "Comercial",
+            "periodo": "Abril/2009 - Março/2013",
+            "atividades_desenvolvidas": "Atendimento ao cliente, prospecção, vendas técnicas, alimentação de planilhas e relatórios, recebimento e acompanhamento de pedidos suporte a gerência, vendedores e representantes comerciais, participação em feiras e eventos.",
+            "link": "http://www.adespec.com.br/"
+        }
+    ],
+    "o_que_ja_estudei": [
+        {
+            "curso": "Tecnólogo em Gestão Comercial, Ciências Gerenciais",
+            "instituicao": "Universidade Nove de Julho ",
+            "periodo": "2008 a 2010",
+            "resumo_conhecimentos_aprendidos": "Econômia e finanças, tecnologias organizacionais, comércio e logística, estratégias de marketing, relações interpessoais, relacionamento com o cliente, tributação, legislação e ética."
+        },
+        {
+            "curso": "Desenvolvimento Fron-end",
+            "instituicao": "Reprograma",
+            "periodo": "Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": " UX Design, React.js, HTML, CSS, Javascript, Git & Github, Scrum, Bootstrap, JQuery e tecnologias assistivas. "
+        }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+        {
+            "interesse_evento_curso": "Node.js para iniciantes",
+            "instituicao": "Nodebr",
+            "resumo_conhecimentos_interesses": "Introdução a desenvolvimento de testes automatizados, Postgres e Bancos Relacionais,MongoDB e Bancos Não-Relacionais (NoSQL), Autenticação com Json Web Token, criação de APIs com Hapi.js   "
+        }
+    ],
+    "no_que_me_destaco": [
+        {
+            "habilidade_ferramenta": "HTML",
+            "pontuacao": 9
+        },
+        {
+            "habilidade_ferramenta": "CSS",
+            "pontuacao": 9
+        },
+        {
+            "habilidade_ferramenta": "SASS",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "JAVASCRIPT",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "JQUERY",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "NODE",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "GIT/GITHUB",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "BOOTSTRAP",
+            "pontuacao": 9
+        },
+        {
+            "habilidade_ferramenta": "REACT",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "RESPONSIVIDADE",
+            "pontuacao": 9
+        },
+        {
+            "habilidade_ferramenta": "UX DESIGN",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "WORDPRESS",
+            "pontuacao": 5
+        },
+        {
+            "habilidade_ferramenta": "PHP",
+            "pontuacao": 1
+        },
+        {
+            "habilidade_ferramenta": "MySQL",
+            "pontuacao": 1
+        },
+        {
+            "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "FTP",
+            "pontuacao": 5
+        },
+        {
+            "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "PHOTOSHOP",
+            "pontuacao": 1
+        },
+        {
+            "habilidade_ferramenta": "ILUSTRATOR",
+            "pontuacao": 1
+        },
+        {
+            "habilidade_ferramenta": "INDESIGN",
+            "pontuacao": 1
+        },
+        {
+            "habilidade_ferramenta": "INGLES",
+            "pontuacao": 7
+        }
+    ]
+}
