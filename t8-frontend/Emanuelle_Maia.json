@@ -1,0 +1,85 @@
+{
+    "nome_completo":"Emanuelle Maia Moreira",
+    "o_que_eu_quero":"Inserção no mercado com Desenvolvedora Front-end",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/emanuellemaia",
+    "link_github":"https://github.com/emamaia",
+    "email": "ema_maia@hotmail.com",
+
+    "um_pouco_sobre_mim":[
+
+        "Sou gaúcha, morei dez anos em Salvador, na Bahia, onde me formei em História. Fui professora por três anos, fiz mestrado e logo que concluí, mudei para São Paulo com meu marido. COm dificuldades de me inderir no mercado de trabalho na cidade, mudei de carreira e comecei o curso de bootcamp desenvoldedora front-end na Reprograma. Estou gostando muito de programar e tenho certeza que serei feliz nessa transição de carreira ", 
+        "Gosto das minhas gatas, de viajar, parques"
+       
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Professora",
+            "empresa":"Colégio Alicerce",
+            "periodo":"Ago/2012 a dez/2014",
+            "atividades_desenvolvidas": ": professora de História, Filosofia e Geografia – 14 horas semanais | atividades profissionais: elaboração de aulas, provas, para alunos do ensino fundamental II, todas as séries em História e Geografia, 6° e 7° em Filosofia.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Projeto Voluntário",
+            "empresa":"Reprograma - Cliente Fulano",
+            "periodo":"Jan/2017 a Dez/2018",
+            "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+            "link":"http://clientefulano.com.br"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Design Gráfico",
+            "instituicao":"Escola Tal",
+            "periodo":"Jan/2016 a Dez/2018",
+            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+        },
+        {
+            "curso": "Curso de Web Design",
+            "instituicao":"Escola Tal",
+            "periodo":"Jan/2015 a Dez/2015",
+            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso online de Javascript",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+        },
+        {
+            "interesse_evento_curso": "Curso ES6",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 1}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 8},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 9},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 3},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 3},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 8},
+        {"habilidade_ferramenta":"FTP", "pontuacao": 5},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 9},
+        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 9},
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 9}
+    ]
+}
