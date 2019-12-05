@@ -1,0 +1,81 @@
+{
+    "nome_completo":"Rebeca Marcos Vieira",
+    "o_que_eu_quero":"Ser desenvolvedora",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/rebecamarcosvieira/",
+    "link_github":"https://github.com/rebecamarcosvieira",
+    "email": "rebecamarcosvieira@icloud.com",
+
+    "um_pouco_sobre_mim":[
+        "Tenho 22 anos, faço ciencia da computação na USJT", 
+        "Já fiz técnico em informática na ETEC Jaragua, onde conheci java, css/html e C#" 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Assistente de relacionamento",
+            "empresa":"Fast Shop",
+            "periodo":"Nov 2017 a Set 2019",
+            "atividades_desenvolvidas": "Atendimento ao cliente, abertura de protocolo e tratativas; atendimento em redes sociais."
+            
+        },
+        {
+            "cargo_funcao": "Analista de backoffice",
+            "empresa":"Centauro (Personare RH)",
+            "periodo":"Nov 2019 a Jan 2020 - contrato temporario",
+            "atividades_desenvolvidas": "analise de protocolos, contato com areas internas;contato com clientes para dar resoluções de protocolos."
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Tecnico em informatica",
+            "instituicao":"ETEC Jaragua",
+            "periodo":"3 semestres",
+            "resumo_conhecimentos_aprendidos": "java, C#, banco de dados, html/css"
+        },
+        {
+            "curso": "Ciencia da computacao",
+            "instituicao":"USJT",
+            "periodo":"3 sem. - cursando"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso online de Javascript",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+        },
+        {
+            "interesse_evento_curso": "Curso ES6",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 1}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 8},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 9},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 3},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 3},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 8},
+        {"habilidade_ferramenta":"FTP", "pontuacao": 5},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 9},
+        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 9},
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 9}
+    ]
+}
