@@ -1,85 +1,94 @@
 {
     "nome_completo":"Daniela Beleze Karasawa",
-    "o_que_eu_quero":"Desenvolvedora Fullstack",
-    "cidade_estado:":"Campinas/SP ou São Paulo/SP",
+    "o_que_eu_quero":"Desenvolvedora Fullstack Junior",
+    "cidade_estado:":"São Paulo/SP",
     "link_linkedin": "https://www.linkedin.com/in/danielakarasawa",
     "link_github":"https://github.com/danikarasawa",
     "email": "danikarasawa@gmail.com",
 
     "um_pouco_sobre_mim":[
         "Produtora de Conteúdo Técnico (Mercado Automotivo) em transição de carreira para Desenvolvedora Fullstack", 
-        "Formada em Letras", 
-        "Nesse aqui você pode dizer o que você curte fazer",
-        "Fique a vontade, mas busque ser objetiva" 
+        "Formada em Letras (USP), com passagens pela Engenharia Mecânica (FEI e IFSP)", 
+        "Adoro falar em público, liderar pessoas, desenvolver projetos, debater e encontrar soluções, aprender e trocar experiências",
+        "A tecnologia é uma parceira de comunicação e para a solução de problemas do nosso contidiano para toda a sociedade ♥" 
     ],
 
     "no_que_ja_trabalhei":[
         {
-            "cargo_funcao": "Design Gráfica",
-            "empresa":"Empresa XPTO",
-            "periodo":"Jan/2017 a Dez/2018",
-            "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-            "link": null
+            "cargo_funcao": "[Voluntária] Mentora-anja",
+            "empresa":"{reprograma}",
+            "periodo":"Out~Dez/2019",
+            "atividades_desenvolvidas": "Acompanhamento de quatro alunas em dúvidas e sugestões técnicas durante o curso online de Front-end",
+            "link": "http://www.reprograma.com.br"
         },
         {
-            "cargo_funcao": "Projeto Voluntário",
-            "empresa":"Reprograma - Cliente Fulano",
-            "periodo":"Jan/2017 a Dez/2018",
-            "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-            "link":"http://clientefulano.com.br"
+            "cargo_funcao": "[Projeto Pessoal] Co-fundadora e Desenvolvedora Fullstack",
+            "empresa":"Dindelas Negócios Sociais",
+            "periodo":"Abr/2019~atual",
+            "atividades_desenvolvidas": "Desenvolvimento de MVP e teste em 2020 para fintech de crédito para mulheres empreendedoras periféricas. Mentorias e apoio intelectual dentro do Programa de Aceleração de Startups de Impacto Social da ADE SAMPA / Prefeitura de São Paulo",
+            "link":"http://adesampa.com.br/"
         }
     ],
 
     "o_que_ja_estudei":[
         {
-            "curso": "Design Gráfico",
-            "instituicao":"Escola Tal",
-            "periodo":"Jan/2016 a Dez/2018",
-            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+            "curso": "Back-end",
+            "instituicao":"{reprograma} + Mercado Livre",
+            "periodo":"Set~Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Criação de API - lógica de programação, Javascript básico, Github, MongoDB, Postman, Heroku. Noções de SCRUM e UX"
         },
         {
-            "curso": "Curso de Web Design",
-            "instituicao":"Escola Tal",
-            "periodo":"Jan/2015 a Dez/2015",
-            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+            "curso": "IT Business Partner",
+            "instituicao":"FIAP",
+            "periodo":"Out/2019",
+            "resumo_conhecimentos_aprendidos": "Análise de negócio, gestão de processos, acompanhamento de resoluções. Foco em pessoas"
+        },
+        {
+            "curso": "Engenharia Mecânica",
+            "instituicao":"FEI e IFSP",
+            "periodo":"Fev/2012~Abr/2016",
+            "resumo_conhecimentos_aprendidos": "Graduação em Engenharia Mecânica em ênfase em Automotibilístico"
+        },
+        {
+            "curso": "Letras / Japonês",
+            "instituicao":"Universidade de São Paulo (USP)",
+            "periodo":"Fev/1998~Dez/2001",
+            "resumo_conhecimentos_aprendidos": "Graduação em Língua e Literatura Japonesa com passagem pela Escola de Comunicações e Artes (ECA) na área de Jornalismo"
         }
     ],
 
     "meus_outros_aprendizados_e_interesses":[
         {
-            "interesse_evento_curso": "Curso online de Javascript",
-            "instituicao":"Udemy",
-            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+            "interesse_evento_curso": "Algoritmos I e II em JAVA",
+            "instituicao":"Alura",
+            "resumo_conhecimentos_interesses": "Introdução: estrutura, conceitos matemáticos e solução de problemas. Aplicação de análises e métodos. "
         },
         {
-            "interesse_evento_curso": "Curso ES6",
-            "instituicao":"Udemy",
-            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+            "interesse_evento_curso": "AWS Technical Essentials",
+            "instituicao":"AWS + Nubank",
+            "resumo_conhecimentos_interesses": "Treinamento inicial sobre a plataforma da Amazon com profissionais da empresa"
         }
     ],
 
     "no_que_me_destaco":[
-        {"habilidade_ferramenta":"HTML", "pontuacao":9},
-        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
-        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
-        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
-        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
-        {"habilidade_ferramenta":"NODE", "pontuacao": 1}, 
         {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
-        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
-        {"habilidade_ferramenta":"REACT", "pontuacao": 8},
-        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
-        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
-        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
-        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
-        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 9},
-        {"habilidade_ferramenta":"PHP", "pontuacao": 3},
-        {"habilidade_ferramenta":"MySQL", "pontuacao": 3},
         {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 8},
-        {"habilidade_ferramenta":"FTP", "pontuacao": 5},
         {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8},
-        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 9},
-        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 9},
-        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 9}
+        {"habilidade_ferramenta":"FTP", "pontuacao": 8},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 8},
+        {"habilidade_ferramenta":"ILLUSTRATOR", "pontuacao": 8},
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 7},
+        {"habilidade_ferramenta":"HTML", "pontuacao":7},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 7},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 7},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 7},        
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 7},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 7},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"NODEJS", "pontuacao": 6},        
+        {"habilidade_ferramenta":"REACT", "pontuacao": 5},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 5}        
     ]
 }
