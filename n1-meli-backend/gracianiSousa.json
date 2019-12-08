@@ -1,16 +1,15 @@
 {
     "nome_completo":"Graciani Sousa da Silva",
-    "o_que_eu_quero":"Descrição resumida sobre o que você deseja para sua carreira",
+    "o_que_eu_quero":"Nesta nova área de atuação, busco solucionar problemas e impactar positivamente a vida das pessoas, facilitando o seu dia a dia."
     "cidade_estado:":"São Paulo/SP",
     "link_linkedin": "https://www.linkedin.com/in/graciani-sousa-19822308a/",
     "link_github":"https://github.com/graciani23",
     "email": "gracianigss@gmail.com",
 
     "um_pouco_sobre_mim":[
-        "Aqui é um parágrafo descrevendo um pouco sobre você", 
-        "Aqui é outro parágrafo falando sobre sua trajetória", 
-        "Nesse aqui você pode dizer o que você curte fazer",
-        "Fique a vontade, mas busque ser objetiva" 
+        "Administradora por formação e apaixonada por tecnologia.", 
+        "Trabalhei sempre ao redor de equipes de TI, então, nesse ano de 2019, tomei a inciativa de dedicar-me exclusivamente a transição de carreira para a área de tecnologia.", 
+        "Tive o privilégio de ser escolhida para participar do BootCamp de Desenvolvimento Back-End na {Reprograma} e tenho participando de grupos e eventos que possam me aproximar desse objetivo.", 
     ],
 
     "no_que_ja_trabalhei":[
@@ -29,7 +28,7 @@
         {
             "cargo_funcao": "Assistente Administrativo",
             "empresa":"Coop. Regional de Cafeicultores em Guaxupé Ltda",
-            "periodo":"Jan/2017 a Dez/2018",
+            "periodo":"Nov/2004 a Mai/2014",
             "atividades_desenvolvidas":[
                 "Atuação no Projeto de implantação da Release 12 do ERP Oracle como usuário chave do módulo de venda OM e módulos de parametrização de campanhas de vendas, levantando requisitos e realizando testes junto às demais áreas para homologação dos processos.",
                 "Responsável pela formação / análise de preço de venda de máquinas e insumos agrícolas, implementando forma automatizada para inserção de novos preços e produtos, dando mais agilidade e segurança para as atualizações.",
