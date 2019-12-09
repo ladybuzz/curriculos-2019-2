@@ -81,6 +81,6 @@
         {"habilidade_ferramenta":"FIGMA", "pontuacao": 8},
         {"habilidade_ferramenta":"SAP", "pontuacao": 5},
         {"habilidade_ferramenta":"INGLÊS", "pontuacao": 9},
-        {"habilidade_ferramenta":"LINUX", "pontuacao": 6},
+        {"habilidade_ferramenta":"LINUX", "pontuacao": 6}
     ]
 }
