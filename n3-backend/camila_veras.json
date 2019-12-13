@@ -116,8 +116,8 @@
         {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 9},
         {"habilidade_ferramenta":"BDD", "pontuacao": 9},
         {"habilidade_ferramenta":"TDD", "pontuacao": 9},
-        {"habilidade_ferramenta":"NoSQL", "pontuacao": 9}
-        {"habilidade_ferramenta":"Python", "pontuacao": 6}
+        {"habilidade_ferramenta":"NoSQL", "pontuacao": 9},
+        {"habilidade_ferramenta":"Python", "pontuacao": 5}
 
         
     ]
