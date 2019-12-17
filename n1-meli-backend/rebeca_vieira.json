@@ -18,12 +18,6 @@
             "periodo":"Nov 2017 a Set 2019",
             "atividades_desenvolvidas": "Atendimento ao cliente, abertura de protocolo e tratativas; atendimento em redes sociais."
             
-        },
-        {
-            "cargo_funcao": "Analista de backoffice",
-            "empresa":"Centauro (Personare RH)",
-            "periodo":"Nov 2019 a Jan 2020 - contrato temporario",
-            "atividades_desenvolvidas": "analise de protocolos, contato com areas internas;contato com clientes para dar resoluções de protocolos."
         }
     ],
 
@@ -38,6 +32,11 @@
             "curso": "Ciencia da computacao",
             "instituicao":"USJT",
             "periodo":"3 sem. - cursando"
+        },
+                {
+            "curso": "desenvolvimento backend",
+            "instituicao":"{reprograma}",
+            "periodo":"14 semanas - concluído"
         }
     ],
 
@@ -48,34 +47,33 @@
             "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
         },
         {
-            "interesse_evento_curso": "Curso ES6",
+            "interesse_evento_curso": "logica de programação",
             "instituicao":"Udemy",
-            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+            "resumo_conhecimentos_interesses": "Entendimento sobre de programação e linguagens"
         }
     ],
 
     "no_que_me_destaco":[
-        {"habilidade_ferramenta":"HTML", "pontuacao":9},
-        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
-        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
-        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"HTML", "pontuacao":7},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 7},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 7},
         {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
-        {"habilidade_ferramenta":"NODE", "pontuacao": 1}, 
-        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
-        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
-        {"habilidade_ferramenta":"REACT", "pontuacao": 8},
-        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
-        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
-        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"NODE", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 6},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 7},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 7},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 8},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 7},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 7},
         {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
-        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 9},
-        {"habilidade_ferramenta":"PHP", "pontuacao": 3},
-        {"habilidade_ferramenta":"MySQL", "pontuacao": 3},
-        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 8},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 6},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 5},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 8},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 6},
         {"habilidade_ferramenta":"FTP", "pontuacao": 5},
-        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8},
-        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 9},
-        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 9},
-        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 9}
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 7},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 5},
+        {"habilidade_ferramenta":"Java", "pontuacao": 6},
+        {"habilidade_ferramenta":"C#", "pontuacao": 7}
     ]
 }
