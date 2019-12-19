@@ -1,0 +1,87 @@
+{
+    "nome_completo":"Caroline Cristina Jandoso",
+    "o_que_eu_quero":"Profissional em processo de transição de carreira buscando oportunidade para ingressar no mercado de tecnologia como Desenvolvedora Web Backend",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/caroljandoso/",
+    "link_github":"https://github.com/jandoso",
+    "email": "carol.jandoso@gmail.com",
+
+    "um_pouco_sobre_mim":[ 
+        "Desenvolvedora Web Backend Node.js","Bióloga formada pela Universidade de São Paulo - USP", 
+        "Primeira Sommèliere de Cervejas Brasileira formada na Inglaterra",
+        "Ex bolsista do programa Ciência sem Fronteiras (CsF) na University College Cork (UCC) - Irlanda",
+        "Apaixonada por tecnologia, fermentação e natureza" 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Sommelière de Cervejas e Cervejeira Auxiliar",
+            "empresa":"A Tutta Birra - Birrificio Artiginale",
+            "periodo":"Jan/2019 a Set/2019",
+            "atividades_desenvolvidas": "Desenvolvimento de receitas, análise sensorial e controle de qualidade, treinamento de equipes e atendimento ao cliente",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Sommelière de Cervejas e Estagiária em Produção de Cervejas",
+            "empresa":"Cervejaria Leuven",
+            "periodo":"Jun/2016 a Abr/2017",
+            "atividades_desenvolvidas": "Auxiliar no processo de produção de cervejas, inoculação do fermento cervejeiro e controle do processo de fermentação e maturação, treinamento de equipes",
+            "link": null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Desenvolvimento Web Backend Node.js",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Node.js, MongoDB, Express, SCRUM, UX"
+        },
+        {
+            "curso": "Desenvolvimento Web Frontend - Online",
+            "instituicao":"Reprograma",
+            "periodo":"Mar/2019 a Mai/2019",
+            "resumo_conhecimentos_aprendidos": "HTML, CSS, Bootstrap, JQuery"
+        },
+        {
+            "curso": "Bacharelado em Ciências Biológicas",
+            "instituicao":"Universidade de São Paulo - USP",
+            "periodo":"Fev/2013 a Ago/2018"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso online de Node.js, Express, MySQL e MongoDB",
+            "instituicao":"Guia do Programador",
+            "resumo_conhecimentos_interesses": "Conceitos básicos de Node.js, Express e desenvolvimento de aplicação utilizando MySQL e MongoDB"
+        },
+        {
+            "interesse_evento_curso": "Banco de Dados MySQL",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Conceitos básicos sobre o banco de dados MySQL, tanto utilizando o terminal quando o Workbench"
+        },
+        {
+            "interesse_evento_curso": "SCRUM Fundamentals Certified",
+            "instituicao":"SCRUMstudy",
+            "resumo_conhecimentos_interesses": "Conceitos básicos sobre o framework de metodologia ágil SCRUM"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"NODE", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"MongoDB", "pontuacao": 7},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 7},
+        {"habilidade_ferramenta":"HTML", "pontuacao":7},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 7},
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 6},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 6},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 5}, 
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 5},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 5},
+        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 5},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 4}
+    ]
+}
