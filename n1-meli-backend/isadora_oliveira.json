@@ -1,0 +1,109 @@
+{
+    "nome_completo":"Isadora Mendonça de Oliveira",
+    "o_que_eu_quero":"Almejo trabalhar como desenvolvedora Backend",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/isadora-mendon%C3%A7a-de-oliveira/",
+    "link_github":"https://github.com/isadoraora",
+    "email": "seuemail@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Sou comunicativa, apaixonada por tecnologia e movida por desafios. Acredito que um time é como uma família, devemos crescer juntos, nos apoiar.", 
+        "Formada em Letras lá em 2008 mas a paixão pela tecnologia prevaleceu e me formei em Análise e Desenvolvimento de Sistemas, em 2017. Trabalhei com suporte in game e Business Intelligence mas sempre soube que minha praia é codar.", 
+        "Gosto muito de estudar e entender as coisas a fundo, de maratonar séries e sair com meus amigos e irmão." 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Analista de dados jr",
+            "empresa":"Privalia",
+            "periodo":"Fev/2019 a Ago/2019",
+            "atividades_desenvolvidas": "Desenvolvia kpi´s para a área de Customer Experience, canais: e_mail, chat, telefone e backoffice. Utilizando ferramentas como MicroStrategy, Heidi e PowerBi",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Trainee de sistemas",
+            "empresa":"Indra - cliente Santander",
+            "periodo":"Out/2017 a Fev/2019",
+            "atividades_desenvolvidas": "Prestava serviço para o Satander, na área de B.I. Desenvolvendo relatórios e sistemas em Power Center, criação de malhas e participação em implantações.",
+            "link":null
+        },{
+            "cargo_funcao": "Pipa Studios",
+            "empresa":"Analista de atendimento 2.0",
+            "periodo":"Jun/2014 a Mar/2017",
+            "atividades_desenvolvidas": "Atendimento in game para jogadores do Praia Bingo e Casino Magic. Realizava ações nas salas de bate-papo e atendimento por chat, e-mail e Facebook.",
+            "link":null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Business Intelligence com ênfase em Big Data",
+            "instituicao":"Faculdade Impacta de Tecnologia ",
+            "periodo":"Out/2017 a Jun/2019",
+            "resumo_conhecimentos_aprendidos": "Análise de dados, criação de relatórios e conceitos de Big Data, utilizando, por exemplo, Jupyter."
+        },
+        {
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "instituicao":"Universidade de Mogi das Cruzes - campus Lapa",
+            "periodo":"Ago/2015 a Jun/2017",
+            "resumo_conhecimentos_aprendidos": "Técnologo voltado para análise e desenvolvimento de sistemas. De algoritmos a desenvolvimento de um sistema WEB, como entreda de TCC."
+        },{
+            "curso": "Estágio de férias no Walt Disney World",
+            "instituicao":"Walt Disney World - Florida",
+            "periodo":"Out/2009 a Jan/2010",
+            "resumo_conhecimentos_aprendidos": "Estágio no hotel Pop Century, dentro do complexo Disney."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso de Backend",
+            "instituicao":"{reprograma}",
+            "resumo_conhecimentos_interesses": "Bootcamp de Backend,(245 horas), voltado para aprendizado de: Api Rest, MongoDB, NodeJs e JWT."
+        },
+        {
+            "interesse_evento_curso": "Curso online de NodeJS, MongoDB e Api Rest",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Criação de uma API utilizando o conceito Rest e armazenamento no banco MongoDB."
+        },
+        {
+            "interesse_evento_curso": "Scrum Fundamentals Certified",
+            "instituicao":"SCRUMstudy ",
+            "resumo_conhecimentos_interesses": "Scrum e metodologias ágeis."
+        },
+        {
+            "interesse_evento_curso": "Git e GitHub",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Curso básico em comandos e versionamentos."
+        },
+        {
+            "interesse_evento_curso": "Sites dinâmicos utilizando PHP",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Construindo um site dinâmico com a linguagem PHP."
+        },
+        {
+            "interesse_evento_curso": "JavaScript e JQuery",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Curso livre utilizando/aprendendo JS e JQuery"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"NODEJS", "pontuacao":9},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 9},
+        {"habilidade_ferramenta":"REST API", "pontuacao": 9},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 9},
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 7},
+        {"habilidade_ferramenta":"HTML", "pontuacao": 5},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 5},
+        {"habilidade_ferramenta":"MYSQL", "pontuacao": 8},
+        {"habilidade_ferramenta":"JAVA", "pontuacao": 8},
+        {"habilidade_ferramenta":"POSTAMN", "pontuacao": 7},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 8},
+        {"habilidade_ferramenta":"PHP ", "pontuacao": 6},
+        {"habilidade_ferramenta":"ROBO3T", "pontuacao": 6},
+        {"habilidade_ferramenta":"RUBY", "pontuacao": 5}
+
+    ]
+}
