@@ -1,0 +1,122 @@
+{
+    "nome_completo":"Natalia de Jesus Silva",
+    "o_que_eu_quero":"Busco desafios para minha carreira e pretendo assumir uma vaga na área de TI como desenvolvedora back end, onde eu possa me desenvolver profissionalmente e contribuir para os resultados da organização.",
+    "cidade_estado:":"Osasco/SP",
+    "link_linkedin": "www.linkedin.com/in/nataliajsilva/",
+    "link_github":"https://github.com/nataliajsilva",
+    "email": "nataliajsilva2@outlook.com",
+
+    "um_pouco_sobre_mim":[
+        "Sou capricorniana, tenho uma irmã gemêa, sou apaixonada por filmes e séries e tenho uma coleção de minions.", 
+        "Comecei a trabalhar com 20 anos, sempre busquei absorver o máximo de conhecimento possível, dar o meu máximo exercendo o meu papel, trocando conhecimento e experiências com os colegas de trabalho.", 
+        "Gosto de estar com a minha família, brincar com meu filho de quatro patas Drax, estudar e assistir filmes e séries." 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Analista de negócios Pleno",
+            "empresa":"Tema Sistema SA - Cliente XP Investimentos",
+            "periodo":"Jan/2019 a Out/2019",
+            "atividades_desenvolvidas": 
+            "Suporte aos usuários do software de Back Office de mercado de capitais (Fundos e Carteira Administrativa); Resolução dos incidentes abertos na plataforma Zendesk; Realização de levantamento de requisitos e especificações funcionais; Validação e abertura de tasks do projeto, no software VSTS; Execução de consultas no SQL Server; Utilização da metodologia Scrum.",
+            "link": "https://www.temasistemas.com.br/"
+        },
+        {
+            "cargo_funcao": "Analista de implantação de sistemas Pleno",
+            "empresa":"Brasil Risk Gerenciamento de Risco e Logístico",
+            "periodo":"Jun/2015 a Jan/2019",
+            "atividades_desenvolvidas": "Implantação de software logístico, agindo na realização de mapeamentos, ministração de treinamentos e levantamento de requisitos; Realização de abertura de User Story e task no software TFS; Prototipação de telas (web) através do Balsamiq Mockups e Power Point; Suporte ao cliente, incluindo o acompanhamento das fases de pós-implantação, buscando soluções, gerenciamento de situações crítica e status report do projeto; Utilização da ferramenta SQL Server para parametrização e manipulação de dados, utilizando os comandos de consultas, alteração e inclusão de dados; Apoio à equipe de atendimento ao cliente sobre as regras de negócio,incluindo o gerenciamento do atendimento (telefone e e-mail); Elaboração de análises diárias, identificando inconformidades para abertura de tasks, garantindo a eficiência das funcionalidades e a satisfação dos clientes; Realização de Sprint Planning, gerenciamento de Backlog, garantindo as entregas no prazo; Utilização da metodologia Scrum; ",
+            "link":"https://brasilrisk.com.br/"
+        },
+        {
+            "cargo_funcao": "Operadora de Monitoramento Logístico",
+            "empresa":"Brasil Risk Gerenciamento de Risco e Logístico",
+            "periodo":"Fev/2015 a Jun/2019",
+            "atividades_desenvolvidas": "Registro de ocorrências nas notas fiscais referente a devoluções dos produtos, através do sistema web oferecido pelo cliente Procter & Gamble; Elaboração de indicadores e SLA's dos transportadores; Atendimento através de telefone e e-mails.",
+            "link":"https://brasilrisk.com.br/"
+        },
+        {
+            "cargo_funcao": "Operadora de Monitoramento de risco",
+            "empresa":"Brasil Risk Gerenciamento de Risco e Logístico",
+            "periodo":"Jun/2014 a Fev/2015",
+            "atividades_desenvolvidas": "Monitoramento de viagens, através da tecnologia de rastreamento Autotrac; Envio de comandos para o caminhão e macros (mensagens) para comunicação com o motorista durante a viagem; Atendimento de telefone; Registro de ocorrências através de software web para ciência da gestão e cliente.",
+            "link":"https://brasilrisk.com.br/"
+        }
+
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp Desenvolvedora Back End",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Lógica de programação, javascript, api, mongoDB, node.js, conhecimentos básicos de metodologias ágeis, user experience, orientação e mentoria profissional"
+        },
+        {
+            "curso": "Tecnólogo Análise e Desenvolvimento de Sistemas",
+            "instituicao":"Unip",
+            "periodo":"Jan/2017 a Dez/2018",
+            "resumo_conhecimentos_aprendidos": "Projetar, documentar, especificar, implementar, testar, implantar e manter sistemas computacionais de informação."
+        },
+        {
+            "curso": "Técnico em Logística",
+            "instituicao":"ETEC André Bogasian",
+            "periodo":"Jan/2015 a Jun/2016",
+            "resumo_conhecimentos_aprendidos": "Executar e colaborar na gestão dos processos de planejamentos, operações e controles de programação da produção de bens e serviços, programação de manutenção de máquinas e de equipamentos, de compras, de recebimento, de armazenamento, de estoques, de movimentação, de expedição, transporte e distribuição de materiais e produtos, utilizando tecnologia de informação. Prestar atendimento aos clientes. Implementar os procedimentos de controle de custos, qualidade, segurança e higiene do trabalho no sistema logístico."
+        },
+        {
+            "curso": "Técnico em Eventos",
+            "instituicao":"ETEC São Paulo",
+            "periodo":"Jan/2012 a Jun/2013",
+            "resumo_conhecimentos_aprendidos": "Auxiliar e atuar na prospecção, no planejamento, na organização, na coordenação e na execução dos serviços de apoio técnico e logístico de eventos e cerimoniais, utilizando o protocolo e etiqueta formal. Recepcionar e promover serviços de eventos. Planejar e participar da confecção de ornamentos decorativos. Coordenar o armazenamento e manuseio de gêneros alimentícios servidos em eventos. Realizar procedimentos administrativos e operacionais relativos a eventos."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso Banco de dados MYSQL",
+            "instituicao":"SENAI",
+            "resumo_conhecimentos_interesses": "Modelar, extrair e manipular dados em bancos de dados relacionais. Realizar operações de inserção, deleção, atualização e seleção, com foco na geração de relatórios e junção de dados."
+        },
+        {
+            "interesse_evento_curso": "Curso online - Introdução à gestão de projetos",
+            "instituicao":"Fundação Bradesco",
+            "resumo_conhecimentos_interesses": "Regras e boas práticas estabelecidas para se realizar projetos da melhor forma possível, independentemente do tamanho e complexidade deles. Apresentação dos conceitos fundamentais referentes ao tema, com destaque para a definição e caracterização do termo “projeto” e da apresentação do ciclo de vida dos projetos e das nove áreas do conhecimento, definidas pelo Project Management Institute (PMI), instituição internacional que se dedica ao estudo e à disseminação dos melhores métodos e técnicas de gerenciamento de projetos."
+        },
+        {
+            "interesse_evento_curso": "Curso online - Projetos de Sistemas de TI",
+            "instituicao":"Fundação Bradesco",
+            "resumo_conhecimentos_interesses": "Apresentação de metodologias por meio das quais é possível projetar sistemas complexos e, também, conhecimentos sobre itens fundamentais para projetar sistemas de TI, tais como o levantamento de requisitos e a construção de diagramas de fluxo de dados (DFD)."
+        },
+        {
+            "interesse_evento_curso": "Curso online - Gestão de projetos 1-Como trabalhar com projetos? ",
+            "instituicao":"Fundação Bradesco",
+            "resumo_conhecimentos_interesses": "Conhecimentos básicos sobre gerenciamento de projetos: conceituação, identificação dos fatores que influenciam a demanda por planejamento dos projetos, reconhecimento de seus principais benefícios na organização e dos fatores essenciais para  o sucesso de um prjeto, focando no ciclo de vida e projetos como área de especialização, conforme o PMBOK."
+        },
+        {
+            "interesse_evento_curso": "Curso online - Gestão de projetos 2-Como iniciar o trabalho com projetos? ",
+            "instituicao":"Fundação Bradesco",
+            "resumo_conhecimentos_interesses": "Apresentar conceitos que o ajudarão a compreender como se inicia um projeto e também quais as principais funções de um gerente de projetos, que são planejar,organizar, liderar, monitorar e controlar."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 3},
+        {"habilidade_ferramenta":"NODE", "pontuacao": 3}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 5},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 7},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 5},
+        {"habilidade_ferramenta":"Pacote Office", "pontuacao": 6},
+        {"habilidade_ferramenta":"Team Foudation Server", "pontuacao": 5},
+        {"habilidade_ferramenta":"Bizagi", "pontuacao": 4},
+        {"habilidade_ferramenta":"Prezi", "pontuacao": 7},
+        {"habilidade_ferramenta":"SQL Server", "pontuacao": 5},
+        {"habilidade_ferramenta":"HTML", "pontuacao": 3},
+        {"habilidade_ferramenta":"API", "pontuacao": 3},
+        {"habilidade_ferramenta":"MongoDB", "pontuacao": 4},
+        {"habilidade_ferramenta":"Omnilink", "pontuacao": 7},
+        {"habilidade_ferramenta":"Sascar", "pontuacao": 7},
+        {"habilidade_ferramenta":"Autotrac", "pontuacao": 7},
+        {"habilidade_ferramenta":"Onixsat", "pontuacao": 7}
+    ]
+}
