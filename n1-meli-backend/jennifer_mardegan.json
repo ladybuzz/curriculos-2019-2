@@ -1,0 +1,89 @@
+{
+    "nome_completo":"Jennifer Gosso Mardegan",
+    "o_que_eu_quero":"Ter experiência com programação, e trabalhar na área de Ciência de Dados",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/jennifermardegan/",
+    "link_github":"https://github.com/jennimardegan",
+    "email": "jennifer_mardegan@hotmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Sou formada em Engenharia Mecânica e sempre me interessei por tecnologia.", 
+        "Atualmente estou fazendo pós graduação na área de Indústria 4.0 no SENAI,", 
+        "sou aluna de Ciência de Dados e trabalho como programadora em uma startup de crédito imobiliário."
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Programadora Junior",
+            "empresa":"Credihome",
+            "periodo":"Dez/2019 a atual",
+            "atividades_desenvolvidas": "Participação junto à equipe de desenvolvimento da elaboração de fluxos de trabalho e telas para o sistema interno da empresa.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Engenheira Mecânica",
+            "empresa":"JBS S/A",
+            "periodo":"Nov/2012 a Nov/2018",
+            "atividades_desenvolvidas": "Elaboração e realização de treinamentos para novos integrantes da equipe de planejamento referentes ao sistema interno de gestão ERP e procedimentos, realizando posteriormente auditoria dos mesmos. Responsável pelo gerenciamento de melhorias do sistema ERP e pelo monitoramento dos indicadores de performance da área de manutenção.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Estagiária",
+            "empresa":"IPT - Instituto de Pesquisas Tecnológicas de SP",
+            "periodo":"Jul/2010 a Dez/2011",
+            "atividades_desenvolvidas": "Elaboração de planilhas e relatórios de conformidade para ensaios técnicos de aquecedores solares de água.",
+            "link": null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Desenvolvedora Backend",
+            "instituicao":"{reprograma}",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Estruturação de uma API em Javascript e NodeJS com método CRUD, conexão com banco de dados não relacional MongoDB, autenticação com bcyptjs"
+        },
+        {
+            "curso": "Pós Graduação - Indústria 4.0",
+            "instituicao":"SENAI",
+            "periodo":"Jan/2019 a Dez/2020",
+            "resumo_conhecimentos_aprendidos": "Estudo das ramificações da Indústria 4.0, como IoT, Big Data, Rastreabilidade na produção, etc."
+        },
+        {
+            "curso": "Graduação - Engenharia Mecânica",
+            "instituicao":"Universidade Mackenzie",
+            "periodo":"Jan/2007 a Dez/2011",
+            "resumo_conhecimentos_aprendidos": "Bases de matemática, física, cálculo e programação. Matériais mais específicas à graduação como resistência dos materiais, cálculo de fluidos, robótica, etc."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso online de Ciência de dados",
+            "instituicao":"Data Science Academy",
+            "resumo_conhecimentos_interesses": "Linguagem R e estatística, Python, BI, Machine Learning"
+        },
+        {
+            "interesse_evento_curso": "Curso online React",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe do Javascript junto ao React para noções de Front End"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 9},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"NODEJS", "pontuacao": 7},
+        {"habilidade_ferramenta":"SCRUM", "pontuacao": 6},
+        {"habilidade_ferramenta":"C/C++", "pontuacao": 5},
+        {"habilidade_ferramenta":"R", "pontuacao": 5},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 3},
+        {"habilidade_ferramenta":"SQLServer", "pontuacao": 3},
+        {"habilidade_ferramenta":"HTML", "pontuacao":2},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 2},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 2}
+
+
+
+    ]
+}
