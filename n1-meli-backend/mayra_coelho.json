@@ -1,0 +1,96 @@
+{
+    "nome_completo": "Mayra de Carvalho Coelho",
+    "o_que_eu_quero": "Movida a desafios, estou determinada em evoluir na carreira de desenvolvimento de sistemas e conquistar ótimas oportunidades em empresas que investem em tecnologia.",
+    "cidade_estado:": "Guarulhos/SP",
+    "link_linkedin": "https://www.linkedin.com/in/mayraccoelho/",
+    "link_github": "https://github.com/mayraccoelho",
+    "email": "mayraccoelho@gmail.com",
+    "um_pouco_sobre_mim": [
+        "Desenvolvedora back-end formada pela {reprograma}, cursando também segunda graduação em análise e desenvolvimento de sistemas. Atualmente estagiando em capacidade e performance de sistemas utilizando a ferramenta JMeter."
+    ],
+    "no_que_ja_trabalhei": [
+        {
+            "cargo_funcao": "Estagiária Capacidade e Performance",
+            "empresa": "Sempre IT",
+            "periodo": "Abr/2019 - Atual",
+            "atividades_desenvolvidas": "- Análise de sistema com ênfase em performance, análise de logs,planejamento, criação e execução de stress test, teste de performance utilizando ferramenta JMeter",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Assistente Administrativo",
+            "empresa": "Hair Shop Estética Capilar",
+            "periodo": "Jan/2013 a Set/2018",
+            "atividades_desenvolvidas": "Gerenciamento do fluxo de produção, pedidos, vendas, controle de estoque, emissão de NF-e, mapeamento de processos de vendas e pedidos, gestão de equipe, produção e edição de fotos para loja virtual, marketing de redes sociais (planejamento e execução), logística operacional e organizacional",
+            "link": "http://www.hairshoponline.com.br"
+        },
+        {
+            "cargo_funcao": "Gestora de Imagem",
+            "empresa": "Equipe Ana Paula Minerato",
+            "periodo": "Set/2015 a Dez/2015",
+            "atividades_desenvolvidas": "- Responsável pela gestão de imagem da finalista Ana Paula Minerato para o reality show A Fazenda, criação e gestão de campanhas nas redes sociais (Facebook, Twitter, Instagram, YouTube), coordenação da equipe de atuação, alcance de mais de 1 milhão de seguidores",
+            "link": "http://www.instagram.com/apminerato"
+        }
+    ],
+    "o_que_ja_estudei": [
+        {
+            "curso": "Formação back-end",
+            "instituicao": "Reprograma",
+            "periodo": "Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Lógica de Programação, HTML/CSS, Javascript, API Rest, Scrum/UX, NodeJs, MongoDB."
+        },
+        {
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "instituicao": "ENIAC",
+            "periodo": "Jan/2019 a Dez/2022",
+            "resumo_conhecimentos_aprendidos": "Raciocínio lógico, emprego de linguagens de programação e de metodologias de construção de projetos, preocupação com a qualidade, usabilidade, robustez, integridade e segurança de programas computacionais são fundamentais à atuação deste profissional."
+        },
+        {
+            "curso": "Tecnologia em Transporte Aéreo",
+            "instituicao": "UNG - Universidade Guarulhos",
+            "periodo": "Jun/2011 a Jul/2013",
+            "resumo_conhecimentos_aprendidos": "Aeroportos, conhecimentos gerais da atividade aérea, fisiologia humana a atividade aérea, meteorologia, logística, navegação visual e por instrumentos, entre outros."
+        }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+        {
+            "interesse_evento_curso": "Curso de JavaScript Moderno do básico ao avançado",
+            "instituicao": "Udemy",
+            "resumo_conhecimentos_interesses": "Javascript moderno (ES6+), front-end e back-end (NodeJS, Express, SQL e noSQL e React) para desenvolvedores full stack."
+        },
+        {
+            "interesse_evento_curso": "Seja Full-Stack com Vue JS + ASP.NET Core Web API + EF Core",
+            "instituicao": "Udemy",
+            "resumo_conhecimentos_interesses": "Criando aplicações SPA utilizando VUE JS com WEB API ASP.NET Core 2 e Banco de Dados! Ou seja Angular + React = VUE JS"
+        }
+    ],
+    "no_que_me_destaco": [
+        {
+            "habilidade_ferramenta": "HTML",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "CSS",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "JAVASCRIPT",
+            "pontuacao": 5
+        },
+        {
+            "habilidade_ferramenta": "NODE",
+            "pontuacao": 5
+        },
+        {
+            "habilidade_ferramenta": "GIT/GITHUB",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+            "pontuacao": 5
+        },
+        {
+            "habilidade_ferramenta": "JMeter",
+            "pontuacao": 5
+        }
+    ]
+}
