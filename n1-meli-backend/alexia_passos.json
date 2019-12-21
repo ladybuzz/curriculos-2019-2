@@ -1,0 +1,86 @@
+{
+    "nome_completo":"Alexia Gonçalves dos Passos",
+    "o_que_eu_quero":"Descrição resumida sobre o que você deseja para sua carreira",
+    "cidade_estado:":"Bragança Paulista/SP",
+    "link_linkedin": "https://www.linkedin.com/in/alexia-passos-664757111/",
+    "link_github":"https://github.com/Alexia-Passos",
+    "email": "alexia.gpassos@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Formada em Serviço Social há 6 anos, no momento estou em processo de transição de carreira", 
+        "No momento atuo como Desenvolvedora Front-End, contudo já atuei em dois cargos de coordenação durante minha vida profissional", 
+        "Gosto de Leitura, jardinagem, e me interesso muito na aprendizagem continua tanto de Front-End quanto de Back-End" 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Analista de Sistema Trainee NII",
+            "empresa":"Accurate Software",
+            "periodo":"Nov/2019 a",
+            "atividades_desenvolvidas": "Desenvolvimento Front-End, sendo utilizados recursos como JavaScrip | React | NodeJS |",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Coordenadora do Centro de Referência em Assistência Social",
+            "empresa":"Prefeitura Municipal de Bragança Paulista",
+            "periodo":"Jun/2017 a Maio/2019",
+            "atividades_desenvolvidas": "Coordenação do Serviço de Proteção Social Básica no Municipio de Bragança Paulista",
+            "link": null
+        }
+        {
+            "cargo_funcao": "Assistente Social Jr.",
+            "empresa":"Prefeitura Municipal de Bragança Paulista",
+            "periodo":"Jul/2014 a Jun/2017",
+            "atividades_desenvolvidas": "Atendimento a demnadas de vulnerabilidade social no Serviço de Proteção Social Básica no Municipio de Bragança Paulista",
+            "link": null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp Reprograma Meli - Back-End",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Curso Back-End "
+        },
+        {
+            "curso": "Curso Superior Serviço Social",
+            "instituicao":"UNISFESP - Universidade Federal de São Paulo",
+            "periodo":"Jan/2010 a Dez/2013",
+            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso online de Javascript",
+            "instituicao":"Alura",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica ao avançado do Javascript"
+        },
+        {
+            "interesse_evento_curso": "Curso online de Lógica de Programação",
+            "instituicao":"Alura",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básico sobre Lógica de Programação"
+        },
+        {
+            "interesse_evento_curso": "Curso Node JS e MongoDB",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe do Node JS e MongoDB"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":8},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 8},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 6},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 8},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 7},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 7}
+    ]
+}
