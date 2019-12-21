@@ -1,0 +1,83 @@
+{
+    "nome_completo":"Dara França de Medeiros",
+    "o_que_eu_quero":"Atuar com desenvolvimento de software para plataformas Web e Mobile e ampliar meus conhecimentos de API REST com Node.js, JavaScript e banco de dados.",
+    "cidade_estado:":"Carapicuíba/SP",
+    "link_linkedin": "https://www.linkedin.com/in/dara-medeiross/",
+    "link_github":"https://github.com/daramedeiros",
+    "email": "developerdaramedeiros@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Aprendi a adquirir conhecimentos de forma autodidata, sempre buscando relacionar áreas diferentes. Nessa jornada, eu me descobri na área da tecnologia, por causa da autenticidade e visão de futuro fundamentais para o desenvolvimento de aplicações. Em termos práticos, comecei a trabalhar com 16 anos, o que me fez desenvolver um senso de responsabilidade muito cedo e me preparou para diversos segmentos de mercado.", 
+
+        "Desde meados de 2018, atuo na área de tecnologia graças a comunidade de {reprograma} na qual eu possuo duas formações de bootcamp (Front-end JavaScript e Back-end com Node.js). Tenho experiência como front-end jr na Smiles por 11 meses e como Web Developer na Accenture por 6 meses.", 
+
+        "Eu tenho interesse por assuntos de impacto social, sou curiosa por natureza e gosto de estar constantemente aprendendo e sendo desafiada. Sou uma eterna estudante e um tanto interessada por criminologia. Gosto de viajar, sou amante do mar e música é a minha terapia."
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Web Developer",
+            "empresa":"Accenture",
+            "periodo":"Jun/2019 a Nov/2019",
+            "atividades_desenvolvidas": "Desenvolvimento de novas páginas promocionais para o clinte TIM Brasil; realização de talks diárias voltadas para ajustes no site.",
+            "link": "https://www.tim.com.br/sp/para-voce"
+        },
+        {
+            "cargo_funcao": "Desenvolvedora Front-End ",
+            "empresa":"Sponsor Biz| Smiles",
+            "periodo":"Jul/2018 a Mai/2019",
+            "atividades_desenvolvidas": "Atuei no time de UX do marketing interno na Smiles, buscando trabalhar sempre com o propósito de facilitar a comunicação com o cliente. Desenvolvia e-mails marketing e landing pages, pensando sempre em mobile first e nas boas práticas.",
+            "link":"https://www.smiles.com.br/home"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Análise e desenvolvimento de Sistemas",
+            "instituicao":"Faculdade Cruzeiro do Sul",
+            "periodo":"Ago/2016 a Dez/2021",
+            "resumo_conhecimentos_aprendidos": "Criação de projetos de desenvolvimento de software, capacitação necessária para a análise, desenvolvimento, implantação, avaliação, documentação e manutenção de sistemas computacionais."
+        },
+        {
+            "curso": "Bootcamp de formação Back-end",
+            "instituicao":"{reprograma}",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Criação de API REST com Node.JS, integração com banco de dados MongoDB e metodologia agíl Scrum."
+        },
+        {
+            "curso": "Bootcamp de formação Front-end",
+            "instituicao":"{reprograma}",
+            "periodo":"Fev/2018 a Jun/2018",
+            "resumo_conhecimentos_aprendidos": "Criação de projetos de desenvolvimento web (landing page) com HTML5, CSS3, JavaScript, Bootstrap e Jquery"
+        }
+=
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Node.js para iniciantes",
+            "instituicao":"NodeBR Org",
+            "resumo_conhecimentos_interesses": "Sincronia de funções JavaScript(Callbacks , Promises, Eventemitter e Observables); Manipulação de listas;Criando ferramenta de linha de comando (Node.js além da web); Trabalhando com múltiplos Banco de Dados | Introdução a Design Patterns; Criar aplicações com Happy.js; Documentação automática de serviços com Swagger, NodeJS e Web Serviços; Autenticação com JSON Web Token; Publicação de serviços web."
+        },
+        {
+            "interesse_evento_curso": "Java e Orientação a Objetos",
+            "instituicao":"Caelum",
+            "resumo_conhecimentos_interesses": "Entendimento sobre orientação a objetos com Java"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"NODE", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 7},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 7},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 6},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"MONGO DB", "pontuacao": 6},
+        {"habilidade_ferramenta":"DOCUMENTAÇÃO DE APLICAÇÃO", "pontuacao": 6}
+        {"habilidade_ferramenta":"JAVA", "pontuacao": 5}
+    ]
+}
