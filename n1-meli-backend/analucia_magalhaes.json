@@ -1,0 +1,71 @@
+{
+    "nome_completo":"Ana Lucia Solidade Ribeiro de Magalhães",
+    "o_que_eu_quero":"Após a conclusão do bootcamp, desejo continuar aprendendo mais sobre desenvolvimento backend e atuar na área",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/ana-lucia-magalh%C3%A3es-4b729a18b/",
+    "link_github":"https://github.com/analucia-bk",
+    "email": "solidade.analucia@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Aqui é um parágrafo descrevendo um pouco sobre você", 
+        "Aqui é outro parágrafo falando sobre sua trajetória", 
+        "Nesse aqui você pode dizer o que você curte fazer",
+        "Fique a vontade, mas busque ser objetiva" 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Salesforce Trainee",
+            "empresa":"Appirio, a Wipro Company",
+            "periodo":"Nov/2019 - atual",
+            "atividades_desenvolvidas": "Atualmente estou em treinamento no Trailhead para conhecer mais da plataforma, aprendendo as funcionalidades básicas de admin e desenvolvedor. Em breve farei a prova da primeira Certificação para Administradores",
+            "link": "https://trailblazer.me/id?_ga=2.18696304.878759605.1576934492-704121832.1576333838"
+        },
+        {
+            "cargo_funcao": "Arte Educadora",
+            "empresa":"Fábricas de Cultura da Cidade de São Paulo",
+            "periodo":"Abril/2019 - Agosto/2019",
+            "atividades_desenvolvidas": "Oficinas de videomapping para os alunos das fábricas de cultura"
+            
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "instituicao":"Faculdades Metropolitanas Unidas",
+            "periodo":"Agosto/2019 - atual",
+            "resumo_conhecimentos_aprendidos": "Lógica de programação, teoria de sistemas, matemática"
+        },
+        {
+            "curso": "Bacharelado em Audiovisual",
+            "instituicao":"Centro Universitário Senac",
+            "periodo":"Fev/2015 a Dez/2017",
+            "resumo_conhecimentos_aprendidos": "Edição de vídeo, roteiro, fotografia"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "The Web Developer Bootcamp",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Bootcamp de desenvolvimento fullstack"
+        },
+        {
+            "interesse_evento_curso": "Java Completo 2020 - Programação Orientada a Objetos + Projetos",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Conhecimentos básicos de intermediários em Java"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":7},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 6},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 5}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 6},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVA", "pontuacao": 4}
+    ]
+}
