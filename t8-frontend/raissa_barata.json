@@ -1,0 +1,108 @@
+{
+    "nome_completo":"Raissa Maria Silva Barata",
+    "o_que_eu_quero":"Me tornar uma desenvolvedora de referência não apenas na parte técnica , trabalhando em um lugar alinhado com meus valores, e fazedo a diferença no âmbito social.",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/raissa-barata-6bb58b169/",
+    "link_github":"https://github.com/raissamariab",
+    "email": "raissamaria.sb@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Venho de Recife, sou bióloga e agora desenvolvedora front-end. Meu lema é começar sempre dizendo que sou apaixonada por pessoas, meio ambiente e tecnologia. Acredito que todos nós temos que crescer mas ajudar o máximo de pessoas a crescerem conosco.",
+
+        "Sou apaixonada pelo mar, e acho incrível como consigo interligar com a tecnologia tudo que eu aprendi tanto em meus voluntariados quanto com os meus projetos acadêmicos de meio ambiente. Sempre fui bastante curiosa e adoro pesquisar, o que acabou só acrescentando no processo de transição de carreira. Minha paixão por tecnologia veio quando resolvi me aventurar além dos muros da área acadêmica, e participei da minha primeira hackathon, onde me apaixonei de cara." ,
+
+        "A partir daí fui me envolvendo cada vez mais com as comunidades e eventos da área de TI, e no meio desse processo conheci a Women Who Code Recife, onde participei de projetos, e desenvolvemos sites para ONG's com impacto social. Criei também, junto com amigas, um grupo de estudo para mulheres que estavam querendo aprender e entrar na área de TI." ,
+        
+        "Durante esse tempo conheci a {reprograma} pelas redes sociais, e me inscrevi no processo seletivo para turma de front-end. Acabei assim, tendo a oportunidade de crescer ainda mais vindo para São Paulo, e foi de longe uma das melhores experências da minha vida. O aprendizado foi intenso e a dedicação também, ao lado de mulheres incríveis,onde só reafirmei meu lugar na área de TI, e me dedico para crescer e acrescentar ainda mais na comunidade de mulheres. Pois o mais difícil não é aprender a programar, mas sim acreditar que nós podemos aprender."
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": " Voluntária - Women Who Code Recife / Women Dev Projects",
+            "empresa":"Women Who Code - Cliente ONG Fapa - Faça Algo Por Alguém",
+            "periodo":"setembro/2019 o momento",
+            "atividades_desenvolvidas": "Organização que realiza projetos e eventos com objetivo com objetivo de reduzir o gap de gênero no setor de tecnologia. Participei como aluna, e hoje realizamos em conjunto com a organização projetos pro-bono com clientes reais, da construção de sites para ONG's, auxiliando assim na sua divulgação. Participo na construção de forma remota utilizandos tecnologias HTML, CSS, Javascript e React para criação dos sites.",
+            "link":"https://womendevprojects.com.br/"
+        },
+        {
+            "cargo_funcao": "Monitora na turma online de front-end",
+            "empresa":"{reprograma}",
+            "periodo":"novembro/2019 a novembro/2019",
+            "atividades_desenvolvidas": "Fui monitora em aulas da turma online de front-end da {reprograma}, onde as competências abordadas para auxiliar as meninas da turma foram de lógica de programação e GitHub.",
+            "link":"www.reprograma.com.br"
+        },  
+        {
+            "cargo_funcao": "Bolsista de Pesquisa",
+            "empresa":"IFPE - PIBEX projeto de extensão",
+            "periodo":"Fevereiro/2017 a Agosto/2018",
+            "atividades_desenvolvidas": "Implantei de ecoponto de coleta de óleo realizando o intermédio entre a empresa responsável pela coleta e o parque, e realizei atividades de educação ambiental nos colégios estaduais da região. Fazia atividades como palestras, oficinas, mini projetos com alunos e professores.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Voluntária no setor de vendas de intercâmbio voluntário",
+            "empresa":"AIESEC Recife",
+            "periodo":"janeiro/2019 a junho/2019",
+            "atividades_desenvolvidas": "Era membro do setor de vendas de intercâmbio voluntário, onde precisei ter uma rotina disciplinada, fazia relatórios constantes de cada possível aplicante, além de fazer consultorias e lidar com todo tipo de público.",
+            "link":"https://aiesec.org.br/recife"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        
+        {
+            "curso": "Bacharelado em Ciências Biológicas",
+            "instituicao":"Universidade de Pernambuco (UPE)",
+            "periodo":"Março/2013 a Dezembro/2017",
+            "resumo_conhecimentos_aprendidos":"Ciclo básico com matérias gerais de biologia, e específicas das áreas de saúde, meio ambiente e bioltecnologia voltado para pesquisa, onde o realizei com ênfase em Meio ambiente"
+        },
+        {
+            "curso": "Tecnólogo em Gestão Ambiental",
+            "instituicao":"Instituto Federal de Pernambuco (IFPE)",
+            "periodo":"Agosto/2018 a Agosto/2019",
+            "resumo_conhecimentos_aprendidos": "Voltado principalmente ao aprendizados de tecnologias com análise de questões ambientais como o sensoriamento remoto(satélites), tão quanto questões de políticas públicas e econômicas."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Talentos ReactJS 2020",
+            "instituicao":"Digital Innovation One",
+            "resumo_conhecimentos_interesses": "Bootcamp online com diversos cursos desde git com controle de versão, HTML, CSS, Bootstrap, Javascript, SCRUM finalizando React em 48h seguidas de curso."
+        },
+        {
+            "interesse_evento_curso": "Git e Github para iniciantes",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Curso online para ensinar como configurar o Git e seus comandos básicos, trabalhar com diferentes branches num projeto e como trabalhar com repositórios remotos no Github."
+        },
+        {
+            "interesse_evento_curso": "Estação Hack na Estrada do Facebook - Introdução a HTML e CSS",
+            "instituicao":"Mastertech",
+            "resumo_conhecimentos_interesses": "A Estação Hack do Facebook junto com a Mastertech sai pelo Brasil  e ensina temas como HTML, CSS, o que é responsividade e monte sua primeira página da Web"
+        },
+        {
+            "interesse_evento_curso": "Girls 4 Tech",
+            "instituicao":"Ebanx",
+            "resumo_conhecimentos_interesses": "Curso voltado principalmente a mulheres com temas de Introdução à programação."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":8},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 8},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 6},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 5}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 1}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 7},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 6},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 7},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 6},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 8},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 5},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},  
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 6},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 4},
+        {"habilidade_ferramenta":"FIGMA", "pontuacao": 6}
+        
+    ]
+}
