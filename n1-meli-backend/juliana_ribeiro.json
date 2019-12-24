@@ -1,0 +1,86 @@
+{
+    "nome_completo":"Juliana Thamires dos Santos Martins Rangel Ribeiro",
+    "o_que_eu_quero":"Meu objetivo é me especializar como Desenvolvedora Back End e ajudar outras mães a descobrirem que a tecnologia pode também mudar a vida delas.",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/juliana-martins-ribeiro/",
+    "link_github":"https://github.com/JuMRRibeiro",
+    "email": "julianathmartins@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Tenho 32, sou mãe em transição de carreira e estudante de Psicologia", 
+        "Minha experiência e vivência profissional é toda baseada na Administração", 
+        "Gosto de estar com minha familia em especial atuando de forma direta na educação e criação do meu filho e sou voluntária na igreja com direção no ministerio infantil",
+        "Quero consciliar a maternidade e a vida profissional de forma que todos estejam devidamente equilibrados, com a tecnólogia eu sei que posso conseguir, só encontrar a oportunidade certa" 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Auxliar Administrativo",
+            "empresa":"Fundação de Estudos do Mar - FEMAR",
+            "periodo":"Set/2010 a Jul/2016",
+            "atividades_desenvolvidas": "Organização e controle do claviculário institucional; negociações telefônicas com fornecedores e empresas de logística; suporte na requisição e controle de estoque de materiais de expediente; compras diretas, externas e internas, cotações e licitações; cotações, reservas e compras de passagens aéreas via sistema; gerenciamento de contas a pagar;  recebimento e atendimento de nota fiscal no Sistema de Banco de Dados; controle de folhas de ponto; cadastramento e manutenção de benefícios de pessoal (assistência médico-odontológica e seguro de vida) junto a prestadoras de serviço; envio e recebimento de correspondências e documentos por fax e correio eletrônico; atividades secretariais junto à gerência, chefia e diretoria; e realização de eventuais serviços externos. Testes de usuário no processo de criação de site para uso interno e externo da empresa, junto a equipe de Desenvolvimento.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Auxiliar Administrativo",
+            "empresa":"OTZ - Ottimiza Engenharia",
+            "periodo":"Out/2007 a Mar/2010",
+            "atividades_desenvolvidas": "Atendimento, secretariado, administração geral, de patrimônio, de recursos humanos e de compras: organização do escritório; atendimento telefônico com utilização de PABX; controle de central telefônica através do TARITRON; recepção e atendimento ao público; organização, arquivamento e despacho de documentos; elaboração de relatórios, planilhas (gerindo e atualizando dados), declarações, certidões e atestados junto ao Conselho Regional de Engenharia, Arquitetura e Agronomia (Crea-RJ) e documentos diversos.",
+            "link": null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Programação Back End",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Logica de programação, JavaScript, API, mongoDB e Node.js, conhecimetos basico em metodologias Ágeis "
+        },
+        {
+            "curso": "Psicologia",
+            "instituicao":"UNISUAM",
+            "periodo":"Jul/2013 a Mai/2015",
+            "resumo_conhecimentos_aprendidos": "Periodos em que aprendi o quanto se faz necessário a valorização e respeito pelo individuo e suas emoçôes."
+           
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso online de Javascript",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+        },
+        {
+            "interesse_evento_curso": "Curso ES6",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":5},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 5},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 0},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 7},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 0}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 7},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 5},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 0},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 7},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 8},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 4},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 5},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 0},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 1},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 2},
+        {"habilidade_ferramenta":"FTP", "pontuacao": 0},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 1},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 1},
+        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 0},
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 0}
+    ]
+}
