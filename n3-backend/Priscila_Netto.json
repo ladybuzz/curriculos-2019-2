@@ -6,28 +6,18 @@
     "link_github":"https://github.com/PriscilaNetto",
     "email": "priscila.nnetto@hotmail.com",
 
-    "um_pouco_sobre_mim":[
-        "Aqui é um parágrafo descrevendo um pouco sobre você", 
-        "Aqui é outro parágrafo falando sobre sua trajetória", 
-        "Nesse aqui você pode dizer o que você curte fazer",
-        "Fique a vontade, mas busque ser objetiva" 
+    "um_pouco_sobre_mim":[   
+        " Minha trajetória profissional sempre esteve relacionada com pessoas. Tenho experiência de 7 anos em Rh com foco em Departamento Pessoal. Decidi estudar tecnologia após conversar com mulheres na área e pesquisar sobre, percebi que havia um déficit de profissionais principalmente de mulheres, comecei a estudar sozinha, participar de eventos, meetups e conheci a Reprograma. Vi a possibilidade de ingressar novamente no mercado de trabalho em uma área que nunca pensei em trabalhar. Atualmente trabalho como freelancer fazendo serviços administrativos para uma empresa de engenharia, faço e vendo bolos e revendo camisetas como renda extra.", 
+        "Adoro aprender coisas novas, conhecer pessoas, sou comunicativa. No meu tempo livre dentre algumas atividades gosto de praticar a leitura, fotografia, voluntariado, artesanato, fazer bolos, atividades que me auxiliam nos âmbitos pessoal e profissional."
     ],
 
     "no_que_ja_trabalhei":[
 
         {
-            "cargo_funcao": "Empreendedora",
-            "empresa":"Otten bolos",
-            "periodo":"09/2019 - ",
-            "atividades_desenvolvidas": "Faço bolos e doces para vender, custos, formação de preços, marketing, utilização de redes sociais, estratégia de vendas.",
-            "link": null
-        },
-
-        {
             "cargo_funcao": "Assistente Administrativo",
             "empresa":"Hibbard Inshore Brasil",
-            "periodo":"10/2019 - ",
-            "atividades_desenvolvidas": "Trabalho freelancer para organizar e lançar notas fiscais, controle de gastos, reembolsos.",
+            "periodo":"10/2019 - até o momento ",
+            "atividades_desenvolvidas": "Trabalho freelancer para organizar e lançar notas fiscais, controle de gastos do mês, reembolsos.",
             "link": null
         },
 
@@ -95,11 +85,6 @@
         },
 
         {
-            "interesse_evento_curso": "Intercâmbio",
-            "instituicao":"Dels - Donegal English School",
-            "resumo_conhecimentos_interesses": "Fiz um intercâmbio de 8 meses na Irlanda, onde pude estudar inglês e trabalhar, aprimorar meus conhecimentos no idioma."
-        },
-        {
             "interesse_evento_curso": "JavaScript",
             "instituicao":"Alura",
             "resumo_conhecimentos_interesses": "Programando na linguagem web, aplicando conhecimentos básicos de front-end."
@@ -138,6 +123,11 @@
             "resumo_conhecimentos_interesses": "Conceitos básicos de como funciona o processo de blockchain. "
         },
 
+        {
+            "interesse_evento_curso": "Intercâmbio",
+            "instituicao":"Dels - Donegal English School",
+            "resumo_conhecimentos_interesses": "Fiz um intercâmbio de 8 meses na Irlanda, onde pude estudar inglês e trabalhar, aprimorar meus conhecimentos no idioma."
+        },
 
         {
             "interesse_evento_curso": "Excel",
@@ -166,6 +156,6 @@
         {"habilidade_ferramenta":"PYTHON", "pontuacao":4},
         {"habilidade_ferramenta":"SCRUM", "pontuacao":3},
         {"habilidade_ferramenta":"INGLÊS", "pontuacao":6},
-        {"habilidade_ferramenta":"DEPARTAMENTO PESSOAL", "pontuacao":8}
+        {"habilidade_ferramenta":"VISUAL CODE", "pontuacao":5}
     ]
 }
