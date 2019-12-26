@@ -1,0 +1,103 @@
+{
+    "nome_completo":"Grayce de Deus Ferreira",
+    "o_que_eu_quero":"Desenvolvedor Backend Jr (Node.js)",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/grayce-de-deus-ferreira-8a9970106/",
+    "link_github":"https://github.com/grayceferreira",
+    "email": "grayce.ferreira@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Desde cedo muito estudiosa e persistente, sempre soube que meus sonhos grandes iriam precisar de grandes lutas.
+        Então, me resumindo em uma palavra, aqui está: coragem. Para tudo e sempre.", 
+        "Iniciei minha carreira como aprendiz, já fui vendedora para sustentar meus estudos, iniciei a graduação em Farmácia contrariando todos os sinais, e no fim resolvi
+        me dedicar, finalmente à tecnologia. O suporte ao usuário não me satisfazia mais, e então quis desbravar o mundo da programação que me encanta a cada dia mais.", 
+        "Entre todos os momentos de estudo, que também considero um hobby, me dedico à dança,  trabalhos voluntários e meu lado microempreendedor. De um lado, minha válvula de escape onde posso demonstrar tudo
+        com movimentos e doces, e do outro, distribuir o que tenho de melhor a quem tanto precisa."
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Consultora - Data & Analytics",
+            "empresa":"Pricewaterhouse Coopers - PwC",
+            "periodo":"Jul/2019 até o momento",
+            "atividades_desenvolvidas": "Suporte à plataforma de desenvolvimento de capital humano, executando testes, reportando bugs e realizando acompanhamento de importação de arquivos dos clientes.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Desenvolvedora Fullstack (Pleno)",
+            "empresa":"Secretaria Municipal da Cultura de Santo André",
+            "periodo":"Dez/2018 a Jul/2019",
+            "atividades_desenvolvidas": "Desenvolvimento de plataformas para contratação artística utilizando a linguagem PHP + Banco de Dados MySql, e o WordPress para disponibilização da programação de eventos da Secretaria Municipal da Cultura de Santo André (Conexão com a plataforma Mapas Culturais), suporte aos usuários, treinamentos sobre as plataformas existentes, testes e correção de bugs.",
+            "link": null
+        }
+        {
+            "cargo_funcao": "Desenvolvedora Fullstack (Junior)",
+            "empresa":"Secretaria Municipal da Cultura de São Paulo",
+            "periodo":"Nov/2014 a Dez/2018",
+            "atividades_desenvolvidas": "Desenvolvimento de plataformas para contratação artística utilizando a linguagem PHP + Banco de Dados MySql, documentação, suporte aos usuários, treinamentos sobre as plataformas existentes, testes e correção de bugs.",
+            "link": "http://smcsistemas.prefeitura.sp.gov.br/igsis/"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Pós Graduação - Gestão da Qualidade de Software",
+            "instituicao": "Instituto Brasileiro de Formação - IBF",
+            "periodo":"Set/2019 até o momento",
+            "resumo_conhecimentos_aprendidos": "Estrutura, requisitos, engenharia de software, introdução a desenvolvimento e gestão."
+        },
+        {
+            "curso": "Graduação - Sistemas de Informação",
+            "instituicao":"Universidade Anhembi Morumbi - UAM",
+            "periodo":"Ago/2014 a Ago/2018",
+            "resumo_conhecimentos_aprendidos": "Governança de TI, Lógica de Programação, Banco de Dados, Estrutura de Dados,
+             e Gestão de Projetos"
+        },
+        {
+            "curso": "Desenvolvimento Backend",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Lógica de Programação com Javascript, MongoDB, UX Design, Node.js, desenvolvimento de API, Express Testes Unitários, Introdução à Metodologia Ágil SCRUM e orientação profissional."
+        },
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Scrum",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre fundamentos da metodologia ágil SCRUM."
+        },
+        {
+            "interesse_evento_curso": "Lógica de Programação",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre lógica de programação e como aplicá-la para estruturar um código."
+        },
+        {
+            "interesse_evento_curso": "Curso de Inglês - Vancouver (Canadá)",
+            "instituicao":"Canadian College",
+            "resumo_conhecimentos_interesses": "Realização de curso de inglês durante intercâmbio cultural em Vancouver, na província de British Columbia (Canadá)."
+        }
+        {
+            "interesse_evento_curso": "Voluntariado",
+            "instituicao":"Amigod do Bem",
+            "resumo_conhecimentos_interesses": "Participação ativa no voluntariado Amigos do Bem. ajudando crianças em situação de risco."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 9},
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 9},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 8},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 8},
+        {"habilidade_ferramenta":"NODE.JS", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 8},
+        {"habilidade_ferramenta":"HTML", "pontuacao":8},
+        {"habilidade_ferramenta":"SCRUM", "pontuacao": 7},
+        {"habilidade_ferramenta":"MongoDB", "pontuacao": 7},
+        {"habilidade_ferramenta":"EXPRESS.JS", "pontuacao": 7},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 6},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 6},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 5}
+    ]
+}
