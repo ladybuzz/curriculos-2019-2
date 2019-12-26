@@ -7,7 +7,7 @@
     "email": "priscila.nnetto@hotmail.com",
 
     "um_pouco_sobre_mim":[   
-        " Minha trajetória profissional sempre esteve relacionada com pessoas. Tenho experiência de 7 anos em Rh com foco em Departamento Pessoal. Decidi estudar tecnologia após conversar com mulheres na área e pesquisar sobre, percebi que havia um déficit de profissionais principalmente de mulheres, comecei a estudar sozinha, participar de eventos, meetups e conheci a Reprograma. Vi a possibilidade de ingressar novamente no mercado de trabalho em uma área que nunca pensei em trabalhar. Atualmente trabalho como freelancer fazendo serviços administrativos para uma empresa de engenharia, faço e vendo bolos e revendo camisetas como renda extra.", 
+        "Minha trajetória profissional sempre esteve relacionada com pessoas. Tenho experiência de 7 anos em Rh com foco em Departamento Pessoal. Decidi estudar tecnologia após conversar com mulheres na área e pesquisar sobre, percebi que havia um déficit de profissionais principalmente de mulheres, comecei a estudar sozinha, participar de eventos, meetups, me inscrevi em alguns bootcamps e passei na Reprograma. Vi a possibilidade de um recomeço em uma área que nunca pensei em trabalhar. Atualmente trabalho como freelancer fazendo serviços administrativos para uma empresa de engenharia, faço e vendo bolos e revendo camisetas como renda extra.", 
         "Adoro aprender coisas novas, conhecer pessoas, sou comunicativa. No meu tempo livre dentre algumas atividades gosto de praticar a leitura, fotografia, voluntariado, artesanato, fazer bolos, atividades que me auxiliam nos âmbitos pessoal e profissional."
     ],
 
@@ -32,7 +32,7 @@
             "cargo_funcao": "Analista de Recursos Humanos Pl",
             "empresa":"Hospital Albert Sabin",
             "periodo":"01/2015 a 08/2017",
-            "atividades_desenvolvidas": "Executar todo o processo de folha de pagamento, de férias e rescisão, orientação e suporte aos demais membros da equipe,  organizar arquivo, atendimento aos funcionários, implantação de sistema de folha de pagamento (ADP) garantindo a migração de dados e o bom andamento dos processos e cumprimento dos prazos, contribui na melhoria e na organização das rotinas do setor de folha de pagamento, melhorando a comunicação entre o Rh e os setores da empresa. ",
+            "atividades_desenvolvidas": "Executar todo o processo de folha de pagamento, de férias e rescisão, orientação e suporte aos demais membros da equipe,  organizar arquivo, atendimento aos funcionários, implantação de sistema de folha de pagamento (ADP) garantindo a migração de dados e o bom andamento dos processos e cumprimento dos prazos, contribui na melhoria e na organização das rotinas do setor de folha de pagamento, redução de reclamação no atendimento e erros de execução de tarefas. ",
             "link": null
         },
 
@@ -48,7 +48,7 @@
             "cargo_funcao": "Assistente de RH (temporário)",
             "empresa":"Galderma",
             "periodo":"05/2013 a 11/2013",
-            "atividades_desenvolvidas": "Na Galderma fui contratada para organizar cerca de 280 prontuários de funcionários para uma auditoria internacional. Todos os prontuários tinham que estar em ordem conforme o check-list passado, os documentos foram providenciados durante o prazo estipulado, resultando na validação positiva pela auditoria. Realizava também agendamento das homologações, movimentação de benefícios de AM/AO e Vida Link.  ",
+            "atividades_desenvolvidas": "Na Galderma fui contratada para organizar cerca de 280 prontuários de funcionários para uma auditoria internacional. Todos os prontuários tinham que estar em ordem conforme o check-list passado, os documentos foram providenciados durante o prazo estipulado, resultando na validação positiva pela auditoria. Realizava também agendamento das homologações, movimentação de benefícios de AM/AO e Vida Link.",
             "link": null 
         }
     ],
@@ -64,7 +64,7 @@
             "curso": "Tecnologia em Processos Gerenciais",
             "instituicao":"Universidade Monte Serrat - Unimonte",
             "periodo":"07/2007 a 08/2009",
-            "resumo_conhecimentos_aprendidos": "Graduação com várias disciplinas na área administrativa: economia, Rh, responsabilidade social, matemática financeira, contabilidade, departamento pessoal, entre outras. Realizei projetos com a proposta de colocar os conhecimentos adquiridos ao longo do semestre em prática."
+            "resumo_conhecimentos_aprendidos": "Graduação com várias disciplinas na área administrativa: economia, rh, responsabilidade social, matemática financeira, contabilidade, departamento pessoal, entre outras. Realizei projetos com a proposta de colocar os conhecimentos adquiridos ao longo do semestre em prática."
         }
     ],
 
@@ -103,7 +103,7 @@
 
         {
             "instituicao":"Senai",
-            "resumo_conhecimentos_interesses": "Curso básico de lógica de programação, com exercícios práticos."
+            "resumo_conhecimentos_interesses": "Curso básico de lógica de programação, tipos de dados, repetição."
         },
 
         {
