@@ -9,9 +9,9 @@
     "um_pouco_sobre_mim":[
         "Sou uma profissional da tecnologia da informação com mais de 5 anos de experiência na area", 
         "Tenho o prazer de informar que meu projeto CHATBOT com integração com o Luis (serviço AI da azure), foi um dos escolhidos para ser apresentado na formatura do REPROGRAM", 
-        "Comecei minha carreira como Analista de suporte e hoje sou Quality Assurance, analista de testes", 
-        "Já trabalhei com AWS, JIRA, SCRUM, muitas vezes trabalhei exercendo duas funções, por exemplo Analista de testes e com um pouco de desenvolvimento de sistemas",
-        "Nas minhas experiencias anteriores já trabalhei com o frontend, trabalhando como CSS, HTML, JS" 
+        "Comecei minha carreira como Analista e suporte e hoje sou Quality Assurance, analista de testes", 
+        "Já trabalhei com aws, jira, scrum, muitas vezes trabalhei exercendo duas funções, por exemplo Analista de testes e de sistemas",
+        "Nas minhas experiencias anteriores já trabalhei com o frontend dos sistemas" 
     ],
 
     "no_que_ja_trabalhei":[
@@ -19,44 +19,44 @@
             "cargo_funcao": "Quality Assurance Analyst (QA)",
             "empresa":"QueroQuitar",
             "periodo":"Out/2019 até atualmente",
-            "atividades_desenvolvidas": "Fases e tipos de testes; Script de testes em node.js ; BDD ;TDD;",
-             "Critérios de aceite; Gestão de defeitos; Selenium; Cucumber; Gherkin; Investigação de bugs complexos;",
-             "testes exploratórios; Conhecimento de ferramentas como Jira; Git; Versionamento; Amazon Web Services; Robot 3; MongoDB.",
+            "atividades_desenvolvidas": "Fases e tipos de testes; Script de testes em node.js ; BDD ;TDD,
+             Critérios de aceite; Gestão de defeitos; Selenium; Cucumber; Gherkin; Investigação de bugs complexos, 
+             testes exploratórios; Conhecimento de ferramentas como Jira; Git; Versionamento; Amazon Web Services; Robot 3; MongoDB.",
             "link": "https://www.queroquitar.com.br/"
         },
         {
             "cargo_funcao": "Suport Software (QA)",
             "empresa":"Ibla-bs",
             "periodo":"Agos/2018 a Out/2019",
-            "atividades_desenvolvidas": "Assessoria e consultoria direta a gestores de empresas internacionais como TAP; Santa Casa da Misericórdia de Portugal; Nacionais como VLI, Boticário, Oi, Claro, Cosan, Banco Paulista, Infoglobo e PETROBRAS",
-            "Foco em testes no sistema e nos Apps da empresa, como por exemplo: Riscos, Controles, Analytics, Document e Auditoria; Implantação em servidor remoto fora da rede; auxílio na área de implantação de sistemas, desde a criação de ESPECS a inserção de dados no sistema; Formação interna e ao cliente das soluções desenvolvidas; análise e suporte de software com a equipe de desenvolvimento",
-            "suporte interno e externo ao software da iB Labs; suporte aos utilizadores; preparação e atualização de documentação de software; preparação de relatórios de gestão; Elaboração e colaboração e atualização de especificações técnicas; manuais do utilizador e documentação funcional; Gestão de acordo com a esfera de atuação das relações diárias com o cliente; Planeamento; execução e coordenação das atividades a realizar no âmbito dos diversos projetos.",
+            "atividades_desenvolvidas": "Assessoria e consultoria direta a gestores de empresas internacionais como TAP; Santa Casa da Misericórdia de Portugal; Nacionais como VLI, Boticário, Oi, Claro, Cosan, Banco Paulista, Infoglobo e PETROBRAS;
+            Foco em testes no sistema e nos Apps da empresa, como por exemplo: Riscos, Controles, Analytics, Document e Auditoria; Implantação em servidor remoto fora da rede; auxílio na área de implantação de sistemas, desde a criação de ESPECS a inserção de dados no sistema; Formação interna e ao cliente das soluções desenvolvidas; análise e suporte de software com a equipe de desenvolvimento,
+            suporte interno e externo ao software da iB Labs; suporte aos utilizadores; preparação e atualização de documentação de software; preparação de relatórios de gestão; Elaboração e colaboração e atualização de especificações técnicas; manuais do utilizador e documentação funcional; Gestão de acordo com a esfera de atuação das relações diárias com o cliente; Planeamento; execução e coordenação das atividades a realizar no âmbito dos diversos projetos.",
             "link":"https://www.ibpms.com/"
         },
         {
             "cargo_funcao": "Suport Software/ Sistemas",
             "empresa":"BizPRO Processos de Negócios",
             "periodo":"Fev/2017 até Agost/2018",
-            "atividades_desenvolvidas": "Manutenção do Sistema interno da empresa utilizando: HTML, CSS e Bootstrap, Auxilio nos projetos de implantação de sistema para atendimento ao cliente.", 
-            "Salesforce; Testes TDD; Rotina feita com sistemas de monitoração de data center e gestão de incidentes.Configuração e parametrização de sistemas; Utilização do raciocínio lógico;",
-            "Conhecimento avançado de informática (Pacote Office, Windows, Internet), Suporte remoto e presencial a usuários; Suporte a infraestrutura e redes; Suporte a sistema operacional"
-            "Controle de acessos; Manutenção de micros e impressoras; Instalação, configuração e administração de desktop; Administração de sistema operacional Windows XP, 7 e 8",
-            "Administração de painéis WEB (Nagios, zabbix , Space Works E Lvk); Vivencia com TCP/IP, DNS, Backup, Proxy, e-mail, Outlook, Google Mail, e pacote Office administração de OTRS",
-            "Datacenter; Automação de testes; Testes no CRM; Ferramenta de rastreamento de bugs; Elaboração dos cenários e casos de testes; construção de massa de dados para testes;",
-            "Reportava defeitos e inconformidades nos testes realizados, bem como classificar a severidade do defeito;Contribuir para melhoria do processo de qualidade de software;",
-            "Contribuir com sugestões de melhoria de usabilidade; Apoiar o processo de homologação; Participar de definição da metodologia de qualidade.",
+            "atividades_desenvolvidas": "Manutenção do Sistema interno da empresa utilizando: HTML, CSS e Bootstrap, Auxilio nos projetos de implantação de sistema para atendimento ao cliente. 
+            Salesforce; Testes TDD; Rotina feita com sistemas de monitoração de data center e gestão de incidentes.Configuração e parametrização de sistemas; Utilização do raciocínio lógico;
+            Conhecimento avançado de informática (Pacote Office, Windows, Internet), Suporte remoto e presencial a usuários; Suporte a infraestrutura e redes; Suporte a sistema operacional
+            Controle de acessos; Manutenção de micros e impressoras; Instalação, configuração e administração de desktop; Administração de sistema operacional Windows XP, 7 e 8
+            Administração de painéis WEB (Nagios, zabbix , Space Works E Lvk); Vivencia com TCP/IP, DNS, Backup, Proxy, e-mail, Outlook, Google Mail, e pacote Office administração de OTRS
+            Datacenter; Automação de testes; Testes no CRM; Ferramenta de rastreamento de bugs; Elaboração dos cenários e casos de testes; construção de massa de dados para testes;
+            Reportava defeitos e inconformidades nos testes realizados, bem como classificar a severidade do defeito;Contribuir para melhoria do processo de qualidade de software;
+            Contribuir com sugestões de melhoria de usabilidade; Apoiar o processo de homologação; Participar de definição da metodologia de qualidade.",
             "link": "https://bizpro.com.br/"
         },
         {
             "cargo_funcao": "Analista de sistema Web",
             "empresa":"OLX Brasil",
             "periodo":"Maio/2015 até Fev/2017",
-            "atividades_desenvolvidas": "Análise de Perfis da rede OLX; Posicionamento de clientes no site; Ranqueamento de posições",
-            "Análise do site com foco em script de posicionamento; Auxilio nos projetos de implantação de sistema dos clientes",
-            "Utilização do raciocínio lógico; Utilização do (Pacote Office, Windows, Internet); Administração de projetos",
-            "Atuação junto outras áreas da empresa com o objetivo de atender todas as demandas do cliente; estudo e monitoramento de informações mercadológicas e tendências de negócio",
-             "Desempenho de concorrentes e pesquisas nos mais diversos segmentos;"
-            "Orientada para resultados; proativa; habilidade no desenvolvimento de relacionamentos; capacidade analítica e trabalho em equipe..",
+            "atividades_desenvolvidas": "Análise de Perfis da rede OLX; Posicionamento de clientes no site; Ranqueamento de posições;
+            Análise do site com foco em script de posicionamento; Auxilio nos projetos de implantação de sistema dos clientes; 
+            Utilização do raciocínio lógico; Utilização do (Pacote Office, Windows, Internet); Administração de projetos; 
+            Atuação junto outras áreas da empresa com o objetivo de atender todas as demandas do cliente; estudo e monitoramento de informações mercadológicas e tendências de negócio;
+             Desempenho de concorrentes e pesquisas nos mais diversos segmentos;
+            Orientada para resultados; proativa; habilidade no desenvolvimento de relacionamentos; capacidade analítica e trabalho em equipe.."
             "link": "https://olxbrasil.recruiterbox.com/"
         }
     ],
@@ -66,16 +66,16 @@
             "curso": "Ciência da computação",
             "instituicao":"Universidade Paulista",
             "periodo":"Jan/2017 a Dez/2021",
-            "resumo_conhecimentos_aprendidos": "Ciência da computação é a ciência que estuda as técnicas, metodologias e instrumentos computacionais",
-             "que automatiza processos e desenvolve soluções baseadas no uso do processamento digital."
+            "resumo_conhecimentos_aprendidos": "Ciência da computação é a ciência que estuda as técnicas, metodologias e instrumentos computacionais,
+             que automatiza processos e desenvolve soluções baseadas no uso do processamento digital."
         },
         {
             "curso": "Formação programação Backend",
             "instituicao":"Reprograma",
             "periodo":"Set/2019 a Dez/2019",
-            "resumo_conhecimentos_aprendidos": "Aprendizado focado em programação back-end e ferramentas de capacitação que instiga construir uma, 
-            "base sólida na área de tecnologia.",
-            "Grade Curricular:HTML/CSS; JavaScript; API; Testes Unitários; Scrum; NODE.JS; MongoDB; Orientação Profissional"
+            "resumo_conhecimentos_aprendidos": "Aprendizado focado em programação back-end e ferramentas de capacitação que instiga construir uma 
+            base sólida na área de tecnologia.
+            Grade Curricular:HTML/CSS; JavaScript; API; Testes Unitários; Scrum; NODE.JS; MongoDB; Orientação Profissional"
         },
     ],
 
