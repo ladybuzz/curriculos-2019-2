@@ -1,6 +1,6 @@
 {
     "nome_completo":"Priscila Nunes Netto",
-    "o_que_eu_quero":"Trabalhar na área de tecnologia como desenvolvedora Back-end, que eu possa agregar com minha experiência em outras áreas e crescer na tecnologia, incentivar as mulheres que queiram ingressar na tecnologia, contribuir na educação tecnológica das crianças que moram na periferia, conquistar minha liberdade financeira.",
+    "o_que_eu_quero":"Oportunidade para trabalhar como desenvolvedora Back-end, continuar estudando para aprimorar meus conhecimentos, poder contribuir com as experiências que adquiri em outras áreas.",  
     "cidade_estado:":"São Paulo/SP",
     "link_linkedin": "https://www.linkedin.com/in/priscila-netto/",
     "link_github":"https://github.com/PriscilaNetto",
@@ -14,13 +14,38 @@
     ],
 
     "no_que_ja_trabalhei":[
+
+        {
+            "cargo_funcao": "Empreendedora",
+            "empresa":"Otten bolos",
+            "periodo":"09/2019 - ",
+            "atividades_desenvolvidas": "Faço bolos e doces para vender, custos, formação de preços, marketing, utilização de redes sociais, estratégia de vendas.",
+            "link": null
+        },
+
+        {
+            "cargo_funcao": "Assistente Administrativo",
+            "empresa":"Hibbard Inshore Brasil",
+            "periodo":"10/2019 - ",
+            "atividades_desenvolvidas": "Trabalho freelancer para organizar e lançar notas fiscais, controle de gastos, reembolsos.",
+            "link": null
+        },
+
+        {
+            "cargo_funcao": "Hostess Bilíngue",
+            "empresa":"Restaurante Capim Santo",
+            "periodo":"06/2018 a 09/2018",
+            "atividades_desenvolvidas": "Como freelancer era responsável por receber os convidados dos eventos realizados no restaurante.",
+            "link": null
+        },
         {
             "cargo_funcao": "Analista de Recursos Humanos Pl",
             "empresa":"Hospital Albert Sabin",
             "periodo":"01/2015 a 08/2017",
-            "atividades_desenvolvidas": "Executar todo o processo de folha de pagamento, de férias e rescisão, organizar arquivo, atendimento aos funcionários, implantação de sistema de folha de pagamento (ADP) garantindo a migração de dados e o bom andamento dos processos e cumprimento dos prazos, contribui na melhoria e na organização das rotinas do setor de folha de pagamento, melhorando a comunicação entre o Rh e os setores da empresa. ",
+            "atividades_desenvolvidas": "Executar todo o processo de folha de pagamento, de férias e rescisão, orientação e suporte aos demais membros da equipe,  organizar arquivo, atendimento aos funcionários, implantação de sistema de folha de pagamento (ADP) garantindo a migração de dados e o bom andamento dos processos e cumprimento dos prazos, contribui na melhoria e na organização das rotinas do setor de folha de pagamento, melhorando a comunicação entre o Rh e os setores da empresa. ",
             "link": null
         },
+
         {
             "cargo_funcao": "Assistente de RH (temporário)",
             "empresa":"JLL",
@@ -46,38 +71,101 @@
             "resumo_conhecimentos_aprendidos": "Aprendi do zero como funciona o back-end usando a linguagem JavaScript, entendendo a lógica de programação e a importância dela independente da linguagem que está sendo usada; Criei uma API usando o Node.Js e usando o MongoDB como banco de dados, "
         },
         {
-            "curso": "Tecnólogo em Processos Gerenciais",
+            "curso": "Tecnologia em Processos Gerenciais",
             "instituicao":"Universidade Monte Serrat - Unimonte",
             "periodo":"07/2007 a 08/2009",
-            "resumo_conhecimentos_aprendidos": "Curso com várias disciplinas na área administrativa: economia, Rh, responsabilidade social, matemática financeira, contabilidade, departamento pessoal, entre outras. Realizei projetos com a proposta de colocar os conhecimentos adquiridos ao longo do semestre em prática."
+            "resumo_conhecimentos_aprendidos": "Graduação com várias disciplinas na área administrativa: economia, Rh, responsabilidade social, matemática financeira, contabilidade, departamento pessoal, entre outras. Realizei projetos com a proposta de colocar os conhecimentos adquiridos ao longo do semestre em prática."
         }
     ],
 
     "meus_outros_aprendizados_e_interesses":[
         {
-            "interesse_evento_curso": "Curso online de Javascript",
-            "instituicao":"Udemy",
-            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+            "interesse_evento_curso": "Voluntariado",
+            "instituicao":"Ceia de Natal Solidária",
+            "resumo_conhecimentos_interesses": "Participei da entrega de alimento, roupas para pessoas em situação de rua na região de Pinheiros na noite da véspera de Natal. "
+            
         },
         {
-            "interesse_evento_curso": "Curso ES6",
-            "instituicao":"Udemy",
-            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+            "instituicao":"Instituto Construir",
+            "resumo_conhecimentos_interesses": "Realizei o trabalho por um ano na ong auxiliando na montagem e servindo o café da manhã às pessoas em situação de rua na região central de São Paulo. "
+        },
+        {
+            "instituicao":"Bundoran Tidy Towns",
+            "resumo_conhecimentos_interesses": "Fui fotógrafa voluntária responsável por registrar os momentos dos voluntários fazendo o trabalho da manutenção da cidade de Bundoran, Irlanda."
+        },
+
+        {
+            "interesse_evento_curso": "Intercâmbio",
+            "instituicao":"Dels - Donegal English School",
+            "resumo_conhecimentos_interesses": "Fiz um intercâmbio de 8 meses na Irlanda, onde pude estudar inglês e trabalhar, aprimorar meus conhecimentos no idioma."
+        },
+        {
+            "interesse_evento_curso": "JavaScript",
+            "instituicao":"Alura",
+            "resumo_conhecimentos_interesses": "Programando na linguagem web, aplicando conhecimentos básicos de front-end."
+        },
+
+        {
+            "interesse_evento_curso": "Git/Github",
+            "instituicao":"Alura",
+            "resumo_conhecimentos_interesses": "Curso básico online de como usar o Git/Github do zero, como funciona o controle de versão, resolvendo conflitos, usando branches diferentes."     },
+
+        {
+            "interesse_evento_curso": "Lógica de Programação",
+            "instituicao":"Alura",
+            "resumo_conhecimentos_interesses": "Entendimento da lógica de programação usando a linguagem JavaScript."
+        },
+
+        {
+            "instituicao":"Senai",
+            "resumo_conhecimentos_interesses": "Curso básico de lógica de programação, com exercícios práticos."
+        },
+
+        {
+            "instituicao":"Curso em Vídeo",
+            "resumo_conhecimentos_interesses": "Curso de algoritmos e lógica de programação usando a linguagem Portugol e Visualg."
+        },
+
+        {
+            "interesse_evento_curso": "Python",
+            "instituicao":"Curso em vídeo",
+            "resumo_conhecimentos_interesses": "Conceitos básicos de Python, usando a lógica de programação e exercícios práticos."
+        },
+
+        {
+            "interesse_evento_curso": "Blockchain",
+            "instituicao":"Senai",
+            "resumo_conhecimentos_interesses": "Conceitos básicos de como funciona o processo de blockchain. "
+        },
+
+
+        {
+            "interesse_evento_curso": "Excel",
+            "instituicao":"Impacta",
+            "resumo_conhecimentos_interesses": "Curso presencial para aprimorar os conhecimentos na ferramenta usando fórmulas. "
+        },
+
+        {
+            "interesse_evento_curso": "Departamento Pessoal",
+            "instituicao":"Senac",
+            "resumo_conhecimentos_interesses": "Curso básico e presencial na área de departamento pessoal, com atividades práticas de cálculos de folha, férias, rescisão, entendimento dos encargos e demais rotinas."
+
         }
+
     ],
 
     "no_que_me_destaco":[
-        {"habilidade_ferramenta":"FOLHA DE PAGAMENTO", "pontuacao":9},
-        {"habilidade_ferramenta":"RELACIONAMENTO INTERPESSOAL", "pontuacao":8},
-        {"habilidade_ferramenta":"HTML", "pontuacao":3},
+        {"habilidade_ferramenta":"HTML", "pontuacao": 3},
         {"habilidade_ferramenta":"CSS", "pontuacao": 3},
         {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 6}, 
-        {"habilidade_ferramenta":"NODE", "pontuacao": 5}, 
+        {"habilidade_ferramenta":"NODEJS", "pontuacao":5}, 
         {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 6},
         {"habilidade_ferramenta":"MONGODB", "pontuacao":5},
-        {"habilidade_ferramenta":"LÓGICA DE PROGRAMAÇÃO", "pontuacao":5},
-        {"habilidade_ferramenta":"API", "pontuacao":6},
+        {"habilidade_ferramenta":"LÓGICA DE PROGRAMAÇÃO", "pontuacao":6},
+        {"habilidade_ferramenta":"EXCEL", "pontuacao":6},
+        {"habilidade_ferramenta":"PYTHON", "pontuacao":4},
         {"habilidade_ferramenta":"SCRUM", "pontuacao":3},
-        {"habilidade_ferramenta":"INGLÊS", "pontuacao":6}
+        {"habilidade_ferramenta":"INGLÊS", "pontuacao":6},
+        {"habilidade_ferramenta":"DEPARTAMENTO PESSOAL", "pontuacao":8}
     ]
 }
