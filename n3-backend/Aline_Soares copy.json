@@ -1,0 +1,82 @@
+{
+    "nome_completo":"Aline Soares da Paz",
+    "o_que_eu_quero":"Visagista em transição de carreira | Backend developer",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/alinepazz/",
+    "link_github":"https://github.com/alinepazz",
+    "email": "aline.soares.2@hotmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Tenho 24 anos, sou formada em estética e cosmética capilar, onde atuei durante 7 anos na área, fazendo todo tipo de atendimento relacionado a cabelo e maquiagem, trabalhando tanto em equipe, como sozinha.", 
+        "No ano de 2018 conclui minha graduação, porém decidi dar um novo rumo na minha carreira profissional, sempre tive uma grande afinidade com a área da tecnologia",
+        "então comecei a me dedicar na área de desenvolvimento, inciei essa nova trajetória pelo Reprograma, onde participei do Bootcamp Backend. Dei continuidade nos estudos, participando do curso Programador Web com foco em Frontend, pelo Senac.", 
+        "Sempre estou buscando novos conhecimentos nessa nova área, atráves de cursos e livros. ",
+        "Agora busco oportunidade de colocar em prática todo o conhecimento adquirido nos cursos, acredito que a minha experiência profissional anterior, tem a agregar tambêm, como por exemplo, trabalho em equipe e lidar diretamento com clientes." 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Design Capilar",
+            "empresa":"Cabelaria",
+            "periodo":"Mai/2018 a Out/2019",
+            "atividades_desenvolvidas": "Atendimento ao público em geral, realizando serviços relacionados a cabelo e maquiagem.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Desing Capilar",
+            "empresa":"Espaço da Mulher",
+            "periodo":"Ago/2012 a Abr/2018",
+            "atividades_desenvolvidas": "Atendimento ao público em geral, realizando serviços relacionados a cabelo e maquiagem.",
+            "link": null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Backend Developer",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Lógica de programação/JavaScript/API/Testes Unitários/Scrum/Node.JS/MongoDB."
+        },
+        {
+            "curso": "Programador Web-frontend",
+            "instituicao":"Senac",
+            "periodo":"Ago/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "HTML/CSS/JavaScript/programar com a linguagem PHP integrando com MySQL e estruturar banco de dados com MySQL"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso Web Moderno com JavaScript",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe javascript com foco em frontend e backend com projetos práticos"
+        },
+        {
+            "interesse_evento_curso": "Curso NodeBR",
+            "instituicao":"cursos.nodebr.org",
+            "resumo_conhecimentos_interesses": "Entendimento sobre Node.JS"
+        },
+        {
+            "interesse_evento_curso": "Curso Lógica de Programação",
+            "instituicao":"Fundação Bradesco",
+            "resumo_conhecimentos_interesses": "Entendimento iniciante sobre lógica de programação"
+        }
+
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao": 9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 9}, 
+        {"habilidade_ferramenta":"NODE.JS", "pontuacao": 9}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"Trabalho em equipe", "pontuacao": 9},
+        {"habilidade_ferramenta":"MongoDB", "pontuacao": 9},
+        {"habilidade_ferramenta":"API", "pontuacao": 9},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 7},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 7},
+        {"habilidade_ferramenta":"Lógica de programação", "pontuacao": 7}
+       
+    ]
+}
