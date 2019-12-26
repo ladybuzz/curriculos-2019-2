@@ -155,7 +155,6 @@
         {"habilidade_ferramenta":"EXCEL", "pontuacao":6},
         {"habilidade_ferramenta":"PYTHON", "pontuacao":4},
         {"habilidade_ferramenta":"SCRUM", "pontuacao":3},
-        {"habilidade_ferramenta":"INGLÊS", "pontuacao":6},
-        {"habilidade_ferramenta":"VISUAL CODE", "pontuacao":5}
+        {"habilidade_ferramenta":"INGLÊS", "pontuacao":6}
     ]
 }
