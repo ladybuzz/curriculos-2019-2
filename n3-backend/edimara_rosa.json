@@ -17,7 +17,7 @@
             "cargo_funcao": "Desenvolvedora Backend Jr – ChatBot",
             "empresa":"Startup Pode Perguntar",
             "periodo":"Set/2019 até o momento",
-            "atividades_desenvolvidas": "Curadoria do fluxo e conteúdo do Bot no Dialogflow. Utilização do Git, Heroku e Node.js para implementação de estruturas no back-end."
+            "atividades_desenvolvidas": "Curadoria do fluxo e conteúdo do Bot no Dialogflow. Utilização do git, heroku, mongoDb e Node.js para implementação de estruturas no back-end."
         },
         {
             "cargo_funcao": "Estágio – Planejamento Financeiro",
@@ -34,13 +34,13 @@
         {
             "cargo_funcao": "Projeto Voluntário",
             "empresa":"AIESEC - Team Member Program - Finanças",
-            "periodo":"Jan/2017 a Dez/2018",
+            "periodo":"Ago/2013 a Dez/2013",
             "atividades_desenvolvidas": "Responsável pelas análises de viabilidade, auditoria das contas mensais e dos documentos dos intercambistas."
         },
         {
             "cargo_funcao": "Projeto Voluntário",
             "empresa":"Trevisan - Imposto de Renda Solidário",
-            "periodo":"J2013/2014/2015",
+            "periodo":"2013/2014/2015",
             "atividades_desenvolvidas": "Auxiliar o público no preenchimento da declaração do IRPF."
         }
     ],
@@ -104,7 +104,7 @@
         {"habilidade_ferramenta":"C#", "pontuacao": 6},
         {"habilidade_ferramenta":"Kotlin", "pontuacao": 4},
         {"habilidade_ferramenta":"PHP", "pontuacao": 4},
-        {"habilidade_ferramenta":"NODE.JS", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"NODE.JS", "pontuacao": 8}, 
         {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
         {"habilidade_ferramenta":"MySQL", "pontuacao": 4},
         {"habilidade_ferramenta":"MongoDB", "pontuacao": 8},
