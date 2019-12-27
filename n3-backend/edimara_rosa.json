@@ -8,7 +8,7 @@
 
     "um_pouco_sobre_mim":[
         "Eu sou a Mara, uma pessoa que sempre foi curiosa, criativa e estudiosa. Nascida e crescida na periferia do extremo leste de São Paulo, mas que nunca deixei a distância e os obstáculos  serem protagonistas na minha vida.", 
-        "Sou formada em ciências contábeis, atuei por alguns anos na área financeira; Experiência que me ajudou muito a aprimorar minhas habilidades análiticas e me expressar de uma maneira mais objetiva. Em 2016 decidi fazer um intercâmbio, para além do inglês, crescer como ser humano; Passei 24 meses vivendo com uma família americana, com total imersão na cultura, estudando inglês e sendo responsável pelos cuidados e segurança de três crianças. Após o meu retorno, resolvi estudar assuntos da área tecnologica, uma área que sempre tive paixão e curiosidade. Acredito que a tecnologia impacta vidas, e por isso estou em transição de carreira. Quero fazer parte dessa mudança, para ajudar empresas e desenvolver softwares que tragam mais diversidade.",
+        "Sou formada bolsita em ciências contábeis pela Trevisan Escola de Negócios. Atuei por alguns anos na área financeira; Experiência que me ajudou a aprimorar minhas habilidades análiticas e me expressar de uma maneira mais objetiva. Em 2016 decidi fazer um intercâmbio, para além do inglês, crescer como ser humano; Passei 24 meses vivendo com uma família americana, com total imersão na cultura, estudando inglês e sendo responsável pelos cuidados e segurança de três crianças. Após o meu retorno, resolvi estudar assuntos da área tecnológica, uma área que sempre tive paixão e curiosidade. Acredito que a tecnologia impacta vidas, e por isso estou em transição de carreira. Quero fazer parte dessa mudança, para ajudar empresas e desenvolver softwares que tragam mais diversidade.",
         "Eu sempre estou procurando assuntos novos na internet, gosto de filmes, mas nem todos, assisto até o final se forem de mistério e psicológicos, aqueles filmes que a gente termina de assitir e precisa de mais algumas horas para entender o que aconteceu. Amo a natureza, então sempre que posso estou em alguma parte verde do Brasil, sou vegetariana e amo animais (sempre ando com um saquinho de ração na mochila), já resgatei alguns cães e gatos das ruas e quero poder fazer muito mais no futuro."
     ],
 
@@ -78,14 +78,9 @@
             "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do c# e orientação a objeto"
         },
         {
-            "interesse_evento_curso": "Introdução à programação ",
+            "interesse_evento_curso": "Introdução à programação",
             "instituicao":"Minas Programam",
             "resumo_conhecimentos_interesses": "Introdução à logica de programação, dados, UX, software livre, PHP e JavaScript"
-        },
-        {
-            "interesse_evento_curso": "Curso online de Python",
-            "instituicao":"Udemy",
-            "resumo_conhecimentos_interesses": "Introdução à linguagem Python"
         },
         {
             "interesse_evento_curso": "Curso online Dialogflow",
@@ -104,19 +99,21 @@
         {"habilidade_ferramenta":"C#", "pontuacao": 6},
         {"habilidade_ferramenta":"Kotlin", "pontuacao": 4},
         {"habilidade_ferramenta":"PHP", "pontuacao": 4},
-        {"habilidade_ferramenta":"NODE.JS", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"NODE.JS", "pontuacao": 7}, 
         {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
         {"habilidade_ferramenta":"MySQL", "pontuacao": 4},
         {"habilidade_ferramenta":"MongoDB", "pontuacao": 8},
         {"habilidade_ferramenta":"API", "pontuacao": 9},
         {"habilidade_ferramenta":"Dialogflow", "pontuacao": 8},
         {"habilidade_ferramenta":"Android Studio", "pontuacao": 6},
-        {"habilidade_ferramenta":"Testes Unitários", "pontuacao": 4},
-        {"habilidade_ferramenta":"POO", "pontuacao": 4},
+        {"habilidade_ferramenta":"POO", "pontuacao": 5},
         {"habilidade_ferramenta":"HTML", "pontuacao":5},
         {"habilidade_ferramenta":"CSS", "pontuacao": 5},
         {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
         {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 5},
-        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 5}    
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 5},
+        {"habilidade_ferramenta":"Inglês", "pontuacao": 8},
+        {"habilidade_ferramenta":"Excel", "pontuacao": 8}
+            
     ]
 }
