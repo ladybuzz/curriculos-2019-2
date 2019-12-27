@@ -1,0 +1,98 @@
+{
+    "nome_completo": "Marina Neves Ferreira",
+    "o_que_eu_quero": "Desenvolver minhas habilidades em programação e no campo da tecnologia.",
+    "cidade_estado:": "São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/marinanferreira/",
+    "link_github": "https://github.com/mnferreira",
+    "email": "mnferreira8@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Sou formada em Ciências Biológicas e, após concluir a graduação, desenvolvi um mestrado acadêmico na área.", 
+        "Programação é um assunto que sempre despertou meu interesse e, por isso, em 2019 iniciei os estudos ao concluir a Academia de Programação da Mastertech e o Bootcamp de Back-end da {reprograma}.", 
+        "Encontro-me em transição de carreira",
+        "Fique a vontade, mas busque ser objetiva" 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Analista Técnica de Laboratório",
+            "empresa": "Anhanguera Educacional",
+            "periodo": "Mar/2019 - atual",
+            "atividades_desenvolvidas": "Organização dos laboratórios da área da saúde, preparo das aulas práticas, suporte técnico a professores de alunos da instituição."
+        },
+        {
+            "cargo_funcao": "Mentora Parceira - Voluntária",
+            "empresa": "Programa Cientista Beta",
+            "periodo": "Mar/2018 - atual",
+            "atividades_desenvolvidas": "Avaliação de projetos científicos desenvolvidos por jovens de Ensino Médio, preparação dos jovens para feira de Ciências, revisão de conteúdos didáticos, avaliação nos processos seletivos para novos parceiros."
+        },
+        {
+            "cargo_funcao": "Aluna de Iniciação Científica",
+            "empresa": "Laboratório de Imunogenética - Faculdade de Medicina de São José do Rio Preto",
+            "periodo": "Jan/2013 a Fev/2015",
+            "atividades_desenvolvidas": "Desenvolvimento de dois projetos de pesquisa com ênfase em imunologia, parasitologia e epidemiologia."
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp Back-End",
+            "instituicao": "{reprograma} e ACCENTURE",
+            "periodo": "Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Lógica de Programação, HTML, CSS, Javascript, Git e Github, API, Testes Unitários, NODE.JS, Scrum, MongoDB, UX, Projetos."
+        },
+        {
+            "curso": "Academia de Programação",
+            "instituicao": "Mastertech - Estação Hack",
+            "periodo": "Abr/2019 a Maio/2019",
+            "resumo_conhecimentos_aprendidos": "HTML, CSS, JavaScript, Lógica de Programação, Python, Django, Design Thinking e Metodologia Ágil."
+        },
+        {
+            "curso": "Mestrado em Ciências",
+            "instituicao": "Universidade de São Paulo - USP",
+            "periodo": "Set/2015 a Jan/2018",
+            "resumo_conhecimentos_aprendidos": "Desenvolvimento do projeto de pesquisa e dissertação intitulados 'Determinação da virulência de isolados brasileiros de Toxoplasma gondii em camundongos'."
+        },
+        {
+            "curso": "Bacharelado em Ciências Biológicas",
+            "instituicao": "Universidade Estadual Paulista 'Júlio de Mesquita Filho' - UNESP",
+            "periodo": "Fev/2011 a Fev/2015"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Introdução à Ciência da Computação com Python",
+            "instituicao":"Coursera",
+            "resumo_conhecimentos_interesses": "Conceitos introdutórios de Ciência da Computação e desenvolvimento de pequenos programas na linguagem Python."
+        },
+        {
+            "interesse_evento_curso": "Design Thinking",
+            "instituicao":"Mastertech",
+            "resumo_conhecimentos_interesses": "Princípios de design thinking, metodologia, técnicas para aplicação do dia-a-dia e como este mindset pode ajudar na criação de soluções atuais."
+        },
+        {
+            "interesse_evento_curso": "Fundamentos em Gestão de Projetos",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Abordagem para o gerenciamento de projetos com base nas práticas propostas pelo PMI (Project Management Institute)."
+        },
+        {
+            "interesse_evento_curso": "MBA em Gestão da Qualidade",
+            "instituicao":"Anhanguera/ Kroton",
+            "resumo_conhecimentos_interesses": "Conceitos envolvidos em processos e sistemas de gestão da qualidade."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"NODE", "pontuacao": 9}, 
+        {"habilidade_ferramenta":"PYTHON", "pontuacao": 7},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 8},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 8},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 7},
+        {"habilidade_ferramenta":"Inglês", "pontuacao": 7}
+    ]
+}
