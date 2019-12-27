@@ -118,7 +118,10 @@
         {"habilidade_ferramenta":"BDD", "pontuacao": 9},
         {"habilidade_ferramenta":"TDD", "pontuacao": 9},
         {"habilidade_ferramenta":"NoSQL", "pontuacao": 9},
-        {"habilidade_ferramenta":"Python", "pontuacao": 5}
+        {"habilidade_ferramenta":"Python", "pontuacao": 5},
+        {"habilidade_ferramenta":"Go Lang", "pontuacao": 6,5},
+        {"habilidade_ferramenta":"Inglês", "pontuacao": 6}
+
 
         
     ]
