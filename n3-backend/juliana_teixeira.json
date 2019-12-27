@@ -1,6 +1,6 @@
 {
     "nome_completo":"Juliana Machado Teixeira",
-    "o_que_eu_quero":"Desenvolvedor Back-End",
+    "o_que_eu_quero":"Desejo iniciar minha carreira como Desenvolvedora e me especializar em tecnologias de desenvolvimento Back-End.",
     "cidade_estado:":"São Paulo/SP",
     "link_linkedin": "https://www.linkedin.com/in/juliana-machado-teixeira/",
     "link_github":"https://github.com/JulianaMac",
@@ -57,7 +57,7 @@
             "curso": "Desenvolvimento Back-End",
             "instituicao":"Reprograma",
             "periodo":"Set/2019 a Dez/2019",
-            "resumo_conhecimentos_aprendidos": "Lógica de Programação, Javascript, Node.js, MongoDB, APIs REST, Scrum e UX."
+            "resumo_conhecimentos_aprendidos": "Lógica de Programação, Javascript, Node.js, MongoDB, APIs REST, Testes Automatizados, Scrum e UX."
         },
         {
             "curso": "Análise e Desenvolvimento de Sistemas",
@@ -81,15 +81,26 @@
     ],
 
     "no_que_me_destaco":[
-        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 7},
-        {"habilidade_ferramenta":"NODE", "pontuacao": 7}, 
-        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 7},
-        {"habilidade_ferramenta":"MONGO DB", "pontuacao": 6},
-        {"habilidade_ferramenta":"RUBY ON RAILS", "pontuacao": 4},
-        {"habilidade_ferramenta":"API", "pontuacao": 7},
-        {"habilidade_ferramenta":"HTML", "pontuacao": 5},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"NODE", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"MONGO DB", "pontuacao": 7},
+        {"habilidade_ferramenta":"API", "pontuacao": 8},
+        {"habilidade_ferramenta":"RUBY ON RAILS", "pontuacao": 5},
+        {"habilidade_ferramenta":"TESTES AUTOMATIZADOS", "pontuacao": 4},
+        {"habilidade_ferramenta":"ARQUITETURA MVC", "pontuacao": 5},
+        {"habilidade_ferramenta":"HEROKU", "pontuacao": 4},
+        {"habilidade_ferramenta":"POSTMAN", "pontuacao": 7},
+        {"habilidade_ferramenta":"VISUAL STUDIO CODE", "pontuacao": 6},
+        {"habilidade_ferramenta":"RUBYMINE", "pontuacao": 4},
+        {"habilidade_ferramenta":"HTML", "pontuacao": 6},
         {"habilidade_ferramenta":"CSS", "pontuacao": 3},
+        {"habilidade_ferramenta":"UX", "pontuacao": 3},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 2},
         {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
-        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 3}
+        {"habilidade_ferramenta":"SUPORTE AO CLIENTE", "pontuacao": 9},
+        {"habilidade_ferramenta":"INGLÊS", "pontuacao": 5},
+        {"habilidade_ferramenta":"ESPANHOL", "pontuacao": 2}
+
     ]
 }
