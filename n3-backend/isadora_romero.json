@@ -53,54 +53,58 @@
 
     "o_que_ja_estudei":[
         {
-            "curso": "Design Gráfico",
-            "instituicao":"Escola Tal",
-            "periodo":"Jan/2016 a Dez/2018",
-            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+            "curso": "Bootcamp Backend",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Programação back-end (lógica de programação, javascript, API, mongoDB e node.js), conhecimentos básicos de testes unitários e metodologias ágeis, orientação e mentoria profissonal."
         },
         {
-            "curso": "Curso de Web Design",
-            "instituicao":"Escola Tal",
-            "periodo":"Jan/2015 a Dez/2015",
-            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+            "curso": "Gestão Estratégica em Negócios",
+            "instituicao":"Universidade Presbiteriana Mackenzie",
+            "periodo":"Ou/2015 a Jun/2017",
+            "resumo_conhecimentos_aprendidos": "Desenvolvimento do perfil de gestão e empreendedorismo, com visão estratégica integrada dos diversos aspectos da administração de negócios. "
+        },
+        {
+            "curso": "Comunicação Socia Habilitação em Publicidade e Propaganda",
+            "instituicao":"Uninove - Universidade Nove de Julho",
+            "periodo":"Ago/2011 a Ago/2015",
+            "resumo_conhecimentos_aprendidos": "Capacidade de gerir, planejar, desenvolver e aplicar os conceitos e técnicas de mídia, bem como realizar análises de mercado, estruturar estratégias de marketing e comunicação e desenvolver ações de promoção e merchandising."
         }
     ],
 
     "meus_outros_aprendizados_e_interesses":[
         {
-            "interesse_evento_curso": "Curso online de Javascript",
-            "instituicao":"Udemy",
-            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+            "curso": "Nanodegree Fundamentos de Machine Learning",
+            "instituicao":"Udacity Brasil",
+            "resumo_conhecimentos_aprendidos": "Fundamentos teóricos e praticos de Inteligência artificial"
         },
         {
-            "interesse_evento_curso": "Curso ES6",
-            "instituicao":"Udemy",
-            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+            "interesse_evento_curso": "Ux Writing",
+            "instituicao":"Centro Universitário Belas Artes de São Paulo",
+            "resumo_conhecimentos_interesses": "Resoluções de problemática de comunicação assertiva para o publico e canal escolhido."
+        },
+        {
+            "curso": "Scrum Agile",
+            "instituicao":"Udemy Academy",
+            "resumo_conhecimentos_aprendidos": "Método àgile para gerenciamento de projetos."
+        },
+        {
+            "curso": "Comunicação Organizacional e Negócio",
+            "instituicao":"Escola Superior de Propaganda e Marketing",
+            "resumo_conhecimentos_aprendidos": "Conceitos de comunicação integrada de markleting na economia globalizada, ferramentas estratégicas e posicionamento de marca."
         }
     ],
 
     "no_que_me_destaco":[
-        {"habilidade_ferramenta":"HTML", "pontuacao":9},
-        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
-        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
-        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
-        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
-        {"habilidade_ferramenta":"NODE", "pontuacao": 1}, 
-        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
-        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
-        {"habilidade_ferramenta":"REACT", "pontuacao": 8},
-        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
-        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
-        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
-        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
-        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 9},
-        {"habilidade_ferramenta":"PHP", "pontuacao": 3},
-        {"habilidade_ferramenta":"MySQL", "pontuacao": 3},
-        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 8},
-        {"habilidade_ferramenta":"FTP", "pontuacao": 5},
-        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8},
-        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 9},
-        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 9},
-        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 9}
+        {"habilidade_ferramenta":"NODE", "pontuacao":6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 6},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 8},
+        {"habilidade_ferramenta":"UX WRITING", "pontuacao": 8},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 6},
+        {"habilidade_ferramenta":"INTEGRAÇÃO API", "pontuacao": 7},
+        {"habilidade_ferramenta":"TESTES UNITÁRIOS", "pontuacao": 5},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 6},
+        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 6},
     ]
 }
