@@ -51,23 +51,13 @@
         {"habilidade_ferramenta":"CSS", "pontuacao": 7},
         {"habilidade_ferramenta":"NODE", "pontuacao": 7},
         {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 7}, 
-        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 7}, 
-        {"habilidade_ferramenta":"SASS", "pontuacao": 1}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 7},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 7},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 4}, 
         {"habilidade_ferramenta":"JQUERY", "pontuacao": 1},
         {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 1},
-        {"habilidade_ferramenta":"REACT", "pontuacao": 1},
-        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 4},
         {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 1},
-        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 1},
-        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 1},
-        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 1},
-        {"habilidade_ferramenta":"PHP", "pontuacao": 1},
-        {"habilidade_ferramenta":"MySQL", "pontuacao": 4},
-        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 4},
-        {"habilidade_ferramenta":"FTP", "pontuacao": 1},
-        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 4},
-        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 1},
-        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 1},
-        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 1}
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 1}
+       
     ]
 }
