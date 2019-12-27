@@ -1,6 +1,6 @@
 {
     "nome_completo": "Marina Neves Ferreira",
-    "o_que_eu_quero": "Desenvolver minhas habilidades em programação e no campo da tecnologia.",
+    "o_que_eu_quero": "Desenvolver minhas habilidades no campo da tecnologia, em programação.",
     "cidade_estado:": "São Paulo/SP",
     "link_linkedin": "https://www.linkedin.com/in/marinanferreira/",
     "link_github": "https://github.com/mnferreira",
@@ -8,9 +8,9 @@
 
     "um_pouco_sobre_mim":[
         "Sou formada em Ciências Biológicas e, após concluir a graduação, desenvolvi um mestrado acadêmico na área.", 
-        "Programação é um assunto que sempre despertou meu interesse e, por isso, em 2019 iniciei os estudos ao concluir a Academia de Programação da Mastertech e o Bootcamp de Back-end da {reprograma}.", 
-        "Encontro-me em transição de carreira",
-        "Fique a vontade, mas busque ser objetiva" 
+        "Programação é um assunto que sempre despertou meu interesse. Por isso, em 2019, fui selecionada para participar da academia de programação da Mastertech e do bootcamp de back-end da {reprograma}.", 
+        "Encontro-me em transição de carreira para a área de tecnologia, como desenvolvedora back-end.",
+        "Tenho interesse por Desenvolvimento Web e Data Science."
     ],
 
     "no_que_ja_trabalhei":[
@@ -63,22 +63,22 @@
     "meus_outros_aprendizados_e_interesses":[
         {
             "interesse_evento_curso": "Introdução à Ciência da Computação com Python",
-            "instituicao":"Coursera",
+            "instituicao": "Coursera",
             "resumo_conhecimentos_interesses": "Conceitos introdutórios de Ciência da Computação e desenvolvimento de pequenos programas na linguagem Python."
         },
         {
             "interesse_evento_curso": "Design Thinking",
-            "instituicao":"Mastertech",
+            "instituicao": "Mastertech",
             "resumo_conhecimentos_interesses": "Princípios de design thinking, metodologia, técnicas para aplicação do dia-a-dia e como este mindset pode ajudar na criação de soluções atuais."
         },
         {
             "interesse_evento_curso": "Fundamentos em Gestão de Projetos",
-            "instituicao":"Udemy",
+            "instituicao": "Udemy",
             "resumo_conhecimentos_interesses": "Abordagem para o gerenciamento de projetos com base nas práticas propostas pelo PMI (Project Management Institute)."
         },
         {
             "interesse_evento_curso": "MBA em Gestão da Qualidade",
-            "instituicao":"Anhanguera/ Kroton",
+            "instituicao": "Anhanguera/ Kroton",
             "resumo_conhecimentos_interesses": "Conceitos envolvidos em processos e sistemas de gestão da qualidade."
         }
     ],
