@@ -82,10 +82,11 @@
 
     "no_que_me_destaco":[
         {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
-        {"habilidade_ferramenta":"NODE", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"NODE.JS", "pontuacao": 8}, 
         {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
         {"habilidade_ferramenta":"MONGO DB", "pontuacao": 7},
         {"habilidade_ferramenta":"API", "pontuacao": 8},
+        {"habilidade_ferramenta":"EXPRESS.JS", "pontuacao": 8},
         {"habilidade_ferramenta":"RUBY ON RAILS", "pontuacao": 5},
         {"habilidade_ferramenta":"TESTES AUTOMATIZADOS", "pontuacao": 4},
         {"habilidade_ferramenta":"ARQUITETURA MVC", "pontuacao": 5},
