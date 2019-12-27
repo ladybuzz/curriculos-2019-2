@@ -1,0 +1,83 @@
+{
+    "nome_completo":"Tuany Aparecida Brito dos Santos",
+    "o_que_eu_quero":"Quero trabalhar como desenvolvedora Full-Stack, me especializar em Node.js e React",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/tuanybsantos/",
+    "link_github":"https://github.com/TuanySantos",
+    "email": "tuanybsantos@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Tenho 30 anos, solteira", 
+        "Possuo experiência na área de planejamento estratégico, análise de dados, desenvolvimento de dashboards e automatização.", 
+        "Gosto de viajar, praticar esportes, ler e músicas.",
+        "Fique a vontade, mas busque ser objetiva" 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Analista de Planejamento",
+            "empresa":"Orbitall - Stefanini",
+            "periodo":"Nov/2019 a trabalhando",
+            "atividades_desenvolvidas": "Implatação de discadores, confecção de relatórios, mensuração de bases e discagens, análise e estratégia de acionamento.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Analista de Telecom",
+            "empresa":"Malta assessoria",
+            "periodo":"Dez/2018 a Nov/2019",
+            "atividades_desenvolvidas": "Suporte operacional, treinamento de discador e CRM, análise de bases, confecção de relatórios de bilhetagem.",
+            "link":"null"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+ 	{
+            "curso": "Bacharel em Ciência da Computação",
+            "instituicao":"Universidade São Judas Tadeu",
+            "periodo":"jan/2013 a Dez/2016",
+            "resumo_conhecimentos_aprendidos": "Desenvolvimento de sistemas desktop e web utilizando linguagem de programação JAVA, modelagem de banco de dados e queries, análise de requisitos, arquitetura de sistemas, cálculo, Gerenciamento de Projetos, metodologias ágeis"
+        },
+        {
+            "curso": "Bootcamp Back-End",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Lógica de programação, HTML/CSS, Javascript, API, Testes unitários, SCRUM, NODE.JS, MongoDB, Projetos."
+        },
+        {
+            "curso": "Code Experience",
+            "instituicao":"SENAI",
+            "periodo":"Out/2017 a Abr/2018",
+            "resumo_conhecimentos_aprendidos": ".NETCore, Entity Framework, C Sharp, SQLServer, Scrum, Gerenciamento de Projetos."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "STARTER - JavaScript",
+            "instituicao":"Rocketseat",
+            "resumo_conhecimentos_interesses": "ES6+, Node.JS, React.JS, React Native"
+        },
+        {
+            "interesse_evento_curso": "Inglês",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Inglês intermediário voltado para escrita, conversação e leitura"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"LOGICA", "pontuacao":9},
+        {"habilidade_ferramenta":"CALCULO E FUNCOES", "pontuacao": 8},
+        {"habilidade_ferramenta":"API", "pontuacao": 7},
+        {"habilidade_ferramenta":"NODE JS", "pontuacao": 6},
+        {"habilidade_ferramenta":"MONGO DB", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"JAVA", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 6},
+        {"habilidade_ferramenta":"SQLSERVER", "pontuacao": 7},
+        {"habilidade_ferramenta":"HTML", "pontuacao": 6},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 7},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 6},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+	{"habilidade_ferramenta":"REACT", "pontuacao": 4},
+	{"habilidade_ferramenta":"INGLÊS", "pontuacao": 5},
+    ]
+}
