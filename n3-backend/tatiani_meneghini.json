@@ -1,0 +1,145 @@
+{
+    "nome_completo":"Tatiani Meneghini",
+    "o_que_eu_quero":"Meu objetivo principal é migrar para a área de Desenvolvimento Back-end, trazendo um novo olhar mais amplo e diverso para a tecnologia.",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://br.linkedin.com/in/tatiani-meneghini-a21bb2115",
+    "link_github":"https://github.com/tatianimeneghini",
+    "email": "tatiani.meneghini@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Sou formada em Letras (Português e Espanhol) e atualmente estou migrando para área de desenvolvimento."
+        "Sempre me interessei em aprender diversas linguagens, desde a complexidade das línguas humanas (português, espanhol e inglês). Busco, atualmente, aprender as linguagens computacionais, que são desenvolvidas a partir de uma outra lógica."
+        "Possuo larga experiência em instituições educacionais e culturais, consolidada durante minha formação acadêmica. O meu entendimento é que a tecnologia pode avançar e auxiliar diversas áreas de conhecimento, possibilitar novas ferramentas e soluções para a sociedade."
+        "Penso que é necessário humanizar a tecnologia e trazer as discussões humanas e reais, com a diversidade necessária para que a tecnologia se amplie em conjunto com as técnicas em transformações constantes."
+],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Analista Acadêmica",
+            "empresa":"Adtalem Educacional do Brasil",
+            "periodo":"set/2018 a atual",
+            "atividades_desenvolvidas": "Revisão, adequação e geração de provas da Avaliação Parcial 3, estilo ENADE. Utilização do Banco de questões do Sistema Prova Fácil.",
+            "link": "https://adtalembrasil.com.br/"
+        },
+        {
+            "cargo_funcao": "Revisora de texto",
+            "empresa":"Freelancer",
+            "periodo":"jan/2013 a atual",
+            "atividades_desenvolvidas": "Serviços de revisão e redação de textos, assessoria linguística, tradução (português-espanhol), transcrição de áudio e adequação às normas ABNT.",
+            "link": null
+        },
+
+        {
+            "cargo_funcao": "Auxiliar de Pesquisa e Leitura",
+            "empresa":"POIESIS - Instituto de Apoio à Língua, à Cultura, e à Literatura",
+            "periodo":"ago/2016 a dez/2017",
+            "atividades_desenvolvidas": "Atender e orientar os frequentadores da biblioteca (Fábricas de Cultura Jaçanã e Vila Nova Cachoeirinha) . Controlar e inserir o acervo de livros pelo sistema Sophia. Realizar e auxiliar a produção das atividades de ação cultural na biblioteca.",
+            "link": "http://www.fabricasdecultura.sp.gov.br/"
+        },
+
+        {
+            "cargo_funcao": "Agente de Pesquisa e Mapeamento",
+            "empresa":"IBGE - Instituto Brasileiro de Geografia e Estatística",
+            "periodo":"ago/2014 a abr/2016",
+            "atividades_desenvolvidas": "Coletar dados para a realização de pesquisas de natureza estatística; suporte à realização e/ou à atualização dos levantamentos geográficos, feições cartográficas e características urbanísticas; operar equipamentos/aplicativos/sistemas de informática necessários; elaboração de relatórios, contendo tabelas e gráficos.",
+            "link": "https://www.ibge.gov.br/"
+        },
+
+        {
+            "cargo_funcao": "Estagiária",
+            "empresa":"Biblioteca Mário de Andrade",
+            "periodo":"fev/2011 a ago/2012",
+            "atividades_desenvolvidas": "Atividades administrativas, organização do acervo de livros e multimídia, atendimento ao público, visitas guiadas, desenvolvimento de projetos específicos e comunicação da seção Circulante da biblioteca da Secretaria Municipal de Cultura de São Paulo.",
+            "link": "https://www.prefeitura.sp.gov.br/cidade/secretarias/cultura/bma/"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp back-end",
+            "instituicao":"Reprograma",
+            "periodo":"set/2019 a dez/2019",
+            "resumo_conhecimentos_aprendidos": "Javascript em Node.js, HTML/CSS, NoSQL em MongoDB, Express.js, API, MVC, Testes Unitários, Scrum"
+        },
+
+        {
+            "curso": "Bacharelado em Português e Espanhol",
+            "instituicao":"Universidade de São Paulo",
+            "periodo":"jan/2010 a dez/2017",
+            "resumo_conhecimentos_aprendidos": "Línguas e Literaturas em Língua Portuguesa e Espanhola. Realizei monitorias (Revista de Psicologia USP, Museu de Arte Contemporânea da USP, Escola de Aplicação da USP), Iniciação Científica em Literatura Hispanoamericana e Intercâmbio universitário na Universidad Nacional del Litoral, em Santa Fe, Argentina."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Python",
+            "instituicao":"Let's Code",
+            "resumo_conhecimentos_interesses": "Orientação a objetos, estrutura de dados, estruturas condicionais, loops e funções em Python."
+        },
+        {
+            "interesse_evento_curso": "Git e Github",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Versionamento, Github, Git-flow."
+        },
+        {
+            "interesse_evento_curso": "HTML - Básico e Avançado",
+            "instituicao":"Fundação Bradesco",
+            "resumo_conhecimentos_interesses": "Noções básicas e avançadas de HTML."
+        },
+        {
+            "interesse_evento_curso": "Lógica de Programação",
+            "instituicao":"SENAI",
+            "resumo_conhecimentos_interesses": "Tipos de Dados (Inteiro, Real, Literal, Lógico), variáveis, expressões aritméticas, lógicas, repetição e estrutura de condição."
+        },
+        {
+            "interesse_evento_curso": "Qualificação de Auxiliar de Biblioteca",
+            "instituicao":"Class Cursos",
+            "resumo_conhecimentos_interesses": "Desenvolver competências para a atuarem como auxiliares em bibliotecas através do conhecimento de saberes específicos da área da biblioteconomia e ciência da informação."
+        },
+        {
+            "interesse_evento_curso": "Introdução à Editoração",
+            "instituicao":"Universidade de São Paulo",
+            "resumo_conhecimentos_interesses": "Princípios fundamentais do processo de produção editorial, desde o reconhecimento dos originais, passando pelas partes constituintes do livro (pré-textuais e textuais) até considerações acerca da finalização."
+        },
+        {
+            "interesse_evento_curso": "Práticas de leitura e escrita acadêmicas para graduação",
+            "instituicao":"Universidade de São Paulo",
+            "resumo_conhecimentos_interesses": "Técnicas de leitura e escrita voltadas para a formação na área de humanidades."
+        },
+        {
+            "interesse_evento_curso": "Gramática para preparadores de texto",
+            "instituicao":"Universidade do Livro",
+            "resumo_conhecimentos_interesses": "A gramática aplicada ao cotidiano do preparador e do revisor de texto. As fontes, as discussões em torno da norma e do uso."
+        },
+        {
+            "interesse_evento_curso": "Entrenamiento de Español para Extranjeros para el desarrollo de la expresión escrita",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Desenvolvimento da língua escrita em espanhol para estrangeiros."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao":8},
+        {"habilidade_ferramenta":"PYTHON", "pontuacao": 8},
+        {"habilidade_ferramenta":"HTML", "pontuacao": 8},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"API", "pontuacao": 8},
+        {"habilidade_ferramenta":"MVC", "pontuacao": 8},
+        {"habilidade_ferramenta":"ORIENTAÇÃO A OBJETOS", "pontuacao": 5},
+        {"habilidade_ferramenta":"NOSQL", "pontuacao": 8},
+        {"habilidade_ferramenta":"TESTES UNITÁRIOS", "pontuacao": 4},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 8},
+        {"habilidade_ferramenta":"VISUAL CODE", "pontuacao": 8},
+        {"habilidade_ferramenta":"NPM", "pontuacao": 7},
+        {"habilidade_ferramenta":"ROBO 3T", "pontuacao": 8},
+        {"habilidade_ferramenta":"POSTMAN", "pontuacao": 8},
+        {"habilidade_ferramenta":"HEROKU", "pontuacao": 4},
+        {"habilidade_ferramenta":"METODOLOGIA ÁGIL", "pontuacao": 4},
+        {"habilidade_ferramenta":"UX", "pontuacao": 5},
+        {"habilidade_ferramenta":"Inglês", "pontuacao": 7},
+        {"habilidade_ferramenta":"Espanhol", "pontuacao": 10},
+        {"habilidade_ferramenta":"Português", "pontuacao": 10}
+    ]
+}
