@@ -1,85 +1,122 @@
 {
     "nome_completo":"Edimara Roberta Rosa",
-    "o_que_eu_quero":"Descrição resumida sobre o que você deseja para sua carreira",
+    "o_que_eu_quero":"Desenvolvedora Back-end Jr",
     "cidade_estado:":"São Paulo/SP",
     "link_linkedin": "https://www.linkedin.com/in/mararosa/",
     "link_github":"https://github.com/mararosa",
     "email": "edimara.rosa@outlook.com",
 
     "um_pouco_sobre_mim":[
-        "Aqui é um parágrafo descrevendo um pouco sobre você", 
-        "Aqui é outro parágrafo falando sobre sua trajetória", 
-        "Nesse aqui você pode dizer o que você curte fazer",
-        "Fique a vontade, mas busque ser objetiva" 
+        "Eu sou a Mara, uma pessoa que sempre foi curiosa, criativa e estudiosa. Nascida e crescida na periferia do extremo leste de São Paulo, mas que nunca deixei a distância e os obstáculos  serem protagonistas na minha vida.", 
+        "Sou formada em ciências contábeis, atuei por alguns anos na área financeira; Experiência que me ajudou muito a aprimorar minhas habilidades análiticas e me expressar de uma maneira mais objetiva. Em 2016 decidi fazer um intercâmbio, para além do inglês, crescer como ser humano; Passei 24 meses vivendo com uma família americana, com total imersão na cultura, estudando inglês e sendo responsável pelos cuidados e segurança de três crianças. Após o meu retorno, resolvi estudar assuntos da área tecnologica, uma área que sempre tive paixão e curiosidade. Acredito que a tecnologia impacta vidas, e por isso estou em transição de carreira. Quero fazer parte dessa mudança, para ajudar empresas e desenvolver softwares que tragam mais diversidade.",
+        "Eu sempre estou procurando assuntos novos na internet, gosto de filmes, mas nem todos, assisto até o final se forem de mistério e psicológicos, aqueles filmes que a gente termina de assitir e precisa de mais 24 horas para entender o que aconteceu. Amo a natureza, então sempre que posso estou em alguma parte verde do Brasil, sou vegetariana e amo animais (sempre ando com um saquinho de ração na mochila), já resgatei alguns cães e gatos das ruas e quero poder fazer muito mais no futuro.",
     ],
 
     "no_que_ja_trabalhei":[
         {
-            "cargo_funcao": "Design Gráfica",
-            "empresa":"Empresa XPTO",
-            "periodo":"Jan/2017 a Dez/2018",
-            "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-            "link": null
+            "cargo_funcao": "Desenvolvedora Backend Jr – ChatBot",
+            "empresa":"Startup Pode Perguntar",
+            "periodo":"Set/2019 até o momento",
+            "atividades_desenvolvidas": "Curadoria do fluxo e conteúdo do Bot no Dialogflow. Utilização do Git, Heroku e Node.js para implementação de estruturas no backend."
+        },
+        {
+            "cargo_funcao": "Estágio – Planejamento Financeiro",
+            "empresa":"Construtora Tenda S.A",
+            "periodo":"Abr/2014 a Dez/2015",
+            "atividades_desenvolvidas": "Extração de informações no sistema ERP (SAP) e no sistema GPS para confecção da Demonstração de Resultados (DRE), responsável pela elaboração de relatórios gerenciais diversos e pelo acompanhamento dos resultados operacionais"
+        },
+        {
+            "cargo_funcao": "Estágio – Contabilidade e Finanças",
+            "empresa":"São Paulo Previdência",
+            "periodo":"Set/2013 a Dez/2013",
+            "atividades_desenvolvidas": "Responsável pela atualização do Fluxo de Caixa (Administrativo e Previdenciário) e elaboração de planilhas de contas a pagar dos servidores inativos."
         },
         {
             "cargo_funcao": "Projeto Voluntário",
-            "empresa":"Reprograma - Cliente Fulano",
+            "empresa":"AIESEC - Team Member Program - Finanças",
             "periodo":"Jan/2017 a Dez/2018",
-            "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-            "link":"http://clientefulano.com.br"
+            "atividades_desenvolvidas": "Responsável pelas análises de viabilidade, auditoria das contas mensais e dos documentos dos intercambistas."
+        },
+        {
+            "cargo_funcao": "Projeto Voluntário",
+            "empresa":"Trevisan - Imposto de Renda Solidário",
+            "periodo":"J2013/2014/2015",
+            "atividades_desenvolvidas": "Auxiliar o público no preenchimento da declaração do IRPF."
         }
     ],
 
     "o_que_ja_estudei":[
         {
-            "curso": "Design Gráfico",
-            "instituicao":"Escola Tal",
-            "periodo":"Jan/2016 a Dez/2018",
-            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+            "curso": "Bootcamp Backend",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Programaçao back-end(javascript,mongoDb, api), conhecimentos básicos de testes unitários e metodologias ágeis"
         },
         {
-            "curso": "Curso de Web Design",
-            "instituicao":"Escola Tal",
-            "periodo":"Jan/2015 a Dez/2015",
-            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
-        }
+            "curso": "Graduação em Ciências Contábeis",
+            "instituicao":"Trevisan Escola de Negócios ",
+            "periodo":"Jan/2012 a Dez/2015",
+            "resumo_conhecimentos_aprendidos": "Conceitos sobre contabilidade geral, financeira, pública, gerencial, legislação tributária e matemática financeira" 
+        },
+        {
+            "curso": "Técnico em Web Design",
+            "instituicao":"ETEC Guaracy Silveira ",
+            "periodo":"Jul/2008 a Dez/2009",
+            "resumo_conhecimentos_aprendidos": "Criação e planejamento de websites"
+        }   
     ],
 
     "meus_outros_aprendizados_e_interesses":[
         {
-            "interesse_evento_curso": "Curso online de Javascript",
-            "instituicao":"Udemy",
-            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+            "interesse_evento_curso": "Desevolvimento de aplicativos Android Studio - Kotlin",
+            "instituicao":"Mad Code",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do Kotlin, criação de apps utilizando o Android Studio"
         },
         {
-            "interesse_evento_curso": "Curso ES6",
+            "interesse_evento_curso": "Desenvolvimento em C#",
+            "instituicao":"Escola Senai de Informática",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do c# e orientação a objeto"
+        },
+        {
+            "interesse_evento_curso": "Introdução à programação ",
+            "instituicao":"Minas Programam",
+            "resumo_conhecimentos_interesses": "Introdução à logica de programação, dados, UX, software livre, PHP e JavaScript"
+        },
+        {
+            "interesse_evento_curso": "Curso online de Python",
             "instituicao":"Udemy",
-            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+            "resumo_conhecimentos_interesses": "Introdução à linguagem Python"
+        },
+        {
+            "interesse_evento_curso": "Curso online Dialogflow",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Criação de Chatbots baseados no Google Machine Learning, NLP, Actions on Google, Firebase, NodeJS, Canais, Google Nest Minit"
+        },
+        {
+            "interesse_evento_curso": "ESL (English as a Second Language)",
+            "instituicao":"Bergen Community College",
+            "resumo_conhecimentos_interesses": "Speech and English composition classes"
         }
     ],
 
     "no_que_me_destaco":[
-        {"habilidade_ferramenta":"HTML", "pontuacao":9},
-        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
-        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
         {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
-        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
-        {"habilidade_ferramenta":"NODE", "pontuacao": 1}, 
+        {"habilidade_ferramenta":"C#", "pontuacao": 6},
+        {"habilidade_ferramenta":"Kotlin", "pontuacao": 4},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 4},
+        {"habilidade_ferramenta":"NODE.JS", "pontuacao": 7}, 
         {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
-        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
-        {"habilidade_ferramenta":"REACT", "pontuacao": 8},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 4},
+        {"habilidade_ferramenta":"MongoDB", "pontuacao": 8},
+        {"habilidade_ferramenta":"API", "pontuacao": 9},
+        {"habilidade_ferramenta":"Dialogflow", "pontuacao": 8},
+        {"habilidade_ferramenta":"Android Studio", "pontuacao": 6},
+        {"habilidade_ferramenta":"Testes Unitários", "pontuacao": 4},
+        {"habilidade_ferramenta":"POO", "pontuacao": 4},
+        {"habilidade_ferramenta":"HTML", "pontuacao":5},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 5},
         {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
-        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
-        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
-        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
-        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 9},
-        {"habilidade_ferramenta":"PHP", "pontuacao": 3},
-        {"habilidade_ferramenta":"MySQL", "pontuacao": 3},
-        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 8},
-        {"habilidade_ferramenta":"FTP", "pontuacao": 5},
-        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8},
-        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 9},
-        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 9},
-        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 9}
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 5},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 5}    
     ]
 }
