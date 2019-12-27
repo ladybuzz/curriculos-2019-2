@@ -1,85 +1,155 @@
 {
     "nome_completo":"Francielle Michele Nascimento Silva",
-    "o_que_eu_quero":"Descrição resumida sobre o que você deseja para sua carreira",
-    "cidade_estado:":"São Paulo/SP",
-    "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-    "link_github":"https://github.com/seugithub",
-    "email": "seuemail@gmail.com",
+    "o_que_eu_quero":"Busco uma vaga no mercado como Desenvolvedora Back-end Jr.",
+    "cidade_estado:":"Barueri/SP",
+    "link_linkedin": "https://www.linkedin.com/in/francielle-nascimento",
+    "link_github":"https://github.com//francielle-nascimento",
+    "email": "nasc.francielle@gmail.com",
 
     "um_pouco_sobre_mim":[
-        "Aqui é um parágrafo descrevendo um pouco sobre você", 
-        "Aqui é outro parágrafo falando sobre sua trajetória", 
-        "Nesse aqui você pode dizer o que você curte fazer",
-        "Fique a vontade, mas busque ser objetiva" 
+        "Olá! Me chamo Francielle, sou desenvolvedora Backend, graduanda em Design de Mídias Digitais, graduada em Design Gráfico e também possuo Formação Técnica em Informática para Internet.", 
+        "Durante a maior parte da minha tragetória profissional atuei como designer gráfico, mas também possuo uma pequena de experiência como web designer.", 
+        "Gosto muito de estar com pessoas, de ler livros, estudar, comer e conhecer coisas novas.",
+        "Como mulher negra, estou em uma caminhada constante para mostrar que o lugar da mulher é onde ela se sentir melhor e que minha cor não define quem sou e muito menos meu destino." 
     ],
 
     "no_que_ja_trabalhei":[
         {
-            "cargo_funcao": "Design Gráfica",
-            "empresa":"Empresa XPTO",
-            "periodo":"Jan/2017 a Dez/2018",
-            "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+            "cargo_funcao": "Projeto Voluntário - Desenvolvedora Back-end",
+            "empresa":"Reprograma - Casa Porto",
+            "periodo":"Dez/2019 a atual",
+            "atividades_desenvolvidas": "Desenvolvimento de API com objetivo de organizar as aulas de reforço que as crianças recebem de alguns voluntários. ",
+            "link":"https://github.com/francielle-nascimento/CRUD-projeto_final"
+        },
+        
+        {
+            "cargo_funcao": "Projeto Voluntário",
+            "empresa":"Casa Porto",
+            "periodo":"Jan/2017 a atual",
+            "atividades_desenvolvidas": "Nosso trabalho é ter tempo de qualidade com as crianças, onde levamos atividades interativas buscando fazer com que elas reflitam sobre a sociedade e também sobre o futuro. ",
+            "link":null
+        },
+        {
+            
+            "cargo_funcao": "Design Gráfico - Freelancer",
+            "empresa":"Vide Gráfica",
+            "periodo":"Jan/2018 a Jun/2019",
+            "atividades_desenvolvidas": "Responsável por desenvolvimer cartões de visitas, panfletos, convites, banners, nos programas Ilustrator, InDesign, Photoshop e CorelDraw. Responsável pela criação de e-mail marketing, configurações de e-mail através do Photoshop e MailChimp",
             "link": null
         },
         {
-            "cargo_funcao": "Projeto Voluntário",
-            "empresa":"Reprograma - Cliente Fulano",
-            "periodo":"Jan/2017 a Dez/2018",
-            "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-            "link":"http://clientefulano.com.br"
+            "cargo_funcao": "Diagramadora",
+            "empresa":"Ponto Com",
+            "periodo":"Mar/2016 a Set/2017",
+            "atividades_desenvolvidas": "Responsável pelo desenvolvimento de peças gráficas como: cartões de visitas, panfletos, convites, banners, entre outros. Utilizando os programas Adobe Photoshop, Illustrator e InDesign. Experiência com diagramação de jornais, criação de layouts para peças gráficas, adaptando o projeto conforme as necessidades e público alvo do cliente.",
+            "link":null
+        },
+        {
+            "cargo_funcao": "Web Designer",
+            "empresa":"Guia Alpha",
+            "periodo":"Abr/2014 a Ago/2014",
+            "atividades_desenvolvidas": "Vivência com desenvolvimento front-end para criação de web sites,hot sites e documentos disponíveis no ambiente da web em HTML 5, CSS 3 e JavaScript, além de ser responsável pela aplicação de testes de funcionamento das criações, com a finalidade de corrigir eventuais problemas. Vivência na definição de linha de design correspondente ao perfil do cliente, público alvo com desenvolvimento e adaptação para layouts em Joomla para a rápida execução e responsividade do site. ",
+            "link":null
+        },
+        {
+            "cargo_funcao": "Web Designer",
+            "empresa":"Cirúrgica Fernandes",
+            "periodo":"Out/2012 a Abr/2014",
+            "atividades_desenvolvidas": "Experiência com desenvolvimento de catálogo online da empresa, utilizando os programas Ilustrator, InDesign e Photoshop. ",
+            "link":null
         }
+
+        
     ],
 
     "o_que_ja_estudei":[
         {
-            "curso": "Design Gráfico",
-            "instituicao":"Escola Tal",
-            "periodo":"Jan/2016 a Dez/2018",
-            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+            "curso": "Design de Mídias digitais",
+            "instituicao":"Faculdade de Técnologia - FATEC",
+            "periodo":"Ago/2018 a Dez/2021",
+            "resumo_conhecimentos_aprendidos": "Curso voltado para conhecimentos em design digital, desenvolvimento web e marketing digital."
         },
         {
-            "curso": "Curso de Web Design",
-            "instituicao":"Escola Tal",
-            "periodo":"Jan/2015 a Dez/2015",
-            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+            "curso": "Desenvolvedora Back-end",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Curso voltado para conhecimentos em desenvolvimento Back-end em NodeJS, MongoDB e outras tecnologias."
+        },
+        {
+            "curso": "Design Gráfico",
+            "instituicao":"Universidade Paulista - UNIP",
+            "periodo":"Jan/2012 a Dez/2014",
+            "resumo_conhecimentos_aprendidos": "Curso voltado para conhecimentos em design gráfico, suas áreas e ferramentas."
+        },
+        {
+            "curso": "Técnico em Informática para Internet ",
+            "instituicao":"Instituto Técnico de Barueri - ITB",
+            "periodo":"Jan/2009 a Dez/2011",
+            "resumo_conhecimentos_aprendidos": "Ensino médio técnico em web designer e suas ferramentas"
         }
     ],
 
     "meus_outros_aprendizados_e_interesses":[
         {
-            "interesse_evento_curso": "Curso online de Javascript",
-            "instituicao":"Udemy",
-            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+            "interesse_evento_curso": "Web Designer",
+            "instituicao":"SENAI ",
+            "resumo_conhecimentos_interesses": "Entendimento sobre HTML 5, CSS 3, JavaScript, Illustrator e Photoshop."
         },
         {
-            "interesse_evento_curso": "Curso ES6",
+            "interesse_evento_curso": "Criação de Web Sites – HTML 5 e CSS 3 ",
+            "instituicao":"SENAC",
+            "resumo_conhecimentos_interesses": "Entendimento sobre HTML 5, CSS 3 e Photoshop. "
+        },
+        {
+            "interesse_evento_curso": "Ilustração Digital  ",
+            "instituicao":"SENAC",
+            "resumo_conhecimentos_interesses": "Entendimento sobre illustração Digital no programa CorelDraw. "
+        },
+
+        {
+            "interesse_evento_curso": "Curso Online de Algoritmos",
+            "instituicao":"Curso em Vídeo",
+            "resumo_conhecimentos_interesses": "Entendimento sobre algoritmos e lógica de programação."
+        },
+        {
+            "interesse_evento_curso": "Curso Online Fundamentos para Lógica de Programação C e C++. ",
             "instituicao":"Udemy",
-            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+            "resumo_conhecimentos_interesses": "Entendimento sobre algoritmos e lógica de programação em C e C++."
+        },
+        {
+            "interesse_evento_curso": "Curso Online Git e Contribuições para Projetos Open Source",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a importancia e utilização do Git e GitHub. "
         }
-    ],
+        
+   ],
 
     "no_que_me_destaco":[
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 9}, 
+        {"habilidade_ferramenta":"NODEJS", "pontuacao": 9},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 9},
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 9},
+        {"habilidade_ferramenta":"API", "pontuacao": 9},
+        {"habilidade_ferramenta":"ARQUITETURA MVC", "pontuacao": 9},
         {"habilidade_ferramenta":"HTML", "pontuacao":9},
-        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
-        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
-        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
-        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
-        {"habilidade_ferramenta":"NODE", "pontuacao": 1}, 
-        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
-        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
-        {"habilidade_ferramenta":"REACT", "pontuacao": 8},
-        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
         {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
-        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
-        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
-        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 9},
-        {"habilidade_ferramenta":"PHP", "pontuacao": 3},
-        {"habilidade_ferramenta":"MySQL", "pontuacao": 3},
-        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 8},
-        {"habilidade_ferramenta":"FTP", "pontuacao": 5},
-        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8},
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 9},
         {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 9},
-        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 9},
-        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 9}
+        {"habilidade_ferramenta":"ILLUSTRATOR", "pontuacao": 9},
+        {"habilidade_ferramenta":"CORELDRAW", "pontuacao": 9},
+        {"habilidade_ferramenta":"MATEMÁTICA DISCRETA", "pontuacao": 9},
+        {"habilidade_ferramenta":"ESTATISTICA", "pontuacao": 9},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 8},
+        {"habilidade_ferramenta":"EXPRESS", "pontuacao": 8},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 8},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 8},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 8},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8},    
+        {"habilidade_ferramenta":"ARDUINO", "pontuacao": 7},
+        {"habilidade_ferramenta":"JOOMLA", "pontuacao": 7},
+        {"habilidade_ferramenta":"TESTES UNITÁRIOS", "pontuacao": 7},               
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 5},
+        {"habilidade_ferramenta":"INGLÊS", "pontuacao": 8},
+        {"habilidade_ferramenta":"ESPANHOL", "pontuacao": 6}
     ]
 }
