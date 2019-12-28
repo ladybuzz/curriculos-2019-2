@@ -1,0 +1,139 @@
+{
+    "nome_completo": "Fernanda Oliveira",
+    "o_que_eu_quero": "Backend Developer",
+    "cidade_estado:": "São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/oliveiramf/",
+    "link_github": "https://github.com/femoli",
+    "email": "oliveira-mf@outlook.com",
+    "um_pouco_sobre_mim": [
+        "Estou em transição para o mercado de tecnologia e desenvolvimento. Venho da área de arquitetura e urbanismo, onde me especializei em questões técnicas como detalhamento e compatibilização de projetos.",
+        "O desenvolvimento de tecnologias e softwares tem otimizado diversos processos na arquitetura, por isso comecei a estudar tecnologias BIM e geoprocessamento. Nesse caminho, conheci Python, JavaScript e as infinitas possibilidades que a programação pode trazer. Foi quando eu percebi que não podia mais voltar para o papel e a lapiseira.",
+        "Atualmente, estudo desenvolvimento web com HTML5, CSS3 e ReactJS. Tenho conhecimento em JavaScript, Node.js e mongoDB."
+    ],
+    "no_que_ja_trabalhei": [
+        {
+            "cargo_funcao": "Freelancer | Arquitetura",
+            "empresa": null,
+            "periodo": "Ago/2014 a Out/2019",
+            "atividades_desenvolvidas": "Desenvolvimento de projetos, detalhamento técnico e layouts, utilizando os softwares AutoCAD e SketchUp.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Estagiária | Arquitetura",
+            "empresa": "PMSP - Secretaria da Habitação (SEHAB)",
+            "periodo": "Out/2017 a Set/2018",
+            "atividades_desenvolvidas": "Elaboração de plantas, peças gráficas e memoriais; auxílio na produção de laudos e relatórios; elaboração de apresentações referentes aos resultados e projetos ativos do setor",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Estagiária | Arquitetura",
+            "empresa": "PMSP - Secretaria de Assistência e Desenvolvimento Social (SMADS)",
+            "periodo": "Abr/2016 a Abr/2017",
+            "atividades_desenvolvidas": "Atendimento e redirecionamento de solitações externas e internas; estudo e desenho de soluções para layout e reforma; elaboração de orçamento, memoriais e especificação de materiais; atendimento às ONGs e instituições parceiras da Secretaria.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Monitora",
+            "empresa": "FAU-Mackenzie",
+            "periodo": "Abr/2016 a Abr/2017",
+            "atividades_desenvolvidas": "Como monitora na disciplina de Teoria da Arquitetura 4, auxiliei os alunos com questões de cronograma, atividades e dúvidas sobre o conteúdo das aulas. Dando feedbacks e intermediando a relação entre os discentes e os professores.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Voluntária",
+            "empresa": "Escritório modelo da FAU-Mackenzie",
+            "periodo": "Jun/2013 a Mar/2014",
+            "atividades_desenvolvidas": "Participei do Grupo de Trabalho Moçambique, que, junto ao escritório piloto da Poli-USP e a ONG Vida para África, realizou o projeto de um centro educacional no distrito de Boane. Produzi estudos de viabilidade para as salas de aula e atividades técnicas profissionalizantes. Também auxiliei no estudo e desenho das áreas comuns (refeitórios e pátios)",
+            "link": "https://mosaicoemau.Wixsite.Com/mosaico/gt-mocambique-2012-2014"
+        }
+    ],
+    "o_que_ja_estudei": [
+        {
+            "curso": "Bootcamp de Formação Backend",
+            "instituicao": "{reprograma}",
+            "periodo": "259 horas - Concluído",
+            "resumo_conhecimentos_aprendidos": "Desenvolvimento de uma API para gerenciamento e controle de projetos arquitetônicos e de engenharia civil, utilizando JavaScript, Node.js com Express e mongoDB com Mongoose.",
+            "link": "https://github.com/femoli/archiC-management"
+        },
+        {
+            "curso": "Arquitetura e Urbanismo",
+            "instituicao": "Universidade Presbiteriana Mackenzie",
+            "periodo": "Jan/2013 - Interrompido",
+            "resumo_conhecimentos_aprendidos": "Desenvolvimento do projeto de E-commerce 'sobDesign' para a disciplina de Projetos Empreendedores II. Fui responsável pela concepção da identidade visual e criação do site.",
+            "link": "https://github.com/femoli/sobDesign_html5-css3"
+        },
+        {
+            "curso": "Design de interiores",
+            "instituicao": "Centro Paula Souza",
+            "periodo": "Jan/2011 - Jun/2012",
+            "resumo_conhecimentos_aprendidos": "Curso no eixo tecnológico de produção cultural e design, focado na na elaboração e execução de projetos de interiores de espaços residenciais, comerciais, vitrines e exposições, visando à estética e ergonomia para enriquecer a experiência do usuário.",
+            "link": null
+        }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+        {
+            "curso": "Bootcamp Desenvolvedor Web Backend",
+            "instituicao": "DIO (Digital Innovation One)",
+            "resumo_conhecimentos": "Desenvolvimento de códigos com regras de negócios, segurança, banco de dados e integração entre sistemas, mantendo o alinhamento com o front-end da aplicação. Tecnologias: Python com Flask, Django, REST API, Node.js com Express, JavaScript, PostgreSQL e SCRUM."
+        },
+        {
+            "curso": "Starter",
+            "instituicao": "RocketSeat",
+            "resumo_conhecimentos": "ES6, Node.js, React JS e React Native."
+        }
+    ],
+    "no_que_me_destaco": [
+        {
+            "habilidade_ferramenta": "JAVASCRIPT",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "PYTHON",
+            "pontuacao": 3
+        },
+        {
+            "habilidade_ferramenta": "NODE.JS",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "MONGODB",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "HTML5",
+            "pontuacao": 10
+        },
+        {
+            "habilidade_ferramenta": "CSS3",
+            "pontuacao": 10
+        },
+        {
+            "habilidade_ferramenta": "REACT JS",
+            "pontuacao": 5
+        },
+        {
+            "habilidade_ferramenta": "REACT NATIVE",
+            "pontuacao": 5
+        },
+        {
+            "habilidade_ferramenta": "GIT/GITHUB",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "PHOTOSHOP",
+            "pontuacao": 5
+        },
+        {
+            "habilidade_ferramenta": "ILLUSTRATOR",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "INKSCAPE",
+            "pontuacao": 5
+        },
+        {
+            "habilidade_ferramenta": "SCRUM",
+            "pontuacao": 5
+        }
+    ]
+}
