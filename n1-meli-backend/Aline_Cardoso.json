@@ -41,21 +41,6 @@
 
     "o_que_ja_estudei":[
         {
-            "curso": "Design Gráfico",
-            "instituicao":"Escola Tal",
-            "periodo":"Jan/2016 a Dez/2018",
-            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
-        },
-        {
-            "curso": "Curso de Web Design",
-            "instituicao":"Escola Tal",
-            "periodo":"Jan/2015 a Dez/2015",
-            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
-        }
-    ],
-
-    "meus_outros_aprendizados_e_interesses":[
-        {
             "interesse_evento_curso": "Desenvolvedora Back-end(Lógica de programação,Js,Node.js)",
             "instituicao":"Reprograma",
             "resumo_conhecimentos_interesses": "Adquirido conhecimentos em node.js,MongoDB,metodologias ágeis e User experience"
