@@ -1,0 +1,100 @@
+{
+    "nome_completo":"Aline dos Santos Cardoso",
+    "o_que_eu_quero":"Quero cada vez mais ser uma desenvolvedora conhecida no mundo da tecnoclogia por compartilhar conhecimento",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "www.linkedin.com/in/aline-santos-cardoso",
+    "link_github":"https://github.com/cardosoaline",
+    "email": "alinedsc1989@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Sou a Aline me formei em dois bootcamps um de full-Stack com enfase em java e outro em back-end node.js", 
+        "Amo programar e me esforço para cada dia haver mais desafios bem sucedidos", 
+        "Atualmente programo em java e ultilizo framework springBoot e busco uma oportunidade de trabalhar ",
+        "em algo que estimule a minha criatividade e me de a oportunidade de pensar em usabilidade e inovação ",
+        "Programação é algo que mudou e vai continuar mudando minha vida a palavra que define este momento é gratidão!" 
+    ],
+
+    "no_que_ja_trabalhei":[
+
+        {
+            "cargo_funcao": "Desenvolvedora de Sistemas",
+            "empresa":"Empresa Filah Soluções Integradas",
+            "periodo":"Dez/2019 a Atual",
+            "atividades_desenvolvidas": "Realizo projetos dentro do setor de logistica,Sou Full-Stack{Front e back}/Java,Thymeleaf(Html,Js e Css) e Postgres.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Desenvolvedora Jr",
+            "empresa":"Empresa BRQ Soluções Em Informática S.A",
+            "periodo":"Set/2019 a Nov/2019",
+            "atividades_desenvolvidas": "Realizado projeto interno,realizado a automação de uma planilha em excel,com vários calculos e transformado em um portal para que o RH ultiliza-se{Java,SpringBoot e MySql}.", 
+             "link": null
+        },
+        {
+            "cargo_funcao": "Técnica em informática",
+            "empresa":"MH Serviços em TI LTDA ME",
+            "periodo":"01/2016 a 08/2018",
+            "atividades_desenvolvidas": "Realizava atendimento de suporte presencial e remoto,Formatação de desktop,troca de periféricos e limpeza das maquinas (Manutenção Preventiva).",
+            "link":"null"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Design Gráfico",
+            "instituicao":"Escola Tal",
+            "periodo":"Jan/2016 a Dez/2018",
+            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+        },
+        {
+            "curso": "Curso de Web Design",
+            "instituicao":"Escola Tal",
+            "periodo":"Jan/2015 a Dez/2015",
+            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Desenvolvedora Back-end(Lógica de programação,Js,Node.js)",
+            "instituicao":"Reprograma",
+            "resumo_conhecimentos_interesses": "Adquirido conhecimentos em node.js,MongoDB,metodologias ágeis e User experience"
+        },
+        {
+            "interesse_evento_curso": "Desenvolvedora Web Java Junior",
+            "instituicao":"Generation",
+            "resumo_conhecimentos_interesses": "Adquirido conhecimento em Java,SpringBoot e MySql"
+        }
+        ,
+        {
+            "interesse_evento_curso": "Técnica em Informática",
+            "instituicao":"Senac",
+            "resumo_conhecimentos_interesses": "Adquirido conhecimento em Suporte e manutenção de computadores,assim como desenvolvimento de sistemas em C#"
+        }
+        ,
+        {
+            "interesse_evento_curso": "Analista e desenvolvedora de sistemas ",
+            "instituicao":"Uninove {Cursando finalizo em DEZ/2021}",
+            "resumo_conhecimentos_interesses": "Adquirindo conhecimentos."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":5},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 6},       
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 7},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 6},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 6},      
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 8},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 6},       
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 7},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 7},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 5},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 5},
+        {"habilidade_ferramenta":"Java", "pontuacao": 8},
+        {"habilidade_ferramenta":"SpringBoot", "pontuacao": 8}
+        {"habilidade_ferramenta":"Angular8", "pontuacao": 6}
+    ]
+}
