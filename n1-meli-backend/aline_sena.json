@@ -1,0 +1,101 @@
+{
+    "nome_completo":"Aline Camilo Sena",
+    "o_que_eu_quero":"Quero ocupar um cargo de desenvolvimento Java ou Node.js preferencialmente no qual me permita aprender mais a cada dia em um ambiente desafiador e inovador",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/sena",
+    "link_github":"https://github.com/bahamonde",
+    "email": "alinecamilosena@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "29 anos, desenvolvedora junior", 
+        "Em 2019 eu entrei de vez no mundo do desenvolvimento, fiz 3 bootcamps: Um focado em Front-end, um focado em Back-end Java e um focado em Back-end Node.js. Também fiz um curso sobre Big Data e iniciei a faculdade de Análise e desenvolvimento de sistemas.", 
+        "Gosto de viajar, estudar idiomas, ir ao cinema, assistir séries e ouvir sobre filosofia." 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Desenvolvedora Junior",
+            "empresa":"BRQ",
+            "periodo":"Set/2019 a Nov/2019",
+            "atividades_desenvolvidas": "Desenvolvimento de um projeto interno para a área de vendas na empresa na qual automatizei tabelas de excel utilizadas para tomada de decisão de novos projetos transformando em um portal unico. A parte de back-end foi feita em Java e Angular para a integração com o front-end. Sai da empresa porque tive a oportunidade de realizar de um intercambio de 3 meses para aprimorar o idioma inglês",
+            "link": null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Analise e desenvolvimento de sistemas",
+            "instituicao":"Impacta",
+            "periodo":"Ago/2019 a Jun/2021",
+            "resumo_conhecimentos_aprendidos": "Matérias teoricas e praticas de lógica, programação Python, banco de dados relacional, IOT com arduino."
+        },
+        {
+            "curso": "Bootcamp back-end Node.js",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Curso de back-end de 14 semanas focado em Javascript, Node.js e banco de dados não relacional. Bootcamp realizado em parceria com o Mercado Livre na Melicidade."
+        },
+        {
+            "curso": "Bootcamp back-end Java",
+            "instituicao":"Digital House - Generation",
+            "periodo":"Mar/2019 a Jun/2019",
+            "resumo_conhecimentos_aprendidos": "Treinamento em horário integral somando 480 horas sobre desenvolvimento Java. Adquiri habilidades técnicas em Java usando o framework Spring e a IDE Intellij Idea, fiz integração com o banco de dados usando MySQL Workbench, UML e a linguagem SQL e integramos a parte de front-end utilizando Angular."
+        },
+        {
+            "curso": "Análise de Big Data",
+            "instituicao":"FIA - Fundação Instituto de Administração",
+            "periodo":"Mar/2019 a Jul/2019",
+            "resumo_conhecimentos_aprendidos": "curso de extensão de 80 horas tive contato com tecnologias de gerenciamento de grande volume de dados e visualização como Hadoop e Power BI, nos aprofundamos no uso das linguagens Python e R para a manipulação de dados e introdução a machine learning e estatística."
+        },
+        {
+            "curso": "Bootcamp front-end",
+            "instituicao":"Mastertech",
+            "periodo":"Fev/2019 a Mar/2019",
+            "resumo_conhecimentos_aprendidos": "Bootcamp de 80 horas onde aprimorei minhas habilidades com HTML e CSS, fiz animações com JavaScript e tive o primeiro contato com a integração do back-end usando a linguagem Python e o framework Django."
+        },
+        {
+            "curso": "Curso Python para dados",
+            "instituicao":"CEBRAP - Projeto Minas Programam",
+            "periodo":"Fev/2019 a Fev/2019",
+            "resumo_conhecimentos_aprendidos": "Curso de 20 horas onde aprendi sobre importação e armazenamento de dados, limpeza e pré-processamento das bases, ferramentas básicas para análise (pandas e numpy) e visualização dos resultados."
+        },
+        {
+            "curso": "Curso Técnico de Informática para Internet",
+            "instituicao":"IFSP - Instituto Federal de São Paulo",
+            "periodo":"Ago/2015 a Jun/2017",
+            "resumo_conhecimentos_aprendidos": "Nesse curso iniciei meus estudos sobre programação, banco de dados e redes. Tive contato com a linguagem C# e aprendi sobre e-commerce"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Formação Angular",
+            "instituicao":"Alura",
+            "resumo_conhecimentos_interesses": "Entendimento sobre integração de projetos com Angular 8"
+        },
+        {
+            "interesse_evento_curso": "Desenvolvendo Web Services com Java",
+            "instituicao":"Impacta",
+            "resumo_conhecimentos_interesses": "Entendimento sobre integração de sistemas e desenvolvimento Web Services com uso da linguagem Java "
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 8},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"JAVA", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 7},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 6},
+        {"habilidade_ferramenta":"ANGULAR", "pontuacao": 7},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 7},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 8},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 7},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 7},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 6}
+    ]
+}
