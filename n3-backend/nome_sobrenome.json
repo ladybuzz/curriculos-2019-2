@@ -1,85 +1,148 @@
 {
-    "nome_completo":"Seu Nome Completo",
-    "o_que_eu_quero":"Descrição resumida sobre o que você deseja para sua carreira",
-    "cidade_estado:":"São Paulo/SP",
-    "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-    "link_github":"https://github.com/seugithub",
-    "email": "seuemail@gmail.com",
-
-    "um_pouco_sobre_mim":[
-        "Aqui é um parágrafo descrevendo um pouco sobre você", 
-        "Aqui é outro parágrafo falando sobre sua trajetória", 
-        "Nesse aqui você pode dizer o que você curte fazer",
-        "Fique a vontade, mas busque ser objetiva" 
+    "nome_completo": "Dayane Alves de Andrade",
+    "o_que_eu_quero": "Busco desenvolvimento e crescimento profissional para ser uma qualificada profissional do futuro, desenvolvedora capacitada na resolução e solução de problemas.",
+    "cidade_estado:": "Diadema/SP",
+    "link_linkedin": "https://www.linkedin.com/in/dayane-alves-a41193150/",
+    "link_github": "https://github.com/AndradeDay",
+    "email": "andradeda1997@gmail.com",
+    "um_pouco_sobre_mim": [
+        "Sempre em busca de novidades, desde pequena busco fazer coisas diferentes desde o Ballet até jogos online, do Volei a capoeira, diversa e sempre mudando a forma de olhar para o mundo.",
+        "Comecei minha vida profissional bem joven, desde o 16 anos, isso me traz diversas experiencias, visões e pensamentos, fiz faculdade de gestão de tecnologia da informação, pois, queria ter mais informações sobre um assunto que tanto me interessava, e o melhor disso, foi ter a oportunidade de lidar e mexer com dados, o maximo! Analiso dados como ninguém. Hoje, me desafiei a ser desenvolvedora, me inscrevi na {Reprograma} e comecei uma nova etapa da minha vida.",
+        "Gosto de ler, andar de patins, andar de bicicleta, jogar vôlei, assistir videos, documentarios, séries e filmes, gosto de cozinhar... sim!! adoro fazer o pessoal comer.",
+        "Estudei Ballet e Jazz por 6 anos, já joguei volei, lutei capoeira e Crav Maga"
     ],
-
-    "no_que_ja_trabalhei":[
+    "no_que_ja_trabalhei": [
         {
-            "cargo_funcao": "Design Gráfica",
-            "empresa":"Empresa XPTO",
-            "periodo":"Jan/2017 a Dez/2018",
-            "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-            "link": null
+            "cargo_funcao": "Auxiliar de BKO",
+            "empresa": "Acosta Contact Center",
+            "periodo": "jun/2019 a Jan/2020",
+            "atividades_desenvolvidas": "Desenvolvimento e manutenção de relatórios operacionais e gerencias com foco e resultado, consulta ao banco de dados trazendo dados tomada de decisão, alimentação do banco atraves de importação de arquivos via CRM, manipulação, leitura e implementação de layout.",
+            "CRM": "EasyCollector",
+            "Credores": "CREDZ e RCB-Itapeva "
         },
         {
-            "cargo_funcao": "Projeto Voluntário",
-            "empresa":"Reprograma - Cliente Fulano",
-            "periodo":"Jan/2017 a Dez/2018",
-            "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-            "link":"http://clientefulano.com.br"
-        }
-    ],
-
-    "o_que_ja_estudei":[
-        {
-            "curso": "Design Gráfico",
-            "instituicao":"Escola Tal",
-            "periodo":"Jan/2016 a Dez/2018",
-            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+            "cargo_funcao": "Estágio auxiliar de BKO",
+            "empresa": "Acosta Contact Center",
+            "periodo": "Jul/2018 a Dez/2018",
+            "atividades_desenvolvidas": "Alimentação do banco de dados atraves de importação de arquivos via CRM, Atualização de bordero de pagamento, Baixas de pagamentos.",
+            "CRM": "Cobsystems e EasyCollector",
+            "Credores": "BV, CREDZ, Riachuelo e RCB-Itapeva"
         },
         {
-            "curso": "Curso de Web Design",
-            "instituicao":"Escola Tal",
-            "periodo":"Jan/2015 a Dez/2015",
-            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
-        }
-    ],
-
-    "meus_outros_aprendizados_e_interesses":[
-        {
-            "interesse_evento_curso": "Curso online de Javascript",
-            "instituicao":"Udemy",
-            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+            "cargo_funcao": "Estágio Suporte Tecnico",
+            "empresa": "Ominion Marketing de relacionamento",
+            "periodo": "Jun/2017 a jun/2018",
+            "atividades_desenvolvidas": "Auxilio na resolução dos problemas do cliente, auxilio na instalçao e manutençã do software fornecido."
         },
         {
-            "interesse_evento_curso": "Curso ES6",
-            "instituicao":"Udemy",
-            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+            "cargo_funcao": "Operador de Call center",
+            "empresa": "Indra company",
+            "periodo": "mar/2016 a Dez/2016",
+            "atividades_desenvolvidas": "Atendimento ao cliente da CEF o auxiliando sobre assuntos bancarios"
         }
     ],
-
-    "no_que_me_destaco":[
-        {"habilidade_ferramenta":"HTML", "pontuacao":9},
-        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
-        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
-        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
-        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
-        {"habilidade_ferramenta":"NODE", "pontuacao": 1}, 
-        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
-        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
-        {"habilidade_ferramenta":"REACT", "pontuacao": 8},
-        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
-        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
-        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
-        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
-        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 9},
-        {"habilidade_ferramenta":"PHP", "pontuacao": 3},
-        {"habilidade_ferramenta":"MySQL", "pontuacao": 3},
-        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 8},
-        {"habilidade_ferramenta":"FTP", "pontuacao": 5},
-        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8},
-        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 9},
-        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 9},
-        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 9}
+    
+    "o_que_ja_estudei": [
+        {
+            "curso": "Gestão de Tecnologia da informação",
+            "instituicao": "Faculdade Sumaré",
+            "periodo": "Ago/2016 a Dez/2018",
+            "resumo_conhecimentos_aprendidos": "Aprendiazado ao gerenciamento do setor de tecnologia, como metodologias ageias como: Scrum e XP. Conhecendo ITIL, COBIT, PMBOK com capacidade e conhecimento para aplica-los, noções basicas de Desenvolvimento Web, Gestão financiera, Gestao de pessoas, Gestão de Mudanças e Marketing digital."
+        },
+        {
+            "curso": "Bootcamp Desenvolvimento BackEnd",
+            "instituicao": "Reprograma",
+            "periodo": "Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Desenvolvimento De API Rest, usando JavaScript e as tecnologias NodeJs, MongoDB, Express, Mongoose."
+        },
+        {
+            "curso": "Introdução ao desenvolvimento Front",
+            "instituicao": "MasterTech",
+            "periodo": "16h",
+            "resumo_conhecimentos_aprendidos": "Noções básicas ao desenvolvimento front, aprendendos funções do HTML, CSS e JavaScript."
+        },
+        {
+            "curso": "App Developmente",
+            "instituicao": "MadCode",
+            "periodo": "36h",
+            "resumo_conhecimentos_aprendidos": "Desenvolvimento de um App com a linguagem Kotlin no Android Studio"
+        }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+        {
+            "interesse_evento_curso": "Curso online de Scrum",
+            "instituicao": "Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento Sobre a Metodologia Agil"
+        }
+    ],
+    "no_que_me_destaco": [
+        {
+            "habilidade_ferramenta": "HTML",
+            "pontuacao": 4
+        },
+        {
+            "habilidade_ferramenta": "CSS",
+            "pontuacao": 3
+        },
+        {
+            "habilidade_ferramenta": "KOTLIN",
+            "pontuacao": 5
+        },
+        {
+            "habilidade_ferramenta": "JAVASCRIPT",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "EXPRESS",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "NODEJS",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "GIT/GITHUB",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+            "pontuacao": 7
+        },
+        {
+            "habilidade_ferramenta": "MySQL",
+            "pontuacao": 5
+        },
+        {
+            "habilidade_ferramenta": "MongoDB",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "MONGOOSE",
+            "pontuacao": 6
+        },
+        {
+            "habilidade_ferramenta": "EXCEL",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "PowerBI",
+            "pontuacao": 3
+        },
+        {
+            "habilidade_ferramenta": "ANALISE DE DADOS",
+            "pontuacao": 8
+        },
+        {
+            "habilidade_ferramenta": "ATENDIMENTO AO CLIENTE",
+            "pontuacao": 9
+        },
+        {
+            "habilidade_ferramenta": "TRABALHO EM EQUIPE",
+            "pontuacao": 9
+        },
+        {
+            "habilidade_ferramenta": "RELAÇÃO INTERPESSOAL",
+            "pontuacao": 9
+        }
     ]
 }
