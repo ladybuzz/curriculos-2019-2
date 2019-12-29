@@ -1,0 +1,60 @@
+{
+    "nome_completo":"Joice Oliveira da Silva",
+    "o_que_eu_quero":"Atuar em projetos como desenvolvedora backend",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/joice-oliveira-da-silva-97a559121/",
+    "link_github":"https://github.com/joisilv",
+    "email": "joice-silva1996@hotmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Sou bacharel em administração em migração de carreira para area de tecnologia, em busca de novos desafios neste mercado que está em grande ascenção", 
+        "Minha trajetória profissional sempre foi focada em atividades administrativas e financeiras e recentemente graças ao projeto Reprograma para ingresso de mulheres no mercado de tecnologia", 
+        "Amo aprender coisas novas, ler e sempre ir em busca dos meus objetivos",
+        "Busco novas oportunidades para entrar no mercado de tecnologia e diminuir cada vez mais o gap de genero"
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Analista Controle Economico JR",
+            "empresa":"MAPFRE SEGURADORS",
+            "periodo":"Desde Set/2016",
+            "atividades_desenvolvidas": "Principais atividades relacionadas a controladoria de empresas e controles de suas finanças com base no orçamento de gastos e negociações com seus fornecedores."
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Desenvolvimento BACKEND",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Aprendizado sobre os principais conceitos backend e aplicação das ferramentas para o seu funcionamento"
+        },
+        {
+            "curso": "Graduação em Administração",
+            "instituicao":"Universidade Paulista - UNIP",
+            "periodo":"Jan/2015 a Dez/2018",
+            "resumo_conhecimentos_aprendidos": "Gestão de Pessoas, Planejamento Organizacional, Controle de Finanças empresariais, Principais fundamentos da administração de empresas"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso online de Javascript",
+            "instituicao":"Escola Virtual",
+            "resumo_conhecimentos_interesses": "Aplicação dos principais conceitos da linguagem javascript"
+        }
+        
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":7},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 4},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"NODE", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 7},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 7},
+        {"habilidade_ferramenta":"KOTLIN", "pontuacao": 8}
+
+    ]
+}
