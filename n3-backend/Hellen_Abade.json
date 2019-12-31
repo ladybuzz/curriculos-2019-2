@@ -1,0 +1,69 @@
+{
+    "nome_completo":"Hellen Lima Abade",
+    "o_que_eu_quero":"Quero me tornar uma programadora fullstack com foco em inteligência artificial",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/hellen-abade-2432a6160",
+    "link_github":"https://github.com/ALHellen",
+    "email": "hellen.abade@outlook.com",
+
+    "um_pouco_sobre_mim":[
+        "Meu nome é Hellen, tenho 20 anos e sou de São Paulo.", 
+        "Comecei minha trajetória na área de tecnologia em Fevereiro de 2018, quando dei início ao curso Técnico em Informática na ETEC. Durante o curso e após me formar em Junho de 2019, passei a participar dos eventos oferecidos pela Google (Google Summit e Google Cloud on Board) e a participar também de palestras sobre Big Data e Inteligência Artificial na FIA, e logo em seguida, participei do FDS de programação oferecido pela Mastertech na Estação Hack. Pouco tempo depois, em Setembro, fui uma das selecionadas para o curso de Backend na Reprograma, na qual me formei em Dezembro e adquiri ainda mais conhecimento.", 
+        "Gosto muito de desenhar, ler mangás e livros diversos, assistir animes, séries e filmes, estudar coisas novas etc."
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Analista",
+            "empresa":"Meta Gerenciamento e Prjetos",
+            "periodo":"Ago/2019",
+            "atividades_desenvolvidas": "Análise de processos e documentações para regularização de imóveis junto ao corpo de Bombeiros - AVCB , além de auxiliar na criação de novas maneiras de otimizá-lo.",
+            "link": null
+        }
+        ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Programação Backend",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Programação backend utilizando Javascript, Node.js, Express, MongoDB e Git."
+        },
+        {
+            "curso": "Técnico em Informática",
+            "instituicao":"ETEC de Taboão da Serra",
+            "periodo":"Fev/2018 a Jun/2019",
+            "resumo_conhecimentos_aprendidos": "Programação Fullstack, utilizando Orientação a Objetos, Java, C#, PHP, HTML e CSS, MySQL, base de Redes de Computadores, além de conhecer um pouco sobre a ferramenta Android Studio."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "FDS de Programação",
+            "instituicao":"Mastertech",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica de HTML e CSS."
+        },
+        {
+            "interesse_evento_curso": "Google Cloud",
+            "instituicao":"Google - Cloud on Board",
+            "resumo_conhecimentos_interesses": "Primeiros passos para a utilização da Google Cloud."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":8},
+        {"habilidade_ferramenta":"JAVA", "pontuacao":7},
+        {"habilidade_ferramenta":"C#", "pontuacao":7},
+        {"habilidade_ferramenta":"IONIC", "pontuacao":6},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 8},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 7},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"NODE", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 5},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 7},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 3},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 9},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 5}
+    ]
+}
