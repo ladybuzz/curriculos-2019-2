@@ -1,0 +1,94 @@
+{
+    "nome_completo":"Regiane Maioli da Silva",
+    "o_que_eu_quero":"Migrar para area de Desenvolvimento",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/regianemaioli/",
+    "link_github":"https://github.com/regianemaioli",
+    "email": "regianemaioli@hotmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Sempre em busca de novos conhecimentos", 
+        "Carreira desenvolvida em recrutamento e seleção de profissionais de TI, migrando para desenvolvimento de sistemas.", 
+        "Sou apaixonada por tecnologia e RH",
+        "Devido a trabalhar ha mais de 10 anos com recrutamento de desenvolvedores, me apaixonei pela area e quis conhecer mais a fundo. Me encantei." 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Tech Recruiter",
+            "empresa":"Atlas Quantum",
+            "periodo":"Jan/2018 a Outubro/2019",
+            "atividades_desenvolvidas": "Recrutamento de profissionais de tecnologia da informaçao e area financeira, relacionamento com consultorias, estruturaçao da area de R&S",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Tech Recruiter",
+            "empresa":"Ewave do Brasil",
+            "periodo":"Mai/2017 a Jan/2018",
+            "atividades_desenvolvidas": "Atendimento das demandas de Alocação e Recrutamento de Profissionais de TI em todo Brasil",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Tech Recruiter",
+            "empresa":"Atento do Brasil",
+            "periodo":"Abr/2016 a Mai/2017",
+            "atividades_desenvolvidas": "Responsável pelo recrutamento interno de profissionais de TI e recrutamento de especialistas e executivos dentro da diretoria de tecnologia da informação",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Coordenadora de R&S",
+            "empresa":"G&P Projetos e Sistemas",
+            "periodo":"Jul/2012 a Mai/2015",
+            "atividades_desenvolvidas": "Participação na implantação do sistema integrado Protheus para area de RH, gestao e 8 analistas, Controle dos processos da área para auditorias da ISO 9001",
+            "link": null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp Backend",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "HTML, CSS, Github, Lógica de Programaçao, JS, Testes Unitários, JavaScript, HTTP, API, Scrum, NodeJs, MongoDB"
+        },
+        {
+            "curso": "Desenvolvimento de Aplicativos Android Studio",
+            "instituicao":"Madcode",
+            "periodo":"Nov/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Desenvolvimento de aplicativos Android em Kotlin"
+        },
+        {
+            "curso": "Logica de Programação e Javascript",
+            "instituicao":"Mumuki",
+            "periodo":"Set/2019 a Set/2019",
+            "resumo_conhecimentos_aprendidos": "Repetições, Expressões, Condicionais, Funções, Variáveis, Lógica Booleana, Arrays."
+        },
+        {
+            "curso": "Logica de Programaçao com Python",
+            "instituicao":"Pyladies",
+            "periodo":"Jun/2019 a Jun/2019",
+            "resumo_conhecimentos_aprendidos": "Variáveis, Operadores, Operações com Strings, Listas, Tuplas, Entradas, Condicionais, Contadores e Acumuladores, While, For, Funções."
+        }
+
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Pos Graduaçao em Neurociencia e Comportamento",
+            "instituicao":"PUC",
+            "resumo_conhecimentos_interesses": "Estudo do comportamento atraves da Neurociencia"
+        },
+        {
+            "interesse_evento_curso": "Graduacao em Gestao de Recursos Humanos",
+            "instituicao":"Universidade Cidade de Sao Paulo",
+            "resumo_conhecimentos_interesses": "Faculdade Tecnologica em Gestao de RH"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"NODE", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 7},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 7}
+    ]
+}
