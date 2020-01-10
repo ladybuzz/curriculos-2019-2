@@ -1,13 +1,14 @@
 {
     "nome_completo":"Cecilia Sousa",
-    "o_que_eu_quero":"Jornalista em transição de carreira buscando uma oportunidade como Desenvolvedora Front-end",
+    "o_que_eu_quero":"Jornalista em transição de carreira buscando uma oportunidade como Desenvolvedora Front-End",
     "cidade_estado:":"São Paulo/SP",
     "link_linkedin": "https://www.linkedin.com/in/ceciliasousa/",
     "link_github":"https://github.com/cecisousa",
     "email": "ceciliasousa21@gmail.com",
 
     "um_pouco_sobre_mim":[
-        "Desenvolvedora Front-end formada pela {reprograma}.", 
+        "Desenvolvedora Front-End formada pela {reprograma}.",
+        "Possuo conhecimentos em HTML, CSS, JavaScript ES6, React, Jquery, Bootstrap, Java, Kotlin, Android Studio, SQL e Git Flow.",
         "Jornalista formada pela Universidade Mackenzie e pós-graduada em Relações Públicas pela Faculdade Cásper Líbero.", 
         "Possuo 9 anos de experiência em assessoria de imprensa e produção de conteúdo, especialmente para empresas e ONGs dos setores de educação e tecnologia.",
         "Sou apaixonada por viagens, trilhas, cinema, restaurantes e cafeterias." 
@@ -75,20 +76,35 @@
             "curso": "Técnico em Administração",
             "instituicao":"Escola Técnica Professor Camargo Aranha",
             "periodo":"Jan/2006 a Jun/2007",
-            "resumo_conhecimentos_aprendidos": "Planejamento estratégico, finanças, contabilidade, recursos humanos e gestão de produção."
+            "resumo_conhecimentos_aprendidos": "Planejamento estratégico, finanças, contabilidade, recursos humanos, marketing e gestão de produção."
         }
     ],
 
     "meus_outros_aprendizados_e_interesses":[
         {
-            "interesse_evento_curso": "Bootcamp presencial de Desenvolvimento Front-end",
+            "interesse_evento_curso": "Bootcamp presencial de Desenvolvimento Front-End",
             "instituicao":"{reprograma}",
-            "resumo_conhecimentos_interesses": "Lógica de programação, HTML 5 e CSS 3, Javascript ES6, React, Jquery, Bootstrap e Git Flow; carga horária: 700 horas."
+            "resumo_conhecimentos_interesses": "Lógica de programação, HTML 5 e CSS 3, Javascript ES6, React, Jquery, Bootstrap, Sass e Git Flow; carga horária: 700 horas."
         },
         {
             "interesse_evento_curso": "Curso intensivo de Desenvolvimento Mobile Android",
             "instituicao":"Digital House",
-            "resumo_conhecimentos_interesses": "Programação em Java e Kotlin, Android Studio, Material Design, RXJava, Retrofit, Firebase e SQL; carga horária: 200 horas."
+            "resumo_conhecimentos_interesses": "Programação em Java e Kotlin, Android Studio, Material Design, RxJava, Retrofit, Firebase e SQL; carga horária: 200 horas."
+        },
+        {
+            "interesse_evento_curso": "Desenvolvimento de apps: Kotlin intensivo",
+            "instituicao":"MadCode",
+            "resumo_conhecimentos_interesses": "Kotlin, Android Studio, layouts e componentes, formulários e eventos, sensores e mídias; carga horária: 32 horas."
+        },
+        {
+            "interesse_evento_curso": "React, Redux e integração de APIs",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Instalações de libs, Node.js, React, componentes, manipulação de estados, rotas, Redux e Fetch API; carga horária: 2 horas."
+        },
+        {
+            "interesse_evento_curso": "HTML responsivo para e-mail marketing",
+            "instituicao":"Templateria",
+            "resumo_conhecimentos_interesses": "Estrutura básica de HTML e tags, especificações para e-mail, uso de estilos e boas práticas; carga horária: 8 horas."
         },
         {
             "interesse_evento_curso": "Inglês avançado",
@@ -102,14 +118,17 @@
         {"habilidade_ferramenta":"CSS", "pontuacao": 10},
         {"habilidade_ferramenta":"SASS", "pontuacao": 6},
         {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 9},
+        {"habilidade_ferramenta":"JAVA", "pontuacao": 7},
+        {"habilidade_ferramenta":"KOTLIN", "pontuacao": 6},
+        {"habilidade_ferramenta":"SQL", "pontuacao": 5},
         {"habilidade_ferramenta":"JQUERY", "pontuacao": 7}, 
         {"habilidade_ferramenta":"NODE", "pontuacao": 5}, 
         {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
-        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 7},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 8},
         {"habilidade_ferramenta":"REACT", "pontuacao": 8},
         {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 6},
         {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
-        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 7},
         {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 5},
         {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 7}
     ]
