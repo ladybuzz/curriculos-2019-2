@@ -7,10 +7,10 @@
     "email": "aline_borges@msn.com",
 
     "um_pouco_sobre_mim":[
-        "Aqui é um parágrafo descrevendo um pouco sobre você", 
-        "Aqui é outro parágrafo falando sobre sua trajetória", 
-        "Nesse aqui você pode dizer o que você curte fazer",
-        "Fique a vontade, mas busque ser objetiva" 
+        "Sou uma excelente profissional em transição de carreira", 
+        "Atuei mais de sete anos na área de gestão de recursos humanos", 
+        "Acredito que a gente evolui muito quando sai da zona de conforto e por isso estou sempre me desafiando seja profissional ou socialmente",
+        "Não tenho dificuldades em tomar importantes decisões, aprendo com facilidade e sempre dou o meu melhor em tudo que me comprometo a fazer." 
     ],
 
     "no_que_ja_trabalhei":[
@@ -24,8 +24,7 @@
             "cargo_funcao": "Gol Linhas Aéreas ",
             "empresa":"Teleoperador Home Based",
             "periodo":"Jan/2015 a Set/2015",
-            "atividades_desenvolvidas": "Atendimento a clientes, resolução de conflitos, emissão/ troca e  cancelamento de passagens, fidelização de clientes.",
-            "link":"www.voegol.com.br/pt"
+            "atividades_desenvolvidas": "Atendimento a clientes, resolução de conflitos, emissão/ troca e  cancelamento de passagens, fidelização de clientes."
         },
         {
             "cargo_funcao": "Assistente de Recursos Humanos",
@@ -37,7 +36,7 @@
 
     "o_que_ja_estudei":[
         {
-            "curso": "Desenvolvedora Front-End (704h) ",
+            "curso": "Desenvolvedora Front-End (704h)",
             "instituicao":"Reprograma",
             "periodo":"Ago/2019 a Dez/2019",
             "resumo_conhecimentos_aprendidos": "O conteúdo do bootcamp, focado na formação de mulheres front-end developers inclui UX Design, HTML, CSS, JavaScript, Bootstrap, Jquery, React e pré-processadores (SASS, SCSS), projetos desafiadores, aulas de empreendedorismo e orientação profissional"
@@ -45,47 +44,42 @@
         {
             "curso": "Gestão de Recursos Humanos",
             "instituicao":"Faculdade Drummond de Andrade",
-            "periodo":"Julho/2011 a Jun/2012",
+            "periodo":"Julho/2010 a Jun/2012",
             "resumo_conhecimentos_aprendidos": "Folha de pagamento, CLT, recrutamento e seleção, gestão de beneficios"
-        },
-        {
-            "curso": "Comunicação Social",
-            "instituicao":"Universidade Cruzeio do Sul",
-            "periodo":"Jan/2006 a Dez/2009",
-            "resumo_conhecimentos_aprendidos": ""
         }
     ],
 
     "meus_outros_aprendizados_e_interesses":[
         {
-            "interesse_evento_curso": "Curso online de Javascript",
+            "interesse_evento_curso": "Curso online de Javascript completo - 76,5h",
             "instituicao":"Udemy",
-            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+            "resumo_conhecimentos_interesses": "Javascript, React, Vue, JS Node, HTML, CSS, jQuery, Bootstrap, Webpack, Gulp, Banco de Dados e outros"
         },
         {
-            "interesse_evento_curso": "Doula",
-            "instituicao":"Commadre",
-            "resumo_conhecimentos_interesses": "Após o nascimento do meu filho mais novo eu senti a necessidade de empoderar outras mulheres para a maternidade e me capacitei para auxiliar outras mulheres  "
+            "interesse_evento_curso": "UI/UX Basics Experience, Interface & Prototype - 32h",
+            "instituicao":"CEL-LEP",
+            "resumo_conhecimentos_interesses": "Conceitos básicos de Experiência/Interface do usuário e Prototipagem de Apps"
         }
     ],
 
     "no_que_me_destaco":[
-        {"habilidade_ferramenta":"HTML", "pontuacao":8},
-        {"habilidade_ferramenta":"CSS", "pontuacao": 8},
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
         {"habilidade_ferramenta":"SASS", "pontuacao": 6},
         {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
-        {"habilidade_ferramenta":"JQUERY", "pontuacao": 5}, 
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
         {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
-        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
         {"habilidade_ferramenta":"REACT", "pontuacao": 7},
+        {"habilidade_ferramenta":"VUE", "pontuacao": 7},
         {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 8},
         {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 8},
-        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 8},
+        {"habilidade_ferramenta":"UI DESIGN", "pontuacao": 8},
         {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 8},
         {"habilidade_ferramenta":"FIGMA", "pontuacao": 6},
         {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8},
         {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 5},
-        {"habilidade_ferramenta":"Corel draw", "pontuacao": 7},
-        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 9}
+        {"habilidade_ferramenta":"COREL DRAW", "pontuacao": 7}
     ]
 }
