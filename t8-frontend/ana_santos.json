@@ -9,7 +9,7 @@
     "um_pouco_sobre_mim":[
         "Sou formada em Letras há 10 anos pela PUC-SP e como Técnica em Secretariado há 20 anos. Atuei em instituições relacionadas à educação, além de trabalhar na área administrativa organizando contratos e arquivos, auxíliando o setor financeiro, controlando despesas de viagens para colaboradores e planilhas, além de participar e elaborar atas em reuniões.",
         "Estagiei por 2 anos na Scielo - Scientific Electronic Library Online, onde diagramei e apliquei o programa Markup em HTML nos artigos científicos publicados no site.",
-        "Esta atuação na Scielo despertou meu interesse pela área de TI e após 2 anos desempregada me inscrevi no projeto da {reprograma} para poder aprofundar meus conhecimentos, onde fui aprovada. Durante o curso pude colocar em prática as habilidades que desenvolvi com minhas colocações anteriores, como trabalho em equipe, organização de tarefas, facilidade de comunicação verbal e escrita, facilitando minha transição de carreira,como uma desenvolvedora pronta para vencer novos desafios.",
+        "Essa atuação na Scielo despertou meu interesse pela área de TI e após 2 anos desempregada me inscrevi no projeto da {reprograma} para poder aprofundar meus conhecimentos, onde fui aprovada. Durante o curso pude colocar em prática as habilidades que desenvolvi com minhas colocações anteriores, como trabalho em equipe, organização de tarefas, boa comunicação verbal e escrita, facilitando minha transição de carreira,como uma desenvolvedora pronta para vencer novos desafios.",
         "Cantei em um coral por 4 anos, amo música. Iniciei violão clássico, mas tive que interromper por causa da faculdade. Adoro eventos culturais como: cinema, teatro, shows e toda e qualquer manisfestação artística. Amo ler, principalmente, biografias. Tenho interesse pelas histórias das pessoas, saber como lidam com os revezes da vida, acredito que sempre tiramos uma lição das histórias que ouvimos. E também temos a oportunidade de notar que outras pessoas passam pela mesmas dificuldades que nós."
     ],   
 
@@ -63,7 +63,7 @@
             "curso": "Bootcamp Desenvolvimento Front-end",
             "instituicao":"Reprograma",
             "periodo":"08/2019 a 12/2019 (704 horas, presencial e integral)",
-            "resumo_conhecimentos_aprendidos": "HTML 5, CSS, Lógica de Programaçã, JavaScript, Bootstrap, Git, Github, Jquery, Sass, React, UX, UI, Empreendedorismo, "
+            "resumo_conhecimentos_aprendidos": "HTML 5, CSS, Lógica de Programação, JavaScript, Bootstrap, Git, Github, Jquery, Sass, React, UX Design, UI, Empreendedorismo, "
         },
         {
             "curso": "Letras - Licenciatura e Bacharelado em Inglês",
@@ -81,9 +81,9 @@
 
     "meus_outros_aprendizados_e_interesses":[
         {
-            "interesse_evento_curso": "Curso online de React",
+            "interesse_evento_curso": "Curso online de JavaScript Ninja",
             "instituicao":"Udemy",
-            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do React"
+            "resumo_conhecimentos_interesses": "Saber usar JavaScript em sua totalidade"
         }       
     ],
 
