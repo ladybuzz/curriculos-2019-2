@@ -1,0 +1,135 @@
+{
+    "nome_completo":"Cecilia Sousa",
+    "o_que_eu_quero":"Jornalista em transição de carreira buscando uma oportunidade como Desenvolvedora Front-End",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/ceciliasousa/",
+    "link_github":"https://github.com/cecisousa",
+    "email": "ceciliasousa21@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Desenvolvedora Front-End formada pela {reprograma}.",
+        "Possuo conhecimentos em HTML, CSS, JavaScript ES6, React, Jquery, Bootstrap, Java, Kotlin, Android Studio, SQL e Git Flow.",
+        "Jornalista formada pela Universidade Mackenzie e pós-graduada em Relações Públicas pela Faculdade Cásper Líbero.", 
+        "Possuo 9 anos de experiência em assessoria de imprensa e produção de conteúdo, especialmente para empresas e ONGs dos setores de educação e tecnologia.",
+        "Sou apaixonada por viagens, trilhas, cinema, restaurantes e cafeterias." 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Senior Communications & PR Analyst",
+            "empresa":"SumUp",
+            "periodo":"Jan/2019 a Ago/2019",
+            "atividades_desenvolvidas": "Estruturação da área de relações públicas, preparação de porta-vozes e edição de conteúdos para o blog Dono do Negócio, voltado a microempreendedores.",
+            "link":"https://sumup.com.br/"
+        },
+        {
+            "cargo_funcao": "Public Relations Lead, Brazil",
+            "empresa":"Udacity",
+            "periodo":"Out/2017 a Nov/2018",
+            "atividades_desenvolvidas": "Divulgação nacional de pautas institucionais, sugestão de porta-vozes especialistas, produção de artigos, organização de eventos e encontros de relacionamento.",
+            "link":"https://www.udacity.com/"
+        },
+        {
+            "cargo_funcao": "Coordenadora de Comunicação",
+            "empresa":"Fundação Estudar",
+            "periodo":"Out/2015 a Out/2017",
+            "atividades_desenvolvidas": "Relacionamento com a imprensa em todo o Brasil, divulgação de cursos e eventos, negociação de parcerias de conteúdo, encontros de relacionamento, branding e redes sociais.",
+            "link":"https://www.estudar.org.br/"
+        },
+        {
+            "cargo_funcao": "Analista de Comunicação Pleno",
+            "empresa":"Grupo Giraffas",
+            "periodo":"Out/2014 a Out/2015",
+            "atividades_desenvolvidas": "Redação e publicação de comunicados internos da empresa, produção de conteúdo para boletins, newsletters e revistas, gerenciamento de crises junto ao SAC e produção de relatórios.",
+            "link":"https://www.giraffas.com.br/"
+        },
+        {
+            "cargo_funcao": "Analista de Relações com a Mídia Pleno",
+            "empresa":"Máquina Cohn & Wolfe",
+            "periodo":"Nov/2010 a Out/2014",
+            "atividades_desenvolvidas": "Planos estratégicos de comunicação, produção de notas e releases, divulgação de pautas, follow up, cobertura de eventos corporativos, agendamento e acompanhamento de entrevistas.",
+            "link":"https://www.maquinacohnwolfe.com/"
+        },
+        {
+            "cargo_funcao": "Repórter",
+            "empresa":"Portal MSN Entretenimento - Empresa MBPRESS",
+            "periodo":"Jan/2010 a Ago/2010",
+            "atividades_desenvolvidas": "Redação e publicação de matérias sobre celebridades, música, cinema e cultura, cobertura de eventos e coletivas de imprensa, tradução de matérias em inglês e redes sociais.",
+            "link":"https://www.msn.com/pt-br/entretenimento"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Faculdade Cásper Líbero",
+            "instituicao":"Pós-Graduação em Comunicação Organizacional e Relações Públicas",
+            "periodo":"Jan/2013 a Ago/2015",
+            "resumo_conhecimentos_aprendidos": "Comunicação e crise, planejamento estratégico, pesquisa e tendências, comunicação interna, marketing."
+        },
+        {
+            "curso": "Graduação em Comunicação Social",
+            "instituicao":"Universidade Presbiteriana Mackenzie",
+            "periodo":"Jan/2008 a Dez/2011",
+            "resumo_conhecimentos_aprendidos": "Habilitação: Jornalismo. Bolsista integral pelo PROUNI do primeiro ao último semestre."
+        },
+        {
+            "curso": "Técnico em Administração",
+            "instituicao":"Escola Técnica Professor Camargo Aranha",
+            "periodo":"Jan/2006 a Jun/2007",
+            "resumo_conhecimentos_aprendidos": "Planejamento estratégico, finanças, contabilidade, recursos humanos, marketing e gestão de produção."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Bootcamp presencial de Desenvolvimento Front-End",
+            "instituicao":"{reprograma}",
+            "resumo_conhecimentos_interesses": "Lógica de programação, HTML 5 e CSS 3, Javascript ES6, React, Jquery, Bootstrap, Sass e Git Flow; carga horária: 700 horas."
+        },
+        {
+            "interesse_evento_curso": "Curso intensivo de Desenvolvimento Mobile Android",
+            "instituicao":"Digital House",
+            "resumo_conhecimentos_interesses": "Programação em Java e Kotlin, Android Studio, Material Design, RxJava, Retrofit, Firebase e SQL; carga horária: 200 horas."
+        },
+        {
+            "interesse_evento_curso": "Desenvolvimento de apps: Kotlin intensivo",
+            "instituicao":"MadCode",
+            "resumo_conhecimentos_interesses": "Kotlin, Android Studio, layouts e componentes, formulários e eventos, sensores e mídias; carga horária: 32 horas."
+        },
+        {
+            "interesse_evento_curso": "React, Redux e integração de APIs",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Instalações de libs, Node.js, React, componentes, manipulação de estados, rotas, Redux e Fetch API; carga horária: 2 horas."
+        },
+        {
+            "interesse_evento_curso": "HTML responsivo para e-mail marketing",
+            "instituicao":"Templateria",
+            "resumo_conhecimentos_interesses": "Estrutura básica de HTML e tags, especificações para e-mail, uso de estilos e boas práticas; carga horária: 8 horas."
+        },
+        {
+            "interesse_evento_curso": "Inglês avançado",
+            "instituicao":"Cultura Inglesa",
+            "resumo_conhecimentos_interesses": "Conhecimentos avançados para redação, leitura e conversação, que me permitiram atuar junto a times globais nas empresas em que trabalhei; carga horária: 4 anos de estudo."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":10},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 10},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 9},
+        {"habilidade_ferramenta":"JAVA", "pontuacao": 7},
+        {"habilidade_ferramenta":"KOTLIN", "pontuacao": 6},
+        {"habilidade_ferramenta":"SQL", "pontuacao": 5},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 5}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 8},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 8},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 6},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 7},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 5},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 7}
+    ]
+}
