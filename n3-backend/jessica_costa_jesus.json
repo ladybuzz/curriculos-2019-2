@@ -1,0 +1,110 @@
+{
+    "nome_completo":"Jéssica Costa de Jesus",
+    "o_que_eu_quero":"Ingressar na área de desenvolvimento atuando como Desenvolvedora Back End e me aprimorar para, no futuro, me tornar Desenvolvedora Full Stack.",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/jessicacj/",
+    "link_github":"https://github.com/jessicacj",
+    "email": "jessicacj@outlook.com",
+
+    "um_pouco_sobre_mim":[
+        "Geógrafa, analista de geoprocessamento e apaixonada por tecnologia.",
+        "Desenvolvedora Back End Node.JS formada pela {reprograma} em busca de oportunidades para transição de carreira. Futura Desenvolvedora Full Stack!",
+        "Interesse por desenvolvimento web e GIS, cidades inteligentes e práticas sustentáveis."
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Analista de Geoprocessamento Júnior",
+            "empresa":"Geojá Mapas Digitais e Aerolevantamentos",
+            "periodo":"Abr/2019 - atual",
+            "atividades_desenvolvidas": "QA de produtos cartográficos, análise e elaboração de produtos sistemáticos e temáticos para monitoramento de dinâmicas urbanas, caracterização de uso e ocupação do solo, estudos de geomarketing, entre outras.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Estagiária de Desenvolvimento GIS e Qualidade de Dados",
+            "empresa": "Fundação Ezute",
+            "periodo": "Jun/2017 a Mar/2019",
+            "atividades_desenvolvidas": "Avaliação de qualidade de produtos cartográficos, elaboração de relatórios de qualidade, elaboração de manuais de procedimentos, criação de rotinas (models), análise de requisitos de sistema, publicação de mapas (web services), vivência com metodologia ágil - Scrum."
+        }
+        {
+            "cargo_funcao": "Professora de Geografia e História do Brasil para Refugiados",
+            "empresa":"Universidade de São Paulo - USP",
+            "periodo":"Jan/2017 a Dez/2017",
+            "atividades_desenvolvidas": "Professora voluntária das disciplinas de Geografia e História em um curso de cultura e extensão da universidade voltado para o auxílio e inserção de refugiados na sociedade brasileira.",
+            "link": null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Desenvolvimento Back End",
+            "instituicao":"{reprograma}",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Lógica de Programação, HTML, CSS, Javascript, API, Testes Unitários, NODE.JS, Scrum, MongoDB, UX, Orientação Profissional e Projetos Práticos."
+        },
+        {
+            "curso": "Bacharelado e Licenciatura em Geografia",
+            "instituicao":"Universidade de São Paulo",
+            "periodo":"Jan/2013 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Ênfase em Análise de Dinâmicas Espaciais e Geoprocessamento."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Responsive Web Design Certification",
+            "instituicao": "FreeCodeCamp",
+            "resumo_conhecimentos_interesses": "HTML, CSS, CSS Flexbox, CSS Grid e Príncipios de Design Responsivo"
+        },
+        {
+            "interesse_evento_curso": "Formação em HTML",
+            "instituicao":"LinkedIn Learning",
+            "resumo_conhecimentos_interesses": "Estrutura e sintaxe básica do HTML, criação e edição de listas e tabelas, formatação de links e imagens e implementação do CSS e Javascript."
+        },
+        {
+            "interesse_evento_curso": "Javascript Algorithms and Data Structures",
+            "instituicao":"FreeCodeCamp",
+            "resumo_conhecimentos_interesses": "Introdução ao Javascript, ES6, Programação orientada à objetos e estrutura de dados."
+        },
+        {
+            "interesse_evento_curso": "Introdução ao Git e Controle de Versões",
+            "instituicao": "Digital Innovation One",
+            "resumo_conhecimentos_interesses": "Utilização do GIT, GitHub e versionamento."
+        },
+        {
+            "interesse_evento_curso": "Introdução ao Desenvolvimento Web",
+            "instituicao": "USP CodeLab",
+            "resumo_conhecimentos_interesses": "Lógica de Programação, HTML e CSS."
+        },
+        {
+            "interesse_evento_curso": "Lógica de Programação com Python",
+            "instituicao": "PyLadies",
+            "resumo_conhecimentos_interesses": "Sintaxe e os conceitos básicos de Python: variáveis e seus tipos, operadores, strings, listas e tuplas, entrada de dados, condicionais (if/else), estruturas de repetição (while e for) e funções, além de lógica de programação."
+        },
+        { "interesse_evento_curso": "Fundamentos de Programação",
+          "instituicao": "LinkedIn Learning",
+          "resumo_conhecimentos_interesses": "Introdução à Lógica de Programação, Variáveis e tipos de dados, condicionais, iterações, strings e orientação à objetos."
+        },
+        {
+            "interesse_evento_curso": "Técnicas de Comunicação Interpessoal",
+            "instituicao": "LinkedIn Learning",
+            "resumo_conhecimentos_interesses": "Comunicação em equipe, interpretação de sinais não verbais, gerenciamento de expectativas, comunicação em situações complicadas, técnicas de comunicação para introvertidos, entre outras."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":6},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"NODE", "pontuacao": 8}, 
+        {"habilidade_ferramenta": "MONGODB", "pontuacao": 8},
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 7},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 7},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 6},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 5},
+        {"habilidade_ferramenta":"PostgreSQL", "pontuacao": 3},
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 3},
+        {"habilidade_ferramenta": "PYTHON", "pontuacao": 6}
+    ]
+}
