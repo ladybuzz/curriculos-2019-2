@@ -1,0 +1,80 @@
+{
+    "nome_completo":"Priscila Aparecida da Silva Pereira",
+    "o_que_eu_quero":"Desenvolvedora back end jr",
+    "cidade_estado:":"Guarulhos/SP",
+    "link_linkedin": "https://www.linkedin.com/in/silva-priscila/",
+    "link_github":"https://github.com/iprih",
+    "email": "priscila.silva076@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Sempre fui apaixonada por tecnologia, esse ano de 2019 consegui me formar na faculdade, entrar e concluir a reprograma e estou em busca de mais conhecimento e oportunidades!", 
+        "Iniciei minha trajetória como recepcionista, passando por telemarketing, fastfood, produção de fabrica e hoje sou analista de mis, onde faço relatórios e analise de dados.", 
+        "Como passa-tempo gosto de jogar video games, assistir séries, cuidar de animais e desenvolver.",
+        "Meu objetivo é iniciar a carreira como desenvolvedora back end junior." 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Analista de MIS",
+            "empresa":"Grupo Renac",
+            "periodo":"Set/2018 a Atualmente",
+            "atividades_desenvolvidas": "Analise, extração, criação de relatórios; banco de dados mysql e sas",
+            "link": "http://gruporenac.com.br"
+        },
+        {
+            "cargo_funcao": "Analista de Monitoria e Control Desk",
+            "empresa":"Grupo Renac",
+            "periodo":"Jun/2015 a Set/2018",
+            "atividades_desenvolvidas": "Monitoria de atendimentos; Monitoramento online e trafego de ligações.",
+            "link":"http://gruporenac.com.br"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp Back End",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Lógica de programação, HTML/CSS, Javascript, API, Testes Unitários, SCRUM, Node.js, MongoDB"
+        },
+        {
+            "curso": "Analise e desenvolvimento de sistemas ",
+            "instituicao":"Cruzeiro do Sul",
+            "periodo":"Fev/2017 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Banco de dados, Engenharia de software, Redes, Logica de programação, Projetos "
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso online de Java",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB"
+        },
+        {
+            "interesse_evento_curso": "Curso de Python 3",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Módulo PyQT5 para GUI, Django, SQLite3, MySQL,MariaDB"
+        },
+        {
+            "interesse_evento_curso": "Curso de Desenvolvedor Web",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "HTML5, CSS3, JavaScript, Bootstrap, PHP, PHP com AJAX"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":4},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 3},
+        {"habilidade_ferramenta":"JAVA", "pontuacao": 2},
+        {"habilidade_ferramenta":"NODE", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 1},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 8},
+        {"habilidade_ferramenta":"PYTHON", "pontuacao": 3},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 7},
+        {"habilidade_ferramenta":"API", "pontuacao": 7},
+        {"habilidade_ferramenta":"LOGICA", "pontuacao": 7}
+    ]
+}
