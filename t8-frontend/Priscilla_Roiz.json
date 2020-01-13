@@ -1,0 +1,100 @@
+{
+    "nome_completo":"Priscilla Roiz Garcia",
+    "o_que_eu_quero":"Ser Front-end júnior",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/PriscillaRoiz/",
+    "link_github":"https://github.com/PriscillaRoiz",
+    "email": "priscillagarcia02@hotmail.com",
+
+    "um_pouco_sobre_mim":[
+
+        "Tenho bacharelado em publicidade e propaganda, técnico em produção gráfica pelo Senai e estou me especializando para entrar na area de tecnologia",
+        "Tenho 5 anos de experiência no setor de moda em e-commerce, com conhecimento da trajetoria do processo do inicio ao fim de contéudo para o ambiente de e-commerce",
+        "Recentemente estou passando por uma mudança de carreira com mais foco em tecnologia, assim migrando para o front-end",
+
+    ],
+
+    "no_que_ja_trabalhei":[ 
+        {
+            "cargo_funcao": "Desenvolvedora Front-end Freelancer - Voluntário",
+            "empresa":"Reprograma - Cliente Aneesa",
+            "periodo":"Out/2019",
+            "atividades_desenvolvidas": "Aplicação de metodologia Scrum para o gerenciamento do projeto, usando HTML, Sass, Javascript, JQuery e Bootstrap resultando em um layout limpo e responsivo",
+            "link":"https://compreaneesa.com.br/"
+        },
+        {
+            "cargo_funcao": "Produtora de Moda",
+            "empresa":"Grupo Netshoes",
+            "periodo":"Nov/2012 a Fev/2018",
+            "atividades_desenvolvidas": "Organização de shooting diário, seleção de modelos e terceiros(fotografos,maquiadores e etc), planejamento de budget, controle e alimentação de planilhas e orientação de equipe.",
+            "link": "https://netshoes.com.br"
+        },
+        {
+            "cargo_funcao": "Pré-impressão",
+            "empresa":"Antilhas",
+            "periodo":"Ago/2011 a Jun/2012",
+            "atividades_desenvolvidas": "Diagramação, criação, alteração, controle e liberação de fichas técnicas para a fábrica, impressão, montagem e conferência de protótipos.",
+            "link":"http://antilhas.com.br"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bacharelado em Publicidade e Propaganda",
+            "instituicao":"Uni-BH",
+            "periodo":"Fev/2004 a Jun/2008",
+            "resumo_conhecimentos_aprendidos": "Fundamentos, técnicas, conceitos e práticas da área, realizando projetos durante o curso para resolver problemas e desafios em campo profissional"
+        },
+        {
+            "curso": "Técnico em Impressão Gráfica",
+            "instituicao":"Escola Senai",
+            "periodo":"Ago/2010 a Jun/2012",
+            "resumo_conhecimentos_aprendidos": "Controlar os processos de produção gráfica, estudar o processo de criação e confecção de produtos gráficos, operar máquinas e fazer controle de qualidade do material produzido."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Bootcamp de Front-end",
+            "instituicao":"Reprograma",
+            "resumo_conhecimentos_interesses": "Programação front-end do zero, com conteúdo de UX Design, Git e Github, Scrum, Lógica de Programação, HTML, CSS, Javascript e bibliotecas e frameworks como Sass, React e Bootstrap."
+        },
+        {
+            "interesse_evento_curso": "Curso Javascript Ninja",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Introdução ao Javascript, expressões, objetos, arrays eventos e ajax"
+        },
+        {
+            "interesse_evento_curso": "Curso React.js Ninja",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "ReactJS, Redux e Criação de Apps Universais (Isomórficos)"
+        },
+        {
+            "interesse_evento_curso": "Curso Git e GitHub Ninja",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entender como funciona, formas de trabalhar, configurar e resolução de conflitos"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":7},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 6},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 4},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 7},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 4}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 1}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 6},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 7},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 6},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 7},
+        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 7},
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"EXCEL", "pontuacao": 8}
+
+    ]
+}
