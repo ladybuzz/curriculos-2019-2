@@ -1,0 +1,78 @@
+{
+    "nome_completo":"Barbara Yasmim Galante Cardoso Gomes",
+    "o_que_eu_quero":"Frond-end júnior",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/barbara-galante-826342148/",
+    "link_github":"https://github.com/barbaragalante",
+    "email": "contato.barbaragalante@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Comunicadora formada pela FIAM FAAM-FMU",
+        "Estagiei durante dois anos na Escola de Bailado - Secretaria de Cultura de Taboão da Serra. Estou em transição de carreira porque eu sempre me interessei em tecnologia e acredito que complementa meus conhecimentos de ensino superior. ", 
+        "Eu amo falar sobre música, sobre bichinhos, comidas e memes"
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Estagiária de Comunicação",
+            "empresa":"Escola Municipal de Bailado- Secretaria de Cultura de Taboão da Serra",
+            "periodo":"Mai/2015 a Mai/2017",
+            "atividades_desenvolvidas": "Desenvolvia documentos e fichas de inscrição em softwares de escritório como Word e Excel. Fazia atendimento ao público e auxiliava em eventos de dança, teatro e shows."
+        },
+        {
+            "cargo_funcao": "Projeto Voluntário",
+            "empresa":"Escola Moto Futuro",
+            "periodo":"Nov/2019 a Dez/2019",
+            "atividades_desenvolvidas": "Desenvolvimento e gerenciamento do site."
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp Front-end",
+            "instituicao":"{Reprograma}",
+            "periodo":"Ago/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Durante os 4 meses aprendi UX Design, HMTL5, CSS3, JavaScript e Jquery. Pré-processadores como SASS, SCSS e Bootstrap. Controle de versionamento no Git e GitHub. Metodologia ágil no Scrum e o framework de JavaScript ReactJS"
+        },
+        {
+            "curso": "Rádio e TV",
+            "instituicao":"FIAMFAAM - FMU",
+            "periodo":"Fev/2015 a Dez/2018",
+            "resumo_conhecimentos_aprendidos": "Durante os 4 anos me especializei em roteiro (tanto de ficção quanto para documentário e decupagem para edição), produção de conteúdo para rádio, tv e internet. Direção Executiva, de arte e fotografia"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso Git e GitHub Ninja",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre Git e GitHub"
+        }, 
+        {
+            "interesse_evento_curso": "React 16 Definitivo",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe do React Js"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 5},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 7},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 5}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 7},
+        {"habilidade_ferramenta":"SCRUM", "pontuacao": 7},
+        {"habilidade_ferramenta":"DESIGN RESPONSIVO", "pontuacao": 7},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 5},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 7},
+        {"habilidade_ferramenta":"ADOBE PREMIERE", "pontuacao": 5},
+        {"habilidade_ferramenta":"ADOBE AUDITION", "pontuacao": 5},
+        {"habilidade_ferramenta":"ADOBE SPARKPOST", "pontuacao": 7},
+        {"habilidade_ferramenta":"MICROSOFT OFFICE WORD", "pontuacao": 9},
+        {"habilidade_ferramenta":"MICROSOFT OFFICE EXCEL", "pontuacao": 9},
+        {"habilidade_ferramenta":"MICROSOFT OFFICE POWERPOINT", "pontuacao": 8}
+    ]
+}
