@@ -1,0 +1,100 @@
+{
+    "nome_completo":"Nataly de Lima da Silva",
+    "o_que_eu_quero":"Desejo trabalhar como Developer Backend",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/nataly-de-lima/",
+    "link_github":"https://github.com/Nattyeah",
+    "email": "natalydelimadasilva46@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Fácil capacidade de liderança, entendimento, criatividade e flexibilidade, disposição para trabalhar em equipe.",
+        "Ministrei aulas de inglês por 5 anos com foco na capacitação de jovens para a inserção no mercado de trabalho.",
+        "Atuação em contabilidade, conhecimento nos sistemas: Questor/Prosoft."
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Auxiliar de retenções",
+            "empresa":"Promissor Contabilidade",
+            "periodo":"Jan/2019 até o momento",
+            "atividades_desenvolvidas": "Escrituração de notas fiscais (lançamento e controle no sistema), liberação de guias de imposto, verificação e registro de documentação mensal de clientes.",
+            "link":"http://www.promissoronline.com/capa.asp?IDPaginaInst=principal"
+        },
+        {
+            "cargo_funcao": "Auxiliar de escritório",
+            "empresa":"Promissor Contabilidade",
+            "periodo":"Jul/2017 a Jan/2019",
+            "atividades_desenvolvidas": "Atendimento ao cliente (presencial/ telefone), controle de planilhas e agendamento de portadores (internos/ externos) para entrega e retira de documentos; Escrituração de notas fiscais (lançamento e controle no sistema).",
+            "link":"http://www.promissoronline.com/capa.asp?IDPaginaInst=principal"
+        },
+        {
+            "cargo_funcao": "Instrutora de inglês",
+            "empresa":"Start Professional",
+            "periodo":"Jun/2013 a Fev/2017",
+            "atividades_desenvolvidas": "Ministrei aulas de inglês para jovens de 10 a 20 anos, a fim de capacitá-los a ingressar no mercado de trabalho.Realização de treinamentos profissionais, com o objetivo de motivá-los e orienta-los quanto a ingressar no mercado de trabalho, entrevista de emprego e estudos em geral.",
+            "link": "https://www.escolastart.com.br/"
+        },
+        {
+            "cargo_funcao": "Trainee",
+            "empresa":"Start Professional",
+            "periodo":"Mai/2012 a Mai/2013",
+            "atividades_desenvolvidas": "Auxiliar instrutores a ministrar aulas e ajudar na criação de atividades.",
+            "link": "https://www.escolastart.com.br/"
+        }
+        
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Análise e desenvolvimento de sistemas",
+            "instituicao":"Universidade Paulista - UNIP",
+            "periodo":"Jan/2019 a Dez/2020",
+            "resumo_conhecimentos_aprendidos": "Desenvolver, analisar, projetar, implementar e atualizar sistemas de informação. Noção de gerenciamento, criação de sistemas informatizados"
+        },
+        {
+            "curso": "Administração de empresas",
+            "instituicao":"Etec Martin Luther King",
+            "periodo":"Jul/2015 a Jul/2017",
+            "resumo_conhecimentos_aprendidos": "Administração, finanças, gestão de pessoas"
+        },
+        {
+            "curso": "Bootcamp desenvolvimento back-end",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "HTML/CSS, JavaScript, Git/GitHub, API, Teste Utilitário, Scrum, NODE.JS, MONGO DB."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Key English Test - Ket",
+            "instituicao":"Cambridge University",
+            "resumo_conhecimentos_interesses": "Certificado de proficiência"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":5},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 5},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 2},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 9},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 3}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 9}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 10},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 4},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 5},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 9},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 5},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 3},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 3},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 3},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 5},
+        {"habilidade_ferramenta":"FTP", "pontuacao": 4},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 5},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 4},
+        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 3},
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 3}
+    ]
+}
