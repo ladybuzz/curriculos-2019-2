@@ -1,0 +1,94 @@
+{
+    "nome_completo":"Amanda Souza Macedo Bacelli",
+    "o_que_eu_quero":"Desenvolvedora Backend",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/amanda-s-m-bacelli/",
+    "link_github":"https://github.com/amandabacelli",
+    "email": "amanda.sted@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Engenheira de Produção formada em 2018, em Junho de 2019 decidi trocar de carreira, após quase 7 anos,", 
+        "trabalhando na área de qualidade e segurança do trabalho. Após 1 mês estudando 12hrs/dia consegui uma oportunidade para ingressar no mercado de Qualidade de Software.",
+        "Trabalhar na parte de Qualidade de Software abriu muitas portas para conhecer a parte de programação e ver um futuro diferente", 
+        "Gosto de resolver problemas e após ter realizado o bootcamp da Reprograma descobri que ser desenvolvedora consigo resolver diversos problemas e isso é desafiador.",
+        "Além de ser apaixonada por animes, gatos, jogos online e tênis de mesa :)" 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Técnico em automação",
+            "empresa":"Inmetrics",
+            "periodo":"Ago/2019 a atual",
+            "atividades_desenvolvidas": "Elaboração de casos de testes; automação de cenários de testes funcionais Web, utilizando as tecnologias: Java, Selenium WebDriver, Cucumber e Ghenkin; Versionamento de código e GitFlow; Gerenciamento de testes em ambiente ALM.",
+            "link": "https://www.inmetrics.com.br/"
+        },
+        {
+            "cargo_funcao": "Coordenador de Qualidade",
+            "empresa":"BTX Geologia e Meio Ambiente",
+            "periodo":"Dez/2012 a Jun/2019",
+            "atividades_desenvolvidas": "Gestão de processos; gestão da qualidade; implantação de normas; controle estatístico de processos",
+            "link":"http://www.btx.com.br/"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Desenvolvedora Backend",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Lógica de programação; Estruturas de repetição e condicionais; Scrum e Ux; Construção de API REST com MVC; Construção de banco de dados não relacional (NoSQL) MongoDB utilizando ROBO 3T; Requisições CRUD html - Postman; Tecnologias: JavaScript, NodeJS, Postman, Visual Studio Code"
+        },
+        {
+            "curso": "Bacharelado em Engenharia de Produção",
+            "instituicao":"Universidade São Judas Tadeu",
+            "periodo":"Jan/2013 a Dez/2018",
+            "resumo_conhecimentos_aprendidos": "https://cdn.usjt.br/app/uploads/2017/09/05154549/ENGENHARIADEPRODUCAO1.pdf"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Java Completo - Programação orientada a objetos",
+            "instituicao":"Udemy - em andamento",
+            "resumo_conhecimentos_interesses": "Curso mais didático e completo de Java e OO. UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB"
+        },
+        {
+            "interesse_evento_curso": "Agile Tester - Fundamentals",
+            "instituicao":"Jump Treinamentos",
+            "resumo_conhecimentos_interesses": "Automação de testes funcionais Web e testes de serviços"
+        },
+        {
+            "interesse_evento_curso": "Testes de Software Automáticos",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento básico sobre tipos e ferramentas de testes automatizados"
+        },
+        {
+            "interesse_evento_curso": "Curso Preparatório Scrum Master",
+            "instituicao":"Trainning",
+            "resumo_conhecimentos_interesses": "Curso Preparatório Scrum Master para certificação"
+        },
+
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"Java", "pontuacao":7},
+        {"habilidade_ferramenta":"NodeJS", "pontuacao":8},
+        {"habilidade_ferramenta":"MongoDB", "pontuacao": 7},
+        {"habilidade_ferramenta":"Git/Github", "pontuacao": 7},
+        {"habilidade_ferramenta":"Postman", "pontuacao": 8},
+        {"habilidade_ferramenta":"Selenium WebDriver", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"Cucumber", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"Ghenkin", "pontuacao": 7},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 8},
+        {"habilidade_ferramenta":"Scrum", "pontuacao":8},
+        {"habilidade_ferramenta":"Trello", "pontuacao": 9},
+        {"habilidade_ferramenta":"Excel", "pontuacao": 8},
+        {"habilidade_ferramenta":"Gestão de Processos", "pontuacao": 9},
+        {"habilidade_ferramenta":"Automação de testes funcionais", "pontuacao": 7},
+        {"habilidade_ferramenta":"Resiliência", "pontuacao": 10},
+        {"habilidade_ferramenta":"BDD", "pontuacao": 8},
+        {"habilidade_ferramenta":"BPMN", "pontuacao": 7},
+        {"habilidade_ferramenta":"Ferramentas da Qualidade", "pontuacao": 8}
+       
+    ]
+}
