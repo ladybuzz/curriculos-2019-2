@@ -1,0 +1,98 @@
+{
+    "nome_completo":"Rosana de Jesus Emídio",
+    "o_que_eu_quero":"Trabalhar como desenvolvedora Front-end, utilizando JavaScript e React.",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/rosana-emídio-184245b0/",
+    "link_github":"https://github.com/rosanaemidio",
+    "email": "rosanaemidio42@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Iniciei minha vida profissional com atendimento ao cliente. Sou formada em Administração de empresas e entusiasta da tecnologia. Gosto de aprender coisas novas e tenho o hábito de colocar amor em tudo que faço. Procuro por oportunidades que me desafiem e me tragam muitos aprendizados, tanto pessoais como profissionais."
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Desenvolvedora Front-end",
+            "empresa":"Casa Florescer",
+            "periodo":" Outubro/2019",
+            "atividades_desenvolvidas":"Desenvolvimento de site informativo da ONG Casa Florescer. Realizada em equipe, a entrega fez parte do projeto de clientes reais realizado durante o bootcamp na Reprograma. Feito em HTML, CSS, SASS E BOOTSTRAP.",
+            "link": "https://casaflorescer.netlify.com/"
+        },
+        {
+            "cargo_funcao": "Estagiária de Secretariado",
+            "empresa":"Cury e Alexandre Advogados e Associados",
+            "periodo":"Jun/2017 a Maio/2018",
+            "atividades_desenvolvidas": "Durante o período de estágio, aprendi e realizei diversas atividades, desde agendamento de reuniões a compra de materiais. Gostava muito de realizar minhas funções, pois sou muito habilidosa em lidar com pessoas diversas e com organização de documentos. Para me ajudar na organização de agendas e planilhas de controles, ultilizava o Microsoft Excel e, para controle de despesas, o Microsoft Money.",
+            "link":""
+        },
+        {
+            "cargo_funcao": "Operadora de Caixa",
+            "empresa":"Gamd Loterias",
+            "periodo":"Set/2015 a Maio/2017",
+            "atividades_desenvolvidas":"Realizava algumas funções diariamente, tais como organização do ambiente de trabalho, abertura e fechamento do caixa e, o que mais gostava, que era o atendimento ao cliente. O fato de saber lidar com pessoas sempre me ajudou, principalmente com a venda de produtos.",
+            "link":""
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp de Front-end",
+            "instituicao":"Reprograma",
+            "periodo":"704 horas",
+            "resumo_conhecimentos_aprendidos": "A Reprograma é uma iniciativa que visa diminuir o gap de gênero na tecnologia. Além de adiquirir base técnica pra atuar no mercado, também criamos habilidades pra trabalhar em grupo. A linguagem ensinada é JavaScript e também aprendemos outras tecnologias que nos auxiliem no desemprenho de nossos futuros empregos, como as metodologias ágeis. Particularmente, gostei muito de aprender sobre React.js e pretendo continuar me aperfeiçoando para que possa obter uma melhor performace no trabalho. E também, para que em turmas futuras possa voltar primeiramente como monitora e posteriormente como professora."
+        },
+        {
+            "curso": "Administração de empresas",
+            "instituicao":"Faculdades Metropolitanas Unidas - FMU",
+            "periodo":"Setembro 2018",
+            "resumo_conhecimentos_aprendidos": " A faculdade durante os 4 anos de curso, contribuiu com muito conhecimento teórico relacionado a área de gestão. Os conteúdos que mais gostei de estudar foram os relacionados a tecnologia, onde eu tive o meu primeiro contato com banco de dados e gestão de pessoas."
+        }
+       
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso":"Git e contribuições para projetos Open Source" ,
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre funcionalidades do Git e como contribuir em projetos Open Source"
+        },
+        {
+            "interesse_evento_curso": "React.js Ninja: Modulo React + Webpack",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre instalação e configuração do webpack"
+        },
+        {
+            "interesse_evento_curso": "Estratégia de negócios",
+            "instituicao":"Fundação Bradesco",
+            "resumo_conhecimentos_interesses": "Entendimento de metodologias que auxiliem num entendimento de como o mercado se comporta e como introduzir novos produtos."
+        },
+        {
+            "interesse_evento_curso": "Gestão Estratégica - BSC",
+            "instituicao":"Fundação Bradesco",
+            "resumo_conhecimentos_interesses": "Entendimento desta metodologia de medição e gestão de desempenho."
+        }
+    
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 7},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 7},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 5},  
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 8},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 7},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 7},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 6},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 5},
+        {"habilidade_ferramenta":"PESQUISA", "pontuacao":9},
+        {"habilidade_ferramenta":"TRABALHO EM EQUIPE", "pontuacao":9},
+        {"habilidade_ferramenta":"CRIATIVIDADE", "pontuacao":8},
+        {"habilidade_ferramenta":"INGLÊS", "pontuacao":5},
+        {"habilidade_ferramenta":"FACILIDADE EM APRENDER", "pontuacao":8},
+        {"habilidade_ferramenta":"FIGMA", "pontuacao":5}      
+    ]
+}
