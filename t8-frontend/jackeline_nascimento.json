@@ -1,0 +1,76 @@
+{
+    "nome_completo":"Jackeline Suelen do Nascimento",
+    "o_que_eu_quero":"Desenvolvedora Front-End",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/jackelinenascimento/",
+    "link_github":"https://github.com/jackelinenascimento",
+    "email": "jackeline_nascimento@hotmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Atuei na área da educação durante 8 anos onde pude desenvolver muitas habilidades profissionais. Reavaliando minha trajetória, tive a oportunidade de migrar para área de tecnologia e a {Reprograma} foi essencial nessa nova jornada.", 
+        "Com uma graduação em Matemática e uma especialização em Gestão de EAD, estou cursando minha segunda faculdade em Tecnologia de Análise de Desenvolvimento de Sistemas na Fatec Zona Leste. Tenho nivel avançado em Inglês e fiz um intercâmbio de dois anos em Dublin (Irlanda) no período de 05/2017 a 05/2019.", 
+        "Desejo solidificar minha carreira na área de tecnologia da informação, desenvolvendo websites, landing pages, hotsites, blogs ou aplicações web otimizadas e responsivas; Poder contribuir com a manutenção e melhoria constante dessas plataformas; Otimizar aplicações para garantir usabilidade; Garantir que plataformas funcionem bem em diferentes navegadores e dispositivos; Ajudar desenvolvedores back-end no código e solução de problemas."
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Monitoria Voluntária",
+            "empresa":"Reprograma",
+            "periodo":"11/2019",
+            "atividades_desenvolvidas": "Contribui como monitora da turma de Front-end on-line.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Projeto Voluntário",
+            "empresa":"Reprograma - Cliente Studio Lilian Searos",
+            "periodo":"10/2019",
+            "atividades_desenvolvidas": "Construção do site da cliente utilizando HTML, CSS, Bootstrap e JQuery.",
+            "link": "https://studiolilianseraos.github.io/"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp Desenvolvimento Front-end.",
+            "instituicao": "{Reprograma}",
+            "periodo": "Ago/2019 a Dez/2019 - (704 horas, presencial e integral)",
+            "resumo_conhecimentos_aprendidos": "Empreendedorismo, UX, UI, HTML 5, CSS 3, SCSS/SASS, Bootstrap, Git, GitHub, Web Responsivo, Scrum, Lógica de Programação, Javascript, Jquery e React."
+        },
+        {
+            "curso": "General English Course - Advanced Level",
+            "instituicao":"IBAT - Dublin/IL",
+            "periodo":"11/2018 a 05/2019",
+            "resumo_conhecimentos_aprendidos": "Curso de inglês voltado para conversação e certificações tais como IELTS e Cambridge."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Desenvolvimento Web Front-End",
+            "instituicao":"Digital Innovation One",
+            "resumo_conhecimentos_interesses": "Projeto de estruturas web e codificação de interfaces para produção de layouts de produtos digitais com interatividade entre os elementos e centrado na experiência do usuário."
+        },
+        {
+            "interesse_evento_curso": "Curso de Python 3",
+            "instituicao":"Curso em Vídeo",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do Python 3."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 8},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
+        {"habilidade_ferramenta":"PYTHON", "pontuacao": 7},
+        {"habilidade_ferramenta":"VBA NO ACCESS", "pontuacao": 8}
+    ]
+}
