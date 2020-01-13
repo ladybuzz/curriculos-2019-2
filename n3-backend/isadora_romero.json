@@ -1,0 +1,110 @@
+{
+    "nome_completo":"Isadora da Costa Romero maceió",
+    "o_que_eu_quero":"Quero trabalhar com programação para criação de APIs",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/isaromero/",
+    "link_github":"https://github.com/Piimeentaa",
+    "email": "dora13.isa@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Sou uma pessoa de energia pulsante, estou sempre sorrindo, mesmo.Por ser uma mulher negra aprendi nas adversidades da vida que a minha melhor companhia sou eu e se eu quero e acredito, eu vou conseguir.", 
+        "Minha trajetória começou em comunicação, por eu ser muito falante e curiosa era o caminho mais perfeito de todos. Fiz faculdade de RTV, depois publicidade  e propaganda e trabalhei dentro dessas áreas até me deparar com comunicação dentro de ChatBots.Então não só me encantei com as maravilhas que podemos fazer falando, mas também construindo, pelo contato com integrações com APIs restfull, que agora estou engajada a saber cada vez mais.", 
+        "Curto muito estar entre amigos e conhecer pessoas, atualmente participo de um bloco de rua sendo porta estandarte, o que ocupa uma parte do meu tempo, mas também toco alguns instrumentos, faço maratonas na Netflix e estou aprendendo a viajar sozinha."
+        
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Análista de Conteúdo III",
+            "empresa":"Hi Platform",
+            "periodo":"Mar/2018 - cargo atual",
+            "atividades_desenvolvidas": "Interpretar os processos e necessidades dos clientes, desenhando estratégias para o atendimento ao consumidor considerando toda a plataforma - Chat humano, chat bot, inbox e e-mail - mas o foco principal é o chat bot; Acompanhamento simultâneo de diversos clientes/projetos por metodologia ágil; Treinamentos presenciais e remotos das ferramentas,Realização de reuniões gerenciais e operacionais no cliente,configuração de conteúdo na plataforma - arquitetura comunicacional, UX Writing, integração com sistemas externos na ferramenta - JSON ou XML,Análise de performance de chat bots implantados sugerindo melhorias conforme o comportamento do consumidor e mudanças no mercado.Trabalho em equipe para visualizar números e KPIs, com sugestões de novos modelos e resultados.",
+            "link": "https://www.marabraz.com.br/sac/ ou https://www.giulianaflores.com.br/faq.aspx"
+        },
+        {
+            "cargo_funcao": "Quinto Andar",
+            "empresa":"Anayst Support",
+            "periodo":"Jul/2017 a Nov/2017",
+            "atividades_desenvolvidas": "Prestar atendimento ao parceiros internos através de telefone, e-mail e WhatsApp;Diagnosticar, atender solicitações.Responder dúvidas, dar suporte nas ocorrências de campo e apoiar na usabilidade das ferramentas do App;Educar e engajar o cliente externo e parceiros.Realizar e registrar os procedimentos internos;Conduzir feedbacks e contribuir ativamente para a melhorias dos processos;Ter o contato ativo com os nossos proprietários para garantir a visita dos parceiros nos imóveis.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Teleperformance Brasil",
+            "empresa":"Lider Educadora",
+            "periodo":"Set/2014 a Set/2016",
+            "atividades_desenvolvidas": "Líder Educadora- Certificação BEST (Baseline Enterprise Standard for Teleperformance) com 83% de aprovação auditada; Gestão de treinamentos presenciais e e-learning; Planejamento anual, semanal ou com plano de ação; comportamental, técnico e comercial; Ministrar treinamentos presenciais com aplicação de prova de absorção de conteúdo; Elaborar atividades teóricas e práticas conforme o objetivo estabelecido; Emissão de relatórios periódicos e esporádicos;Relacionamento com cliente interno;Apoiar os participantes com orientações e esclarecimentos sobre o conteúdo;Input de resultados e informações do TRN afim de emitir relatórios de desempenho e melhoria de turmas ou períodos.Preparação de infraestrutura do ambiente de treinamento (Interno ou externo).Elaborar plano de desenvolvimento individual e de equipes por gestão de competência, levantamento de necessidades (KPI operacional), avaliação de eficácia, pesquisa de clima, captação e avaliação dos multiplicadores.Atuação no atendimento Suporte Nokia - Relacionamento com o cliente Nokia referente a suporte técnico de aparelhos em geral. Conhecimento técnico em mecânica de aparelhos e seus softwares. Orientação de utilização, funções e demais esclarecimentos.",
+            "link": null   
+        },
+        {
+            "cargo_funcao": "DHL Express",
+            "empresa":"Internal Communications Intern",
+            "periodo":"Jul/2013 a Jun/2014",
+            "atividades_desenvolvidas": "Tenho a responsabilidade de comunicar nosso funcionários do que acontece global e localmente, sendo notícias de mercado que impactam o serviço e também mudanças internas.Na DHL foi possível concluir projetos de melhoria em informação interna como a elaboração do Podcast e melhoria dos conteúdos divulgados na tv. Foi feito também o desenvolvimento de páginas internas com contéudos de responsabilidade de cada área o qual eu desenvolvi os formatos e contéudos divulgados.As principais conquistas foram a liderança de Campanhas Internas que impactavam ou que pediam a participação de funcionários, onde atuei ativamente com uma comunicação integrada de acordo com os veículos disponibilizados, para alcançar todos os funcionários",
+            "link": null   
+        },
+        {
+            "cargo_funcao": "TIVIT",
+            "empresa":"Análista Júnior",
+            "periodo":"Jun/2009 a Dez/2012",
+            "atividades_desenvolvidas": "Analista Júnior - Responsável pela comunicação interna, elaboração do comunicados internos de informação e de eventos, informativo semanal, jornal mensal interno, elaboração de campanhas motivacionais, execução e premiação de campanhas, relatórios semanais de treinamento, organização e gestão de biblioteca para colaboradores.Treinamento do produto RH, elaboração de treinamentos específicos e conceitual. Agente de BPO 3 - Fale com RH/Super Ranking/Contas Correntes – Grupo Santander Brasil.Atendimento ao funcionário do Grupo Santander, voltado a toda área de benefícios, seleção, admissão e demissão, programas próprios, folha de pagamento,férias, suporte geral de Rh. Já no suporte de Super Ranking esclarecimento de regras e pontuações com base no programa de incentivos do grupo. O Suporte de conta correntes é toda a base do atendimento do gerente para cliente desde aberturas de contas quanto problemas sistêmicos e solicitações. Utilização do sistema Service Center 6.2, TFC,FPW, RWponto.",
+            "link": null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp Backend",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Programação back-end (lógica de programação, javascript, API, mongoDB e node.js), conhecimentos básicos de testes unitários e metodologias ágeis, orientação e mentoria profissonal."
+        },
+        {
+            "curso": "Gestão Estratégica em Negócios",
+            "instituicao":"Universidade Presbiteriana Mackenzie",
+            "periodo":"Ou/2015 a Jun/2017",
+            "resumo_conhecimentos_aprendidos": "Desenvolvimento do perfil de gestão e empreendedorismo, com visão estratégica integrada dos diversos aspectos da administração de negócios. "
+        },
+        {
+            "curso": "Comunicação Socia Habilitação em Publicidade e Propaganda",
+            "instituicao":"Uninove - Universidade Nove de Julho",
+            "periodo":"Ago/2011 a Ago/2015",
+            "resumo_conhecimentos_aprendidos": "Capacidade de gerir, planejar, desenvolver e aplicar os conceitos e técnicas de mídia, bem como realizar análises de mercado, estruturar estratégias de marketing e comunicação e desenvolver ações de promoção e merchandising."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "curso": "Nanodegree Fundamentos de Machine Learning",
+            "instituicao":"Udacity Brasil",
+            "resumo_conhecimentos_aprendidos": "Fundamentos teóricos e praticos de Inteligência artificial"
+        },
+        {
+            "interesse_evento_curso": "Ux Writing",
+            "instituicao":"Centro Universitário Belas Artes de São Paulo",
+            "resumo_conhecimentos_interesses": "Resoluções de problemática de comunicação assertiva para o publico e canal escolhido."
+        },
+        {
+            "curso": "Scrum Agile",
+            "instituicao":"Udemy Academy",
+            "resumo_conhecimentos_aprendidos": "Método àgile para gerenciamento de projetos."
+        },
+        {
+            "curso": "Comunicação Organizacional e Negócio",
+            "instituicao":"Escola Superior de Propaganda e Marketing",
+            "resumo_conhecimentos_aprendidos": "Conceitos de comunicação integrada de markleting na economia globalizada, ferramentas estratégicas e posicionamento de marca."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"NODE", "pontuacao":6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 6},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 8},
+        {"habilidade_ferramenta":"UX WRITING", "pontuacao": 8},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 6},
+        {"habilidade_ferramenta":"INTEGRAÇÃO API", "pontuacao": 7},
+        {"habilidade_ferramenta":"TESTES UNITÁRIOS", "pontuacao": 5},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 6},
+        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 6},
+    ]
+}
