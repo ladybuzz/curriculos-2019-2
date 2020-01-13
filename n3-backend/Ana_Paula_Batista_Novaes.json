@@ -1,0 +1,81 @@
+{
+    "nome_completo":"Ana Paula Batista Novaes",
+    "o_que_eu_quero":"Iniciar minha carreira como desenvolvedora backend júnior em uma empresa que possa me crescer profissionalmente.",
+    "cidade_estado:":"Guarulhos/SP",
+    "link_linkedin": "https://www.linkedin.com/in/anabnovaes/",
+    "link_github":"https://github.com/anabnovaes",
+    "email": "ana.paula150357@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Sou formada em análise e desenvolvimento de sistemas, ex analista de suporte em migração de carreira.", 
+        "Iniciei minha trajetória aos 16 anos trabalhando por 17 meses no aeroporto de Guarulhos, aos 17 ingressei na faculdade e retomei ao mercado como estagiária de analista de suporte aos 18 anos. Este ano decidi realizar uma migração de área e estou a procura de minha primieira experiência profissional no setor de desenvolvimento.", 
+        "Amo ler, estudar e fazer aulas de hidroginástica em meu tempo livre.",
+        "Faço parte da organização da comunidade Minas TI e frequento eventos nas comunidades : Nerdzão, WoMakersCode e Facebook Developers Circle." 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Líder de suporte",
+            "empresa":"VisualSet Tecnologia",
+            "periodo":"Mar/2016 a Jul/2019",
+            "atividades_desenvolvidas": "Atendimento a clientes críticos por e-mail, migrações e manutenção de bases de dados,gerenciar uma equipe de suporte e acompanhar solicitações de novas implementações.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Aprendiz de agente de aeroporto",
+            "empresa":"CIEE - TAM Linhas Aéreas",
+            "periodo":"Ago/2013 a Jan/2015",
+            "atividades_desenvolvidas": "Atendimento a clientes e registro de tempo de espera em fila/ atendimento a clientes.",
+            "link":null 
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Backend",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Lógica de Programação, HTML, CSS, Javascript, Git, API, Testes Unitários, NODE.JS, Scrum, MongoDB, UX, Orientação Profissional e Projetos."
+        },
+        {
+            "curso": "Análise e desenvolvimento de sistemas",
+            "instituicao":"UNINOVE",
+            "periodo":"Jan/2015 a Jul/2017",
+            "resumo_conhecimentos_aprendidos": "Lógica de programação, orientação a objetos, HTML, CSS, C#, Java, JavaWeb,MySQL e PLSQL"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "APP development - Kotlin",
+            "instituicao":"MadCode escola de programação",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica de Kotlin"
+        },
+        {
+            "interesse_evento_curso": "Encoding Essential Skills - UI - UX",
+            "instituicao":"MadCode escola de programação",
+            "resumo_conhecimentos_interesses": "Aprendizado de conceitos sobre experiência do usuário, tipografia, cores e utilização da plataforma Adobe XD"
+        },
+        {
+            "interesse_evento_curso": "Introdução ao GitHub e comandos essenciais para trabalhar em equipe",
+            "instituicao":"Digital Innovation One",
+            "resumo_conhecimentos_interesses": "Entendimento sobre o git, bash e comandos essenciais para o dia a dia."
+        }
+        
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"NODE", "pontuacao": 8},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 7},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 6},
+        {"habilidade_ferramenta":"ADOBE XD", "pontuacao": 6},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
+        {"habilidade_ferramenta":"KOTLIN", "pontuacao": 5},
+        {"habilidade_ferramenta":"HTML", "pontuacao":5},
+        {"habilidade_ferramenta":"FTP", "pontuacao": 5},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 4},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 3}
+    ]
+}
