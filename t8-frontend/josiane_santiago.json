@@ -1,0 +1,99 @@
+{
+    "nome_completo":"Josiane Santiago",
+    "o_que_eu_quero":"Atuar com Desenvolvedora Front-end Júnior",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/josiane-santiago/",
+    "link_github":"https://github.com/josisantiago",
+    "email": "josianesborrego@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Minha primeira formação foi em Fisioterapia pela USP, carreira na qual atuei por mais de 20 anos, até me ver desempregada. Procurei novas colocações por 2 anos, sem sucesso, quando fui incentivada por familiares a mudar de profissão.",
+        "Pesquisando por novas carreiras, me interessei pela área de Tecnologia da Informação, em alta no mercado, com reais possibilidades de contratação e onde posso fazer um real plano de carreira." ,
+        "Dentro deste universo, encontrei a {reprograma}. Candidatei-me, fui aprovada e conheci um novo mundo, uma nova linguagem e facilmente associei essa realidade às habilidades que desenvolvi anteriormente com o trabalho em equipe, com a atuação sob pressão e sendo criativa na solução de problemas.",
+        "Hoje vejo que minhas vivencias, associadas à minha facilidade de comunicação verbal e escrita, me capacitaram para trabalhar na área de TI como uma desenvolvedora que gosta de novos desafios, de se reinventar, de enriquecer sempre seus conhecimentos através de estudos e da troca de saberes para ampliar seus horizontes."
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Fisioterapeuta",
+            "empresa":"Congregação das Filhas de Nossa Senhora Stella Maris",
+            "periodo":"Jun/2012 a Jul/2017",
+            "atividades_desenvolvidas": "Atendimento a pacientes da terceira idade, desenvolvendo atividade física em grupo e atendimentos individuais utilizando recursos manuais e eletroterapia",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Fisioterapeuta",
+            "empresa":"Autônoma",
+            "periodo":"Ago/2010 a Jun/2012",
+            "atividades_desenvolvidas": "Atendimento domiciliar, tratamento de patologias ortopédicas e neurológicas, utilização de técnicas de RPG, cinesioterapia e eletroterapia",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Fisioterapeuta",
+            "empresa":"Clinica de Ortopedia Artur Alvim",
+            "periodo":"Mai/2005 a Jul/2010",
+            "atividades_desenvolvidas": "Atendimento ao público em geral, tratamento de patologias ortopédicas e neurológicas, utilização de técnicas de RPG, cinesioterapia e eletroterapia",
+            "link": null
+        }, 
+        {
+            "cargo_funcao": "Fisioterapeuta",
+            "empresa":"LE RU Estética",
+            "periodo":"Mar/2004 a Abr/2005",
+            "atividades_desenvolvidas": "Realização de procedimentos estéticos",
+            "link": null
+        }, 
+        {
+            "cargo_funcao": "Fisioterapeuta",
+            "empresa":"Hospital Pio XII",
+            "periodo":"Abr/1995 a Jul/1999",
+            "atividades_desenvolvidas": "Tratamentos individuais de distúrbios ortopédicos, neurológicos e respiratórios, utilizando recursos manuais, cinesioterapia e eletroterapia",
+            "link": null
+        },  
+        {
+            "cargo_funcao": "Projeto Voluntário",
+            "empresa": "Reprograma - Studio Lilian Seraos ",
+            "periodo": "Out/2019",
+            "atividades_desenvolvidas": "Criação site, junto com uma equipe de 6 desenvolvedores, utilizamos HTML, CSS, Bootstrap, JavaScript e Jquery, com layout responsivo para mobile, tablet e deskop",
+            "link": "https://studiolilianseraos.github.io/"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp Desenvolvimento Front-end",
+            "instituicao":"Reprograma",
+            "periodo":"Ago/2019 a Dez/2019 (704 horas, presencial e integral)",
+            "resumo_conhecimentos_aprendidos": "HTML 5, CSS, Lógica de Programaçã, JavaScript, Bootstrap, Git, Github, Jquery, Sass, React, UX, UI, Empreendedorismo, "
+        },
+        { 
+            "curso": "Fisioterapia",
+            "instituicao":"Universidade de São Paulo - USP",
+            "periodo":"Jan/1980 a Dez/1984",
+            "resumo_conhecimentos_aprendidos": "Fisioterapia Geral"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "React.js Ninja",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Criar aplicações utilizando o React.js de forma correta, aplicar testes de vários tipos nas aplicações, criar aplicações com rotas, estado isolado e pré reiderização no lado do servidor"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTM 5", "pontuacao":8},
+        {"habilidade_ferramenta":"CSS 3", "pontuacao": 8},
+        {"habilidade_ferramenta":"SCSS/SASS", "pontuacao": 5},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 7},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"REACT", "pontuacao": 8}
+    ]
+}
+    
