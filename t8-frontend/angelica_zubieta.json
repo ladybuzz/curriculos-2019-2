@@ -1,0 +1,130 @@
+{
+    "nome_completo":"Angélica María Zubieta Garcia",
+    "o_que_eu_quero":"O meu objetivo principal é atuar na área de tecnología, fortalecendo os meus conhecimentos como desenvolvedora front end, trabalhando em produtos desafiadores onde consiga contribuir em soluções que contribuam a mitigar dores atuais de usuários em diferentes áreas da sociedade. Também procuro fortalecer a presença das mulheres na área de tecnología; quero trabalhar muito próxima das empresas para criar ambientes mais diversos e inclusivos, estimulando as empresas a fortalecer ou criar ferramentas e programas para aumentar a inclusão da mulher na área de TI.",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/angelica-zubieta-garc%C3%ADa-7a7064184/",
+    "link_github":"https://github.com/amzubieta",
+    "email": "angelicazubieta@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        Sou uma pessoa criativa, enérgica, focada e eficiente. Tenho facilidade em absorver novos conhecimentos e tecnologias e coloca-los em prática. Sou organizada e tenho facilidade de planejar e estruturar as tarefas que tenho que realizar. Considero que sou uma pessoa com boas habilidades comunicativas; é importante para mim estimular os times nos que trabalho para sermos empáticos entre nós. Estou constantemente questionando e estimulando o time para trabalhar de forma objetiva e eficaz, para termos sucesso no produto que estamos trabalhando.
+         
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Projeto Voluntário",
+            "empresa":"Reprograma - UX Para Minas Pretas",
+            "periodo":"Agto/2019 a Dez/2019",
+            "atividades_desenvolvidas": "Desenvolvido en React",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Trabalho de Conclução de curso",
+            "empresa":"Politecnico Grancolombiano - ",
+            "periodo":"Jlho/2017 a Dez/2018",
+            "atividades_desenvolvidas": "Trabalho no framework Ionic permitindo crear uma aplicação multiplataforma com uma fonte de codigo unificada.",
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp Fronted Developer",
+            "instituicao":"Reprograma",
+            "periodo":"2019/08 a 2019/12",
+            "resumo_conhecimentos_aprendidos": "Desenvolvedora front-end com capacidade em abordar UXDesign, HTML, JavaScript, Bootstrap, Jquery, React e preprocessadores (SASS, SCSS), capacitando mulheres lideres, empreendedoras"
+        },
+        {
+            "curso": "Ingenieria de Sistemas",
+            "instituicao":"Institución Universitaria Politecnico Grancolombiano",
+            "periodo":"2010 a 2019",
+            "resumo_conhecimentos_aprendidos": "Profissional autônomo com capacidade de proponer , desenhar e gerenciar esquemas de melhoramento basados em novas tecnologias da informação e comunicação para o desenvolvimento de projetos pertinentes com o contexto local e global mediante o aproveitamento adequado dos recursos."
+        },
+        {
+            "curso": "Tecnologia en Informatica",
+            "instituicao":"Coorporación Universitaria Minuto de Dios",
+            "periodo":"2006 a 2009",
+            "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Introdução ao ReactJS",
+            "instituicao":"Digital Innovation One",
+            "resumo_conhecimentos_interesses": "Conhecimento do ecosistema de ReactJs, configuração de webpack, ESLint, Renderização, manipulação de eventos e pensamento do jeito ReactJS."
+        },
+        {
+            "interesse_evento_curso": "Introdução ao Github e comandos essenciais para trabalhar em equipe.",
+            "instituicao":"Digital Innovation One",
+            "resumo_conhecimentos_interesses": "Conhecimento da ferramenta como controle de versão de arquivos, comandos principais para trabalho em equipe."
+        },
+        {
+            "interesse_evento_curso": "Fundamentos de Logica de Programación ",
+            "instituicao":"Digital Innovation One",
+            "resumo_conhecimentos_interesses": "O praticante aprenede a raciocinar coerente e expressar relação causa-cosequncia, encadeando pensamentos para atingir determinado objetivo."
+        },
+        
+        {
+            "interesse_evento_curso": "Certificado Conquista Sindrome da Impostora ",
+            "instituicao":"Programa Elas",
+            "resumo_conhecimentos_interesses": "Descubrimiento e liberação do sentimento de culpa e insegurança. Transformar em uma mulher mais poderosa e realizada, capaz de construir uma carreira de sucesso."
+        },
+        {
+            "interesse_evento_curso": "Certificado de Faixa Preta Primeiro Dan",
+            "instituicao":"Escola sekishinkans",
+            "resumo_conhecimentos_interesses": "El alumno merecedor da faixa preta é compacivo, colaborador, esforzado, responsável, atento e humilde"
+        },
+        {
+            "interesse_evento_curso": "Certificado IT Forum X 2019 ",
+            "instituicao":"Forum IT X",
+            "resumo_conhecimentos_interesses": "Evento para profissionais em todos os níveis de decisão e diversas áreas de negócios, que precisam respostas para e atender a demanda latente em na area de tecnologia. "
+        },
+        {
+            "interesse_evento_curso": "Certificado de voluntaria durante o evento PrograMariaSummit 2019  ",
+            "instituicao":"Programaria",
+            "resumo_conhecimentos_interesses": "Iniciativa que teve como objetivo empoderar mulheres por meio da programação e tecnologia – esse evento foi desenhado para aquelas que já atuam no setor e buscam se desenvolver na carreira ou encontrar novas oportunidades."
+        },
+        {
+            "interesse_evento_curso": "Formação Livre em Hatha Raja Yoga ",
+            "instituicao":"Escolha Dharma",
+            "resumo_conhecimentos_interesses": "Capacitação de instrutores em Yoga e Meditação"
+        },
+        {
+            "interesse_evento_curso": "Productividad Personal",
+            "instituicao":"Google Actívate",
+            "resumo_conhecimentos_interesses": "Conocimiento en herramientas y procesos que ayudan a ser más productivos a la hora de buscar trabajo o desarrollar un proyecto.  Aspectos relacionados con la gestión del tiempo, marca personal, reputación online, generación de ideas, etc.",
+        },
+        {
+            "interesse_evento_curso": "Fundamentos de Marketing Digital",
+            "instituicao":"Google Actívate",
+            "resumo_conhecimentos_interesses": "Experto de marketing digital a un nivel básico el curso acreditado por la agencia Interactive Advertising Bureau (IAB). Son 26 módulos que componen el curso y han sido creados por instructores de Google que incluyen numerosos ejercicios prácticos y ejemplos reales que ayudan al alumno a conseguir excelentes resultados."
+        }
+    ],
+
+    
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 1}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 8},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 7},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 9},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 1},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 7},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 7},
+        {"habilidade_ferramenta":"FTP", "pontuacao": 5},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 5},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 7},
+        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 7},
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 7}
+    ]
+}
