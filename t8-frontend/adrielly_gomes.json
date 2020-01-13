@@ -1,0 +1,87 @@
+{
+    "nome_completo": "Adrielly Gomes da Silva",
+    "o_que_eu_quero": "Procuro oportunidade na área de tecnologia em estágio ou como desenvolvedora front-end junior",
+    "cidade_estado:": "São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/adrielly-gomes-859276191/",
+    "link_github": "https://github.com/adriellygomes",
+    "email": "adriellygomess@outlook.com",
+    "um_pouco_sobre_mim": [
+        "Eu sou a Adrielly, trabalhei formalmente como professora de informática. Estudei Design por muitos anos da minha vida, até me descobrir na área de tecnologia e me apaixonar completamente! Considero tudo que vivi e todas as minhas experiências uma ótima bagagem pra área que estou em trânsição, e atualmente procuro oportunidade como desenvolvedora front-end. Além disso, me considero uma pessoa muito empatica com as pessoas, gosto muuuito dos animais, e meu bolo de chocolate é show!"
+    ],
+    "no_que_ja_trabalhei": [
+        {
+            "cargo_funcao": "Instrutora de Informática",
+            "empresa": "Escola Cursos Help",
+            "periodo": "Set/2015 a Dez/2017",
+            "atividades_desenvolvidas": "Instrutora na área de informática (pacote office: Windows, Word, Excel, Power Point. Design: Photoshop, CorelDraw, Illustrator). Auxiliando e avaliando o desenvolvimento de cada aluno, elaboração e aplicação de aulas, controle de faltas, fechamento de contratos e atendimento de pais e alunos.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Instrutora de Informática",
+            "empresa": "S.O.S Computadores",
+            "periodo": "FREELANCER",
+            "atividades_desenvolvidas": "Instrutora na área de informática (pacote office: Windows, Word, Excel, Power Point). Auxiliando e avaliando o desenvolvimento de cada aluno, elaboração e aplicação de aulas, controle de faltas."
+        }
+    ],
+    "o_que_ja_estudei": [
+        {
+            "curso": "Desenvolvedora Front-End (700 horas)",
+            "instituicao": "{Reprograma} em Facebook, Av Paulista",
+            "periodo": "Ago/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Curso onde tive oportunidade de aprender tudo um pouco, desenvolver e apresentar projetos tanto individuais quanto em grupo com clientes reais! Em ambito técnico aprendi: Lógica de programação, HTML & CSS, Jquery, Javascript, ReactJS, Git, Github, Scrum, bibliotecas, SASS, frameworks, UX DESIGN."
+        },
+        {
+            "curso": "Curso de Web Design (160 horas)",
+            "instituicao": "Senac Lapa Faustolo",
+            "periodo": "Junho/2019 a Julho/2019",
+            "resumo_conhecimentos_aprendidos": "HTML, CSS3, UX DESIGN"
+        },
+        {
+            "curso": "Design com foco em Editoração (106 horas)",
+            "instituicao": "Senac Lapa Scipião",
+            "periodo": "Set/2018 a Nov/2018",
+            "resumo_conhecimentos_aprendidos": "Adobe Photoshop, Illustrator, Indesign, Impressão"
+        }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+        {
+            "interesse_evento_curso": "Inglês",
+            "instituicao": "S.O.S Computadores",
+            "resumo_conhecimentos_interesses": "Inglês Intermediário"
+        },
+        {
+            "interesse_evento_curso": "Design Gráfico",
+            "instituicao": "CPA Pe. Bello – Centro de Profissionalização de Adolescentes",
+            "resumo_conhecimentos_interesses": "Photoshop, CorelDraw, Macromedia Flash, Illustrator"
+        },
+        {
+            "interesse_evento_curso": "ReactJS (em andamento)",
+            "instituicao": "Udemy",
+            "resumo_conhecimentos_interesses": "Aplicações com React Js do zero ao avançado, sistemas completos com rotas, estados isolado e componentes."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 7},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 2}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 7},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 7},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 7},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 7},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 7},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 4},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 7},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 7},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 9},
+        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 9},
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 9},
+        {"habilidade_ferramenta":"CORELDRAW", "pontuacao": 9},
+        {"habilidade_ferramenta":"PACOTE OFFICE", "pontuacao": 9}
+    ]
+}
