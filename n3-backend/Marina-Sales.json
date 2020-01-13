@@ -1,0 +1,72 @@
+{
+    "nome_completo":"Marina Sales Torres",
+    "o_que_eu_quero":"Desenvolverdora Backend",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/marina-sales-torres-87a1b616b
+    "link_github":"https://github.com/marina526    
+    "email": "marinasalestorres@hotmail.com
+    "um_pouco_sobre_mim":[
+        "Trabalho na área administrativa, e tenho experiencia com vendas", 
+        "iniciei dois anos de sistemas de informação, mas nunca trabalhei na área", 
+        "Iniciei curso de Backend e tenho pretenção em seguir na área",
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Administrativo e controle de estoque",
+            "empresa":"AMINI",
+            "periodo":"Março/2019 a novembro/2019",
+            "atividades_desenvolvidas": "Controle administrativo, faturamento, estoque, nota fiscal, gerencia de loja"
+            "link": null
+        },
+        {
+            "cargo_funcao": "Auxiliar administrativo",
+            "empresa":"BeachBoom roupas e acessorios",
+            "periodo":"nov/2019 a jan/2020",
+            "atividades_desenvolvidas": "Administrativo, financeiro, controle de estoque e lojas de shopping",
+    
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Backend",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Aprendi programar em node.js, javascript, mongoDB, Github, API"
+        },
+        {
+            "curso": "Sistemas de informação",
+            "instituicao":"Universidade São Judas Tadeu",
+            "periodo":"Jan/2014 a Dez/2016",
+            "resumo_conhecimentos_aprendidos": "Orientação objeto, banco de dados, empreendedorismo, arquitetura de dados, HTML, CSS, Logica de progração, e etc"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Excel avançado",
+            "instituicao":"SENAC",
+            "resumo_conhecimentos_interesses": "Excel nivel avançado"
+        },
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 7},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 9},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 9}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 6},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 7},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 7},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 8},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 7},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 9},
+        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 8},
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 6}
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 9}
+    ]
+}
