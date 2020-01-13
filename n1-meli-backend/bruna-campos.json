@@ -1,0 +1,113 @@
+{
+    "nome_completo":"Bruna Rebeca Bispo Campos",
+    "o_que_eu_quero":"Fazer a transição de carreira de CX para Dev, mas continuar conseguindo apoiar pessoas no dia a dia, aproveitando as skills que eu já possuo",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/brunarbcampos/",
+    "link_github":"https://github.com/brunarbcampos",
+    "email": "brunarbcampos@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Tenho 29 anos, 2 pitbulls e sou formada em turismo.", 
+        "Trabalho há muitos anos com Customer Experience e agora busco um novo desafio.", 
+        "Gosto de ler livros e comics, jogar (na Steam),assistir séries e animes. ",
+        "Sou pós-graduada em memes, e em marketing oficialmente também." 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Customer Success Analyst",
+            "empresa":"Ripio",
+            "periodo":"Jul/2019 - Atual",
+            "atividades_desenvolvidas": "As a costumer support analyst in Ripio, I:
+            am working on all the customer support deployment with new voice tone implantation for Brazil; doing customer support for social media (facebook, instagram, twitter) and email; translated every document, macros and processes spanish-portuguese; did the renewal of customer processes within the area; am doing management and insets of SLA/KPIs for CS. Besides of being the first employee in Brazil focused in CS and responsible for the area expansion. Also dealing with events and maketshare, studying our competitors and surroundings, doing compliance/fraud analysis and feedback.",
+            "link": "https://www.ripio.com/br/"
+        },
+        {
+            "cargo_funcao": "Customer Experience Analyst",
+            "empresa":"Nubank",
+            "periodo":"Fev/2018 a Jun/2019",
+            "atividades_desenvolvidas": "As a customer experience analyst in Nubank, I:
+            Provide support to our customers answering chats, emails and calls;
+            Empower our customers by making sure they know our app’s features;
+            Analyze customer's application data and documents submitted;
+            Collect feedback and suggestions from customers and prospects;
+            We want to build a meaningful relationship with each one of our customers and therefore we believe this is one of our biggest competitive advantages.
+            Triage and treat potential bugs and operational issues affecting customers;
+            Track claims on our chargeback process;
+            Call customers to confirm information needed on potential fraud cases;
+            Reach out to late customers to explain payment plans.
+            
+            We want to build a meaningful relationship with each one of our customers and therefore we believe this is one of our biggest competitive advantages.",
+            "link":"http://nubank.com.br"
+        },
+        {
+            "cargo_funcao": "Jr Operations Analyst",
+            "empresa":"Restorando",
+            "periodo":"Dez/2014 a Jun/2017",
+            "atividades_desenvolvidas": "As an analyst, mostly focusing in city planning and operations (also known as content and publication), I have target as generating new leads for comercial teams to work with; assigning groups to measure reach of each and every account in São Paulo and Rio de Janeiro; searching valuable information about new restaurantes through websites and social media of all types; contacting restaurants to get real details about operation and daily needs; load all information into the company systems, mostly SalesForce. Also responsible for receiving sales orders to validate accounts working integrated with them. Lastly, doing the spanish-portuguese translations and creating of new documents/internal processes for the company.",
+            "link":"http://restorando.com.br"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "MBA em Matketing Digital",
+            "instituicao":"Universidade de São Paulo - Campus ESALQ",
+            "periodo":"Jan/2017 a Dez/2018",
+            "resumo_conhecimentos_aprendidos": "O curso aborda os conceitos e as ferramentas que o profissional precisa saber para tomar as decisões corretas que envolvem todo o escopo do marketing. Entendendo as análises, as estratégias e as táticas mercadológicas a partir de uma visão holística sobre todas as áreas tradicionais e digitais do marketing."
+        },
+        {
+            "curso": "Tecnologia em Gestão de Turismo",
+            "instituicao":"Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+            "periodo":"Jan/2013 a Dez/2015",
+            "resumo_conhecimentos_aprendidos": "O perfil profissional do egresso do curso superior de Tecnologia em Gestão de Turismo do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo do câmpus São Paulo segue os parâmetros legais instituídos pelo “Catálogo Nacional de Cursos Superiores de Tecnologia 3ª ed. MEC 2016”. Dessa forma, o egresso do Curso Superior de Tecnologia em Gestão de Turismo do IFSP câmpus São Paulo é um profissional com formação superior técnica apto a atuar de forma crítica e reflexiva nos diversos segmentos da atividade turística. Esse profissional está apto a diagnosticar o potencial de destinos e produtos turísticos; criar e implantar roteiros turísticos; planejar e gerenciar atividades relacionadas aos distintos segmentos de mercado do turismo; articular os diferentes agentes locais, regionais e internacionais da área; administrar e operar atividades em agências de turismo e transportadoras turísticas; gerenciar e executar procedimentos em meios de hospedagem, restaurantes e eventos; vistoriar, avaliar e emitir parecer técnico em sua área de formação."
+        },
+        {
+            "curso": "Bootcamp Back-End",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Bootcamp com 14 semanas de duração, focado em Back-End (Javascript) no Mercado Livre.
+
+            Neste bootcamp, estamos estudando Back-End focado em Javascript e Node JS.
+            
+            - Lógica de Programação
+            - HTML5 and CSS
+            - JavaScript
+            - API
+            - Unit testing
+            - Git and Github
+            - Scrum
+            - NODE.JS
+            -MongoDB"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso online de Javascript",
+            "instituicao":"Curso em Vídeo",
+            "resumo_conhecimentos_interesses": "Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser aprender mais sobre ECMAScript, a versão padronizada do JS. Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o conteúdo básico em 6 módulos:
+
+            Módulo 01: Conhecendo o JavaScript
+            Módulo 02: Comandos básicos do JavaScript
+            Módulo 03: Document Object Model
+            Módulo 04: Condições em JavaScript
+            Módulo 05: Repetições (laços) em JavaScript
+            Módulo 06: Avançando nos estudos em JavaScript"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"Atendimento ao cliente", "pontuacao":9},
+        {"habilidade_ferramenta":"Formulação de textos", "pontuacao": 9},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"NODE", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 6},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 4},
+        {"habilidade_ferramenta":"HTML", "pontuacao": 5},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 4},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
+        ]
+}
