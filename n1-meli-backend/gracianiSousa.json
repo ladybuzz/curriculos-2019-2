@@ -1,0 +1,84 @@
+{
+    "nome_completo": "Graciani Sousa da Silva",
+    "o_que_eu_quero": "Nesta nova área de atuação, busco solucionar problemas e impactar positivamente a vida das pessoas, facilitando o seu dia a dia.",
+    "cidade_estado": "São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/graciani-sousa-19822308a/",
+    "link_github": "https://github.com/graciani23",
+    "email": "gracianigss@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Administradora por formação e apaixonada por tecnologia.", 
+        "Trabalhei sempre ao redor de equipes de TI, então, nesse ano de 2019, tomei a inciativa de dedicar-me exclusivamente a transição de carreira para a área de tecnologia.", 
+        "Tive o privilégio de ser escolhida para participar do BootCamp de Desenvolvimento Back-End na {Reprograma} e tenho participando de grupos e eventos que possam me aproximar desse objetivo.", 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Assistente Administrativo",
+            "empresa":"Galvani Engenharia",
+            "periodo":"Mar/2015 a Mar/2017",
+            "atividades_desenvolvidas":[
+                "Responsável pela padronização dos arquivos da empresa, gerando um índice que facilitou a localização e a guarda dos documentos.",
+                "Responsável pela modernização do boletim semanal utilizado nas reuniões dos departamentos, tornando-o mais visual e interativo.",
+                "Responsável pelo controle da agenda da presidência, planejamento de viagens e reservando hotéis.",
+                "Responsável pela emissão de requisições e pedidos de compra para pagamentos de notas fiscais e demais despesas referentes ao departamento através do ERP Microsiga Totvs."
+            ],
+            "link": null
+        },
+        {
+            "cargo_funcao": "Assistente Administrativo",
+            "empresa":"Coop. Regional de Cafeicultores em Guaxupé Ltda",
+            "periodo":"Nov/2004 a Mai/2014",
+            "atividades_desenvolvidas":[
+                "Atuação no Projeto de implantação da Release 12 do ERP Oracle como usuário chave do módulo de venda OM e módulos de parametrização de campanhas de vendas, levantando requisitos e realizando testes junto às demais áreas para homologação dos processos.",
+                "Responsável pela formação / análise de preço de venda de máquinas e insumos agrícolas, implementando forma automatizada para inserção de novos preços e produtos, dando mais agilidade e segurança para as atualizações.",
+                "Responsável pela emissão e acompanhamento de contratos firmados entre a (organização) Cooxupé e fornecedores participantes da Femagri (Feira de máquinas e Implementos Agrícola realizada anualmente), implementando forma automatizada e conseguindo mais rapidez e assertividade no preenchimento das informações.",
+                "Responsável pela elaboração de relatórios de vendas, extraídos através de ferramentas de BI – OBIEE,(ferramenta de elaboração e extração de relatórios Oracle) e apresentações gerenciais para tomada de decisão, além da manutenção dos arquivos, visando o cumprimento dos procedimentos necessário e garantia no controle das informações."
+            ],
+            "link": null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Desenvolvimento Web Full Stack",
+            "instituicao":"Digital House",
+            "periodo":"Out/2019 a Abr/2020",
+            "resumo_conhecimentos_aprendidos": "HTML, CSS, PHP, JavaScript, Laravel, React e SQL."
+        },
+        {
+            "curso": "Desenvolvimento Back-end",
+            "instituicao":"{reprograma}",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "JavaScript, Node.JS, MongDB e metodologia ágil."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso JavaScript Ninja",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre javascript a fundo, entendendo como os frameworks e bibliotecas funcionam por baixo dos panos."
+        },
+        {
+            "interesse_evento_curso": "Formação Node.JS",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento aprofundado sobre sintaxe e frameworks do Node.JS"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":7},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 7},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"NODE.JS", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 7},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 7},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 8},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 5},
+        {"habilidade_ferramenta":"SQL", "pontuacao": 5},
+    ]
+}
