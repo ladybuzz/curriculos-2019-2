@@ -1,0 +1,94 @@
+{
+    "nome_completo":"Paula Franco Rodrigues",
+    "o_que_eu_quero":"Estou a procura de uma oportunidade para entrar na área de desenvolvimento back-end ou fullstack junior onde eu possa crescer profissionalmente.",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/paulafrodrigues/",
+    "link_github":"https://github.com/paulafrodrigues",
+    "email": "pfr.blackcat@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Sou formada em secretariado executivo com ênfase em línguas", 
+        "Me formei nos bootcamps de front-end e back-end da reprograma", 
+        "Sou apaixoanda por tecnologia e jogos e sempre que tenho oportunidade vou em eventos dos dois tipos",
+        "Adoro aprender coisas novas, principalmente novas tecnologias." 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Secretária",
+            "empresa":"BK Consultoria como terceirizada na Procuradoria da Fazenda Nacional",
+            "periodo":"Mai/2015 a atual",
+            "atividades_desenvolvidas": "Desenvolvimento, junto a chefia da divisão, de melhores formas de trabalho no ambiente da Divisão de Defesa em 1ª Instância, auxiliando no melhor fluxo de trabalho de Procuradores e servidores administrativos",
+            "link": null
+        },
+        {
+            "cargo_funcao": "[Voluntária] Mentora-anja e Monitora",
+            "empresa":"{reprograma}",
+            "periodo":"Out~Dez/2019",
+            "atividades_desenvolvidas": "Acompanhamento de alunas em dúvidas e sugestões técnicas durante o curso online de Front-end",
+            "link": "http://www.reprograma.com.br"
+        },
+        {
+            "cargo_funcao": "Estagiária",
+            "empresa":"METRÔ-SP",
+            "periodo":"nov/2012 a nov/2014",
+            "atividades_desenvolvidas": "Estagiária de secretariado no departamento de Marketing Corporativo auxiliando os funcionários do deparameto com problemas de informática entre outras coisas.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Vendedora",
+            "empresa":"Kaçarola",
+            "periodo":"jan/2012 out/2012",
+            "atividades_desenvolvidas": "Responsável pelas vendas, controle de estoque, abertura e fechamento de caixa",
+            "link": null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp de Back-End",
+            "instituicao":"Reprograma",
+            "periodo":"set/2019 a dez/2019",
+            "resumo_conhecimentos_aprendidos": "Estruturação de aplicações web, gestão e armazenamento de dados."
+        },
+        {
+            "curso": "Bootcamp online de Front-End",
+            "instituicao":"Reprograma",
+            "periodo":"fev/2019 a mai/2019",
+            "resumo_conhecimentos_aprendidos": "Aprendizado de linguagens de programação front-end como CSS, Javascript e frameworks como Bootstrap e bibliotecas como JQuery e versionamento de GIT/GITHUB"
+        }
+        {
+            "curso": "Automação de Escritórios e Secretatriado",
+            "instituicao":"FATEC-SP",
+            "periodo":"jun/2012 a jul/2015",
+            "resumo_conhecimentos_aprendidos": "Aprendizado nas rotinas administrativas de uma empresa, como recursos humanos, contábil financeira, juridica e de TI, como também ênfase nas línguas inglesa, alemã, francesa e espanhola no âmbito administrativo."
+        },
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso Técnico de Cozinha",
+            "instituicao":"ETE Santa Ifigênia",
+            "resumo_conhecimentos_interesses": "Entendimento sobre o funcionamento de uma cozinha não só na criação de pratos gastronômicos, mas no funcionamento administrativo e técnico de uma cozinha, segurança no trabalho e na administração de um restaurante."
+        },
+        {
+            "interesse_evento_curso": "Introdução à linguagem Javascript",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a programação front-end usando a linguagem javascript"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 9},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"NODEJS", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"API", "pontuacao": 7},
+        {"habilidade_ferramenta":"HTML", "pontuacao":7},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 7},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 6},        
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6},        
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 5}
+        
+       
+    ]
+}
