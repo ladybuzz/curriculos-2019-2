@@ -1,0 +1,86 @@
+{
+    "nome_completo":"Marcela Estefane Silva de Souza",
+    "o_que_eu_quero":"Atuar como Desenvolvedora Front-end, aprimorar meus conhecimentos em JavaScript e React, e aprender novas tecnologias.",
+    "cidade_estado:":"Guarulhos/SP",
+    "link_linkedin": "https://www.linkedin.com/in/marcela-souza-542541114/",
+    "link_github":"https://github.com/marcela093",
+    "email": "marcela.souza093@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Sou formada em Administração de Empresas e estou em transição de carreira para a área da T.I, sou uma profissional dedicada e comprometida, procuro sempre buscar novos conhecimentos, desenvolver e adquirir novas habilidades. Iniciei minha carreira como estagiária no departamento de RH onde trabalhei por 2 anos e comecei a me interessar mais sobre programação e desenvolvimento web, gosto da área pois me sinto desafiada todos os dias e vejo na tecnologia a oportunidade de poder fazer a diferença na vida das pessoas."
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Freelancer",
+            "periodo":"Jan/2019 a Até o momento",
+            "atividades_desenvolvidas": "Criação e vetorização de logos e desenhos diversos"
+        },
+        {
+           
+            "cargo_funcao": "Estagiária Administrativa - RH",
+            "empresa":"Continetal Brasil Indústria Automotiva Ltda",
+            "periodo":"Nov/2014 a Nov/2016",
+            "atividades_desenvolvidas": "Lançamento e Conferência de requisições de compras e pré-edições de faturas, notas fiscais e emissão de notas de débito, acompanhamento dos lançamentos de despesas nacionais e internacionais no Sistema SAP, consultas no Sistema de RH Populis, solicitações de viagens nacionais e internacionais. Responsável pela realização de Auditorias internas de 5S, atendimento de ligações internacionais, recepção de visitantes estrangeiros, suporte aos executivos de RH, bem como a toda equipe em relação a temas administrativos, organização e agendamento das salas de reuniões, solicitações de coffees, etc."
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Administração de Empresas",
+            "instituicao":"UNICSUL - Universidade Cruzeiro do Sul",
+            "periodo":"Jan/2014 a Jul/2018"
+        },
+        {
+            "curso": "Inglês",
+            "instituicao":"Wizard",
+            "periodo":"Jun/2009 a Jun/2014"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Bootcamp Front-end",
+            "instituicao":"{Reprograma}, 704h" , 
+            "resumo_conhecimentos_interesses": "Bootcamp de Front-end presencial de 18 semanas. Iniciativa que tem como objetivo diminuir o gap de gênero na tecnologia. Durante o curso aprendemos diversas tecnologias e desenvolvemos 4 projetos ao final de cada módulo, no qual um deles foi a criação de um site para um cliente real."
+        },
+        {
+            "interesse_evento_curso": "Academia Mastertech",
+            "instituicao":"Mastertech - Estação Hack from Facebook, 80h - 03/06/2019 a 03/07/2019",
+            "resumo_conhecimentos_interesses": "Introdução a HTML, CSS e JavaScript, Lógica de Programação e conceitos de backend utilizando Python e Django."
+        },
+        {
+            "interesse_evento_curso":"Estação de Programação",
+            "instituicao":"Mastertech - Estação Hack from Facebook, 16h - 08 a 09/06/2019",
+            "resumo_conhecimentos_interesses":"Design Thinking e Metodologia Ágil na pŕatica, introdução a HTML, CSS, JavaScript e Lógica de Programação."
+        },
+        {
+            "interesse_evento_curso":"Assistente de Recursos Humanos",
+            "instituicao":"Senac, 160h - 05/2019",
+            "resumo_conhecimentos_interesses":"Auxiliar a execução dos procedimentos de recrutamento, seleção e integração de pessoas. Apoiar e executar ações pertinentes a desenvolvimento de pessoas, retenção, avaliação de desempenho e elaboração de planos de cargos e salários. Atuar na organização e execução de ações relacionadas à qualidade de vida e a segurança nos ambientes de trabalho."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 9},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 7},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 5}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 1}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 6},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 5},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 7},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 6},
+        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 9},
+        {"habilidade_ferramenta":"FIGMA", "pontuacao": 8},
+        {"habilidade_ferramenta":"SAP", "pontuacao": 5},
+        {"habilidade_ferramenta":"INGLÊS", "pontuacao": 9},
+        {"habilidade_ferramenta":"LINUX", "pontuacao": 6}
+    ]
+}
