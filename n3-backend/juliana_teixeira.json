@@ -1,0 +1,107 @@
+{
+    "nome_completo":"Juliana Machado Teixeira",
+    "o_que_eu_quero":"Desejo iniciar minha carreira como Desenvolvedora e me especializar em tecnologias de desenvolvimento Back-End.",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/juliana-machado-teixeira/",
+    "link_github":"https://github.com/JulianaMac",
+    "email": "juliana.s.machado@hotmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Apaixonada por Tecnologia, sempre busco participar de eventos, cursos e oportunidades para aprender e compartilhar conhecimentos. ", 
+        "Tenho experiência como Suporte Técnico, em atendimento ao cliente e resolução de problemas.", 
+        "Nas horas vagas, eu gosto de conhecer novos lugares, estar com a família e amigos, jogar games e ver filmes.",
+        "Meu objetivo é ser desenvolvedora e sempre disseminar meus conhecimentos com outras pessoas, para que elas vejam o quanto é incrível aprender novas tecnologias." 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Estágio em Gestão de Projetos",
+            "empresa":"FullLab Group",
+            "periodo":"Dez/2018 a Abr/2019",
+            "atividades_desenvolvidas": "Organização do Trello de acordo com Kanban, auxílio geral ao líder de Projetos e acompanhamento das sprints dos desenvolvedores, participação e geração de atas das reuniões, como as de Briefing e Kick Off. Início de desenvolvimento de aplicações em Ruby on Rails.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Suporte Técnico",
+            "empresa":"LDSOFT",
+            "periodo":"Out/2017 a Ago/2018",
+            "atividades_desenvolvidas": "Atendimento e treinamentos para os clientes, suporte de sistemas Jurídicos e de Propriedade Intelectual (APOL e Webseek). Uso do sistema Alterdata para acompanhamento de atendimentos e do Trello para o gerenciamento das tarefas.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Jovem Aprendiz",
+            "empresa":"IAT - Instituto Aprender e Trabalhar",
+            "periodo":"Nov/2016 a Out/2017",
+            "atividades_desenvolvidas": "Atendimento e recepção de clientes, direcionamento a utilização de canais alternativos, esclarecimento de dúvidas, atualização cadastral e suporte em rotinas administrativas.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Suporte Técnico",
+            "empresa":"ADMINISTRA Tecnologia",
+            "periodo":"Nov/2014 a Fev/2016",
+            "atividades_desenvolvidas": "Atendimento ao cliente, suporte do sistema ERP (Administra), manutenção e alterações em HTML no site da empresa (Wordpress).",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Estágio de Informática",
+            "empresa":"Colégio Divino Salvador Jundiaí",
+            "periodo":"Jan/2013 a Dez/2014",
+            "atividades_desenvolvidas": "Atendimento aos alunos e professores, monitoria em laboratório de informática e auxílio no uso de programas, principalmente do Microsoft Office.",
+            "link": null
+        }
+
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Desenvolvimento Back-End",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Lógica de Programação, Javascript, Node.js, MongoDB, APIs REST, Testes Automatizados, Scrum e UX."
+        },
+        {
+            "curso": "Análise e Desenvolvimento de Sistemas",
+            "instituicao":"Universidade Anhembi Morumbi",
+            "periodo":"Ago/2019 a Dez/2021",
+            "resumo_conhecimentos_aprendidos": "Lógica, Matemática, Arquitetura, S.O, Redes, Banco de Dados, Engenharia de Software, Estrutura de Dados, Programação, Qualidade e Testes, entre outros."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso online - Introduction to JavaScript",
+            "instituicao":"CodeCademy",
+            "resumo_conhecimentos_interesses": "Conditionals, Functions, Arrays, Loops, Iterators, Objects, Classes, Modules, Promises and Requests."
+        },
+        {
+            "interesse_evento_curso": "Curso online - Learn Ruby",
+            "instituicao":"CodeCademy",
+            "resumo_conhecimentos_interesses": "Arrays and Hashes, Loop, Block, Symbols, Object Oriented Programming."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"NODE.JS", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"MONGO DB", "pontuacao": 7},
+        {"habilidade_ferramenta":"API", "pontuacao": 8},
+        {"habilidade_ferramenta":"EXPRESS.JS", "pontuacao": 8},
+        {"habilidade_ferramenta":"RUBY ON RAILS", "pontuacao": 5},
+        {"habilidade_ferramenta":"TESTES AUTOMATIZADOS", "pontuacao": 4},
+        {"habilidade_ferramenta":"ARQUITETURA MVC", "pontuacao": 5},
+        {"habilidade_ferramenta":"HEROKU", "pontuacao": 4},
+        {"habilidade_ferramenta":"POSTMAN", "pontuacao": 7},
+        {"habilidade_ferramenta":"VISUAL STUDIO CODE", "pontuacao": 6},
+        {"habilidade_ferramenta":"RUBYMINE", "pontuacao": 4},
+        {"habilidade_ferramenta":"HTML", "pontuacao": 6},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 3},
+        {"habilidade_ferramenta":"UX", "pontuacao": 3},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 2},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
+        {"habilidade_ferramenta":"SUPORTE AO CLIENTE", "pontuacao": 9},
+        {"habilidade_ferramenta":"INGLÊS", "pontuacao": 5},
+        {"habilidade_ferramenta":"ESPANHOL", "pontuacao": 2}
+
+    ]
+}
