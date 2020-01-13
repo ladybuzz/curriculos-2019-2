@@ -1,0 +1,119 @@
+{
+    "nome_completo":"Paula de Azevedo Morais",
+    "o_que_eu_quero":"Continuar estudando programação, aperfeiçoar meus conhecimentos com back-end, mas também  aprender front-end. Em paralelo, conseguir emprego como desenvolvedora junior e ganhar experiência. Além disso, futuramente, fazer uma pós na área.",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/paulamora-is/",
+    "link_github":"https://github.com/paulamora-is",
+    "email": "pmorais78@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Quando entrei na faculdade de jornalismo, em 2010, eu sabia que queria prestar serviço para sociedade. Queria pesquisar, juntar os fatos e entregar uma resposta. Ou mesmo, ser a ponte entre o especialista que possui o conhecimento técnico e a sociedade que precisa de informações para caminhar." 
+        "Com o tempo, somei a experiência do jornalismo com o a do marketing, depois de fazer pós-graduação na área. Através do marketing digital, agora, eu podia usar a objetividade, o digital, as estratégias e criatividade para continuar facilitando o dia a dia das pessoas." 
+        "Após 8 anos atuando na área da comunicação, me vi na tecnologia! Afinal, resolver problemas, trazer soluções, investigar o erro, sempre foram ações que pulsaram na minha veia!" 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Coordenadora de Midia Digital",
+            "empresa":"Brain + Entretenimento",
+            "periodo":"Abr/2018 a Jul/2019",
+            "atividades_desenvolvidas": "Coordenadora da equipe de online; planejamento monitoramento e otimização das campanhas de mídia de performance (Google Ads, Facebook Ads, Instagram Ads, Retargeting, Afiliados); gestão do orçamento e KPIs de controle; Relacionamento com os parceiros, com objetivo de buscar melhorias para os canais, novas soluções e benefícios comerciais dos produtos",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Analista de Comunicação",
+            "empresa":"Centro Ruth Cardoso / AlfaSol",
+            "periodo":"Ago/2016 a Fev/2018",
+            "atividades_desenvolvidas": "Responsável pela criação de conteúdo de comunicação em diferentes canais, cobertura jornalística, fotografia, relatórios de métricas das redes sociais.",
+            "link": null
+        },
+
+        {
+            "cargo_funcao": "Analista de Comunicação e markerting",
+            "empresa":"OSCIP Turma do Bem",
+            "periodo":"Ago/2015 a Jun/2016",
+            "atividades_desenvolvidas": "Responsável por realizar a comunicação entre a organização, a rede de voluntários, beneficiários e mantenedores dos programas (CRM); social media e marketing de conteúdo. Responsável pela TV Web do evento Dentista do Bem - maior evento de premiação de dentistas do Brasil",
+            "link": null
+        },
+
+        {
+            "cargo_funcao": "Assessora de Imprensa",
+            "empresa":"Secretaria de Desenolvimento Urbano da Bahia",
+            "periodo":"Set/2014 a Mai/2015",
+            "atividades_desenvolvidas": "Responsável pela assessoria de imprensa com os projetos de urbanização, habitação e gestão territorial no Estado da Bahia. Foram eles: Metrô de Salvador (mobilidade); Minha Casa, Minha Vida (Habitação) e Via Expressa da Baía de Todos os Santos (Infraestrutura Urbana)",
+            "link": null
+        },
+
+        {
+            "cargo_funcao": "Repórter",
+            "empresa":"Jornal A Tarde",
+            "periodo":"Jan/2013 a Jul/2014",
+            "atividades_desenvolvidas": "Repórter dos cadernos de Economia & Negócios / Cultura e Comportamento / Infantil.",
+            "link": null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp back-end",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Javascript, NoSQL em MongoDB, Node.js, API, MVC, Express.js, HTML/CSS, Testes Unitários, Scrum"
+        },
+
+        {
+            "curso": "Marketing e Comunicação Integrada ",
+            "instituicao":"Universidade Presbiteriana Mackenzie",
+            "periodo":"Fev/2017 a Nov/2018",
+            "resumo_conhecimentos_aprendidos": "Pós graduação na área da comunicação e marketing"
+        },
+
+        {
+            "curso": "Comunicação com Habilitação em Jornalismo ",
+            "instituicao":"Universidade Federal da Bahia",
+            "periodo":"Jun/2010 a Jul/2014",
+            "resumo_conhecimentos_aprendidos": "Estudos na área da comunicação como ética, política, tecnologia, antropologia, filosofia e técnicas de jornalismo e suas vertentes (investigativo, cultural, político, literário etc)"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Python",
+            "instituicao":"Let's Code",
+            "resumo_conhecimentos_interesses": "Orientação a objetos, estrutura de dados, estruturas condicionais, loops e funções"
+        },
+        {
+            "interesse_evento_curso": "Git",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Versionamento, Github, Git-flow"
+        },
+        {
+            "interesse_evento_curso": "Marketing Digital",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Branding, sites, e-mail marketing, blogging, youtube ads, google ads, facebook ads, google analytics, instagram ads, linkedin ads, SEO"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao":8},
+        {"habilidade_ferramenta":"PYTHON", "pontuacao": 8},
+        {"habilidade_ferramenta":"HTML", "pontuacao": 7},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"API", "pontuacao": 8},
+        {"habilidade_ferramenta":"MVC", "pontuacao": 8},
+        {"habilidade_ferramenta":"ORIENTAÇÃO A OBJETOS", "pontuacao": 6},
+        {"habilidade_ferramenta":"NOSQL", "pontuacao": 8},
+        {"habilidade_ferramenta":"TESTES UNITÁRIOS", "pontuacao": 4},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 8},
+        {"habilidade_ferramenta":"VISUAL CODE", "pontuacao": 7},
+        {"habilidade_ferramenta":"NPM", "pontuacao": 7},
+        {"habilidade_ferramenta":"ROBO 3T", "pontuacao": 7},
+        {"habilidade_ferramenta":"POSTMAN", "pontuacao": 7},
+        {"habilidade_ferramenta":"HEROKU", "pontuacao": 4},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 7},
+        {"habilidade_ferramenta":"METODOLOGIA ÁGIL", "pontuacao": 4},
+        {"habilidade_ferramenta":"UX", "pontuacao": 4}
+    ]
+}
