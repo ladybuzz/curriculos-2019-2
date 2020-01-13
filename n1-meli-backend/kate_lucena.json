@@ -1,0 +1,94 @@
+{
+    "nome_completo":"Kate Lucena dos Santos Souza",
+    "o_que_eu_quero":"Criar uma carreira sólida em desenvolvimento backend, e adquirir cada vez mais conhecimento e experiência na área.",
+    "cidade_estado:":"Osasco/SP",
+    "link_linkedin": "https://www.linkedin.com/in/kate-lucena-3612b513b/",
+    "link_github":"https://github.com/KateLucena",
+    "email": "kate.lucena2011@gmail.com",
+
+    "um_pouco_sobre_mim":[
+
+        "Graduada em análise e desenvolvimento de sistemas e apaixonada por tecnologia.", 
+        "Estou em busca de uma transição de carreira para a área de desenvolvimento backend, atuei por alguns anos na área administrativa, mas não sentia paixão pelo o que fazia, foi então que resolvi migrar para a área que sou apaixonada", 
+        "Vivo em constante aprendizado, pois sei que a área de tecnologia exige estarmos sempre atualizados, por isso amo estudar e aprender coisas novas",
+        "Busco nesta nova profissão, solucionar problemas e impactar a vida das pessoas de uma forma positiva, facilitando o seu dia a dia." 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Supervisor Administrativo",
+            "empresa":"AACD - Associação de Assistência à Criança Deficiente",
+            "periodo":"Jul/2013 a Ago/2019",
+            "atividades_desenvolvidas": "Liderança de equipe e gestão do quadro de colaboradores, controle nos processos administrativos e operacionais, estratégias para atingimento de resultados e metas, resolução de problemas, elaboração de relatórios, realizações de inventários anuais e atendimento ao cliente.",
+            "link": "https://aacd.org.br/unidades/osasco-sp"
+        },
+        {
+            "cargo_funcao": "Técnico de Suporte ao Usuário nível II",
+            "empresa":"CTIS Tecnologia - Cliente AACD",
+            "periodo":"Mai/2011 a Jul/2013",
+            "atividades_desenvolvidas": "Atendimento presencial ao usuário através de chamados sistêmicos, instalação e manutenção dos hardwares e softwares e inventário de equipamentos.",
+            "link":"https://www.ctis.com.br/"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "BootCamp desenvolvimento Backend",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Lógica de programação, Node.js, MongoDB, API Restful, Metodologias ágeis"
+        },
+        {
+            "curso": "Análise e desenvimento de sistemas",
+            "instituicao":"Faculdade Flamingo",
+            "periodo":"Jan/2015 a Jul/2017"
+            
+        },
+        {
+            "curso": "Técnico em Informática",
+            "instituicao":"SENAC",
+            "periodo":"Out/2010 a Jul/2012"
+            
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Academia Java",
+            "instituicao":"Impacta",
+            "resumo_conhecimentos_interesses": "Java básico, Orientação à Objetos e introdução a Java Web"
+        },
+        {
+            "interesse_evento_curso": "PHP com MySQL",
+            "instituicao":"SENAC",
+            "resumo_conhecimentos_interesses": "Conhecimentos introdutórios em PHP com banco de dados MySQL"
+        },
+        {
+            "interesse_evento_curso": "Excel com Vba",
+            "instituicao":"SENAC",
+            "resumo_conhecimentos_interesses": "Conhecimentos introdutórios da linguagem de programação VBA integrada ao Excel"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"NODE.js", "pontuacao":9},
+        {"habilidade_ferramenta":"API RESTFUL", "pontuacao": 9},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 9},
+        {"habilidade_ferramenta":"ROBO3T", "pontuacao": 9},
+        {"habilidade_ferramenta":"LÓGICA DE PROGRAMAÇÃO", "pontuacao": 9},
+        {"habilidade_ferramenta":"POSTMAN", "pontuacao": 9},
+        {"habilidade_ferramenta":"VISUAL STUDIO CODE", "pontuacao": 9},
+        {"habilidade_ferramenta":"ESTRUTURA MVC", "pontuacao": 8},
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"APIDOC", "pontuacao": 8},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 7},
+        {"habilidade_ferramenta":"AUTENTICAÇÃO JWT", "pontuacao": 7},
+        {"habilidade_ferramenta":"JAVA", "pontuacao": 6},
+        {"habilidade_ferramenta":"HEROKU", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 6},
+        {"habilidade_ferramenta":"UX", "pontuacao": 6},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 6},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 6}
+  
+    ]
+}
