@@ -1,0 +1,121 @@
+{
+    "nome_completo":"Edimara Roberta Rosa",
+    "o_que_eu_quero":"Desenvolvedora Back-end Jr",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/mararosa/",
+    "link_github":"https://github.com/mararosa",
+    "email": "edimara.rosa@outlook.com",
+
+    "um_pouco_sobre_mim":[
+        "Eu sou a Mara, uma pessoa que sempre foi curiosa, criativa, esforçada e estudiosa. Nascida e crescida na periferia do extremo leste de São Paulo, mas que nunca deixei a distância e os obstáculos  serem protagonistas na minha vida.", 
+        "Sou formada bolsita em ciências contábeis pela Trevisan Escola de Negócios. Atuei por alguns anos na área financeira. Além disso já fui garçonete, bartender, caixa de restaurante. Experiências que me ajudaram a aprimorar minhas habilidades análiticas, trabalho em equipe, comunicação, colaborar com outras áreas e me expressar de uma maneira mais objetiva. Em 2016 decidi fazer um intercâmbio, para além do inglês, crescer como ser humano; Passei 24 meses vivendo com uma família americana, com total imersão na cultura, estudando inglês e sendo responsável pelos cuidados e segurança de três crianças. Após o meu retorno, resolvi estudar assuntos da área tecnológica, uma área que sempre tive paixão e curiosidade. Acredito que a tecnologia impacta vidas, e por isso estou em transição de carreira. Quero fazer parte dessa mudança, para ajudar empresas, e desenvolver softwares, apps, sites que tragam mais diversidade.",
+        "Eu sempre estou procurando assuntos novos na internet. Curto jogar jogos de tabuleiros com amigos e/ou familiares. Amo a natureza, então sempre que posso estou em alguma parte verde do Brasil, sou vegetariana e amo animais, já resgatei alguns cães e gatos das ruas e quero poder fazer muito mais no futuro."
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Desenvolvedora Backend Jr – ChatBot",
+            "empresa":"Startup Pode Perguntar",
+            "periodo":"Set/2019 até o momento",
+            "atividades_desenvolvidas": "Curadoria do fluxo e conteúdo do Bot no Dialogflow(Intents, Entities, Contexts, Payloads etc). Utilização do git, heroku, mongoDb e Node.js para implementação de estruturas no back-end."
+        },
+        {
+            "cargo_funcao": "Estágio – Planejamento Financeiro",
+            "empresa":"Construtora Tenda S.A",
+            "periodo":"Abr/2014 a Dez/2015",
+            "atividades_desenvolvidas": "Extração de informações no sistema ERP (SAP) e no sistema GPS para confecção da Demonstração de Resultados (DRE). Análise financeira mensal: receitas e despesas pelo método POC (reconhecimento da receita de acordo com o andamento da obra).Responsável pela elaboração de relatórios gerenciais diversos e pelo acompanhamento dos resultados operacionais." 
+        },
+        {
+            "cargo_funcao": "Estágio – Contabilidade e Finanças",
+            "empresa":"São Paulo Previdência",
+            "periodo":"Set/2013 a Dez/2013",
+            "atividades_desenvolvidas": "Responsável pela atualização do Fluxo de Caixa (Administrativo e Previdenciário) e elaboração de planilhas de contas a pagar dos servidores inativos."
+        },
+        {
+            "cargo_funcao": "Projeto Voluntário",
+            "empresa":"AIESEC - Team Member Program - Finanças",
+            "periodo":"Ago/2013 a Dez/2013",
+            "atividades_desenvolvidas": "Responsável pelas análises de viabilidade, auditoria das contas mensais e dos documentos dos intercambistas."
+        },
+        {
+            "cargo_funcao": "Projeto Voluntário",
+            "empresa":"Trevisan - Imposto de Renda Solidário",
+            "periodo":"2013/2014/2015",
+            "atividades_desenvolvidas": "Auxiliar o público no preenchimento da declaração do IRPF."
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp Backend",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Programaçao back-end(javascript,mongoDb, api, NodeJs), conhecimentos básicos de testes unitários e metodologias ágeis"
+        },
+        {
+            "curso": "Graduação em Ciências Contábeis",
+            "instituicao":"Trevisan Escola de Negócios ",
+            "periodo":"Jan/2012 a Dez/2015",
+            "resumo_conhecimentos_aprendidos": "Conceitos sobre contabilidade geral, financeira, pública, gerencial, legislação tributária e matemática financeira" 
+        },
+        {
+            "curso": "Técnico em Web Design",
+            "instituicao":"ETEC Guaracy Silveira ",
+            "periodo":"Jul/2008 a Dez/2009",
+            "resumo_conhecimentos_aprendidos": "Criação e planejamento de websites"
+        }   
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Desevolvimento de aplicativos Android Studio - Kotlin",
+            "instituicao":"Mad Code",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do Kotlin, criação de apps utilizando o Android Studio"
+        },
+        {
+            "interesse_evento_curso": "Desenvolvimento em C#",
+            "instituicao":"Escola Senai de Informática",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe do c#, lógica de programação e orientação a objetos"
+        },
+        {
+            "interesse_evento_curso": "Introdução à programação",
+            "instituicao":"Minas Programam",
+            "resumo_conhecimentos_interesses": "Introdução à logica de programação, dados, UX, software livre, PHP e JavaScript, HTML e CSS"
+        },
+        {
+            "interesse_evento_curso": "Curso online Dialogflow",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Criação de Chatbots baseados no Google Machine Learning, NLP, Actions on Google, Firebase, NodeJS, Canais, Google Nest Minit"
+        },
+        {
+            "interesse_evento_curso": "ESL (English as a Second Language)",
+            "instituicao":"Bergen Community College",
+            "resumo_conhecimentos_interesses": "Speech and English composition classes"
+        },
+        {
+            "interesse_evento_curso": "Build a simple website using HTML, CSS, and Javascript ",
+            "instituicao":"Microsoft",
+            "resumo_conhecimentos_interesses": "Aprender como usar HTML, CSS e JavaScript para criar um site."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"C#", "pontuacao": 6},
+        {"habilidade_ferramenta":"KOTLIN", "pontuacao": 5},
+        {"habilidade_ferramenta":"NODE.JS", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"PostgreSQL", "pontuacao": 4},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 8},
+        {"habilidade_ferramenta":"API", "pontuacao": 9},
+        {"habilidade_ferramenta":"DIALOGFLOW", "pontuacao": 8},
+        {"habilidade_ferramenta":"ANDROID STUDIO", "pontuacao": 6},
+        {"habilidade_ferramenta":"POO", "pontuacao": 5},
+        {"habilidade_ferramenta":"TESTES UNITÁRIOS", "pontuacao": 5},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 6},
+        {"habilidade_ferramenta":"INGLÊS", "pontuacao": 9},
+        {"habilidade_ferramenta":"EXCEL", "pontuacao": 8},
+        {"habilidade_ferramenta":"HTML", "pontuacao": 5},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 5}
+    ]
+}
