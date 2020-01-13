@@ -1,0 +1,79 @@
+{
+    "nome_completo":"Jéssica Silva Carmo",
+    "o_que_eu_quero":"Continuar se desenvolvendo a cada dia. Busco oportunidade para atuar como desenvolvedora back-end.",
+    "cidade_estado:":"Mauá/SP",
+    "link_linkedin": "https://www.linkedin.com/in/jcjessicarmo/",
+    "link_github":"https://github.com/jcjessicarmo",
+    "email": "jessicascarmo@terra.com.br",
+
+    "um_pouco_sobre_mim":[
+        "Formada em Técnico de Informática, Desenvolvedora back-end e estudante de informática para negócios.",
+        "Procurando sempre novos deafios e experiências no mundo da tecnologia.", 
+        "Criativa, organizada, apaixonada por tudo que faz, com alguns conhecimentos em front-end.",
+        "Aprender, desenvolver e apresentar são 3 palavras que amo praticar." 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Desenvolvedora full stack",
+            "empresa":"Pérola da Serra Imóveis ",
+            "periodo":"Mai/2019 a Jan/2020",
+            "atividades_desenvolvidas": "Logo, posts para as redes sociais, site e gerenciamento do site.",
+            "link": "http://peroladaserraimoveis.com.br/"
+        },
+        {
+            "cargo_funcao": "Projeto Voluntário",
+            "empresa":"Etec Mauá",
+            "periodo":"Nov/2016 a Dez/2016",
+            "atividades_desenvolvidas": "Criação de logo para a biblioteca.",
+            "link":null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Informática para negócios",
+            "instituicao":"Fatec Mauá",
+            "periodo":"Jul/2017 a Dez/2020",
+            "resumo_conhecimentos_aprendidos": "É o profissional capaz de buscar as melhores oportunidades de negócio, analisar tendências e encontrar novos caminhos para a empresa. O principal diferencial desse profissional é criar estratégias para viabilizar o alinhamento da Tecnologia da Informação à Gestão de Negócios."
+        },
+        {
+            "curso": "Técnico em Informática",
+            "instituicao":"Etec Mauá",
+            "periodo":"Jun/2015 a Dez/2016",
+            "resumo_conhecimentos_aprendidos": "É o profissional que desenvolve programas de computador, seguindo as especificações e paradigmas da lógica de programação e das linguagens de programação. Utiliza ambientes de desenvolvimento de sistemas, sistemas operacionais e banco de dados."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Bootcamp intensivo de Back-end",
+            "instituicao":"{reprograma}",
+            "resumo_conhecimentos_interesses": "Lógica de programação, HTML/ CSS, Javascript, API, Testes unitários, SCRUM, Node.JS, MongoDB, Orientação profissional."
+        },
+        {
+            "interesse_evento_curso": "Design Thinking e Metodologia Ágil na prática.",
+            "instituicao":"Mastertech",
+            "resumo_conhecimentos_interesses": "HTML, CSS, Javascript e lógica de programação."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":9},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 8},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 9},
+        {"habilidade_ferramenta":"NODE.JS", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 9},
+        {"habilidade_ferramenta":"SCRUM", "pontuacao": 7},
+        {"habilidade_ferramenta":"LÓGICA DE PROGRAMAÇÃO", "pontuacao": 8},
+        {"habilidade_ferramenta":"API", "pontuacao": 8},
+        {"habilidade_ferramenta":"TESTES UNITÁRIOS", "pontuacao": 7},
+        {"habilidade_ferramenta":"C#", "pontuacao": 8},
+        {"habilidade_ferramenta":"C++", "pontuacao": 7},
+        {"habilidade_ferramenta":"VB", "pontuacao": 7},
+        {"habilidade_ferramenta":"SQL Server", "pontuacao": 8},
+        {"habilidade_ferramenta":"Espanhol", "pontuacao": 6},
+        {"habilidade_ferramenta":"Inglês", "pontuacao": 6}
+    ]
+}
