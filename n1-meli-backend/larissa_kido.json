@@ -1,0 +1,113 @@
+{
+    "nome_completo":"Larissa Yukie Kido",
+    "o_que_eu_quero":"Usar a tecnologia como uma ferramenta na solução de problemas e otimização de processos em diferentes áreas do conhecimento.",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/larissa-yukie-kido-87077931/",
+    "link_github":"https://github.com/Larissayk",
+    "email": "lari.yukie@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Como Bióloga tive participação ativa dentro da área de pesquisa, na área de biologia molecular, por motivos de necessidade e oportunidade acabei migrando para área da gastronomia onde passei 5 anos, desenvolvendo não somente a parte técnica, mas principalmente a parte referente a gestão de pessoas.", 
+        "Eu decidi ingressar na tecnologia, não só pelas oportunidades e valorização do profissional dessa área, mas porque nela enxergo uma perspectiva de desenvolvimento da minha carreira e a promessa de novos desafios. Além de uma área multidisciplinar onde vejo a possibilidade de integrar minhas experiências em outras áreas do conhecimento.", 
+        "O que me motiva dentro dessa área vai desde o entendimento dos processos, ao planejamento e a aplicação de soluções, de ver minha contribuição no produto final.",
+        "Por ter passado por áreas bem diferentes, nunca tive medo de aprender coisas novas e de perguntar e correr atrás quando me faltava um pouco de conhecimento."
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Analista de Sistemas Trainee",
+            "empresa":"RPerformance Group",
+            "periodo":"Fev/2019 - o momento",
+            "atividades_desenvolvidas": "Criação de scripts e realização de testes automatizados (LoadRunner e Selenium); implementação de plataforma de gestão para uso interno da empresa (Bitrix24); desenvolvimento de aplicações web para a gestão de demandas e controle financeiro da empresa (React, Bootstrap, MySQL, OutSystems).",
+            "link": "https://www.linkedin.com/company/rpgroup/"
+        },
+        {
+            "cargo_funcao": "Cozinheira assistente",
+            "empresa":"Norwegian Cruise Line Holdings Ltd.",
+            "periodo":"Abr/2018 a Dez/2018",
+            "atividades_desenvolvidas": "Designado para o serviço de quarto e preparo de componentes para o Buffet, de acordo com os procedimentos padrão do USPH (United States Public Health Service). Participação durante a implementação do novo menu principal e na recente inspeção de saúde pública da União Européia.",
+            "link":"https://www.ncl.com"
+        },
+        {
+            "cargo_funcao": "Cozinheira",
+            "empresa":"Jui Restaurante",
+            "periodo":"Abr/2014 a Mar/2018",
+            "atividades_desenvolvidas": "Responsável pela acessoria do Chefe Executivo na supervisão do time de cozinheiros e assistentes, realização de treinamentos para novos membros da equipe, Organização e controle de estoques, gerenciamento de pedidos com os fornecedores, criação do menu junto ao chefe executivo. Participação ativa na implementação e estruturação do restaurante desde o momento de sua abertura em 2014.",
+            "link":"www.juirestaurante.com.br"
+        },
+        {
+          "cargo_funcao": "Representante de Campo ",
+          "empresa": "Events Marketing",
+          "periodo": "Jun/2012 a Jul/2012",
+          "atividades_desenvolvidas": "Participação em campanhas de marketing de campo para fornecer informações para a comunidade sobre os eventos que estavam sendo realizados na cidade. Comunicação e distribuição de materiais para promover de forma mais eficiente os eventos.",
+          "link": "http://www.eventsmarketing.ca"
+        },
+        {
+          "cargo_funcao": "Assistente de aulas práticas de Biologia Celular e Histologia",
+          "empresa": "Universidade Estadual Júlio de Mesquita Filho - Unesp",
+          "periodo": "Mar/2008 e Nov/2008",
+          "atividades_desenvolvidas": "Responsável pelo setor de credenciamento dos participantes e emissão de certificados.",
+          "link": "http://www.eventsmarketing.ca"
+        },
+        {
+          "cargo_funcao": "Staff do comitê organizador da V e VI Semana da Biologia Marinha e do Gerenciamento Costeiro",
+          "empresa": "Universidade Estadual Júlio de Mesquita Filho - Unesp",
+          "periodo": "Set/2007 e Set/2008",
+          "atividades_desenvolvidas": "Responsável pelo setor de credenciamento dos participantes e emissão de certificados.",
+          "link": "http://www.eventsmarketing.ca"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bacharelado em Biologia",
+            "instituicao":"Universidade Estadual Júlio de Mesquita Filho - Unesp",
+            "periodo":"Mar/2007 a Nov/2012",
+            "resumo_conhecimentos_aprendidos": "Toda grade de biologia, três anos de bolsa Fapesp (Iniciação científica + Treinamento Técnico), métodos computacionais (matlab)."
+        },
+        {
+            "curso": "Técnico em Informática",
+            "instituicao":"Escola Técnica São Francisco de Bórgia",
+            "periodo":"Jan/2004 a Dez/2006",
+            "resumo_conhecimentos_aprendidos": "Lógica de programação, Sistemas operacionais, hardware, Contabilidade e Economia, Pascal, Delphi, Visual Basic."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso de backend",
+            "instituicao":"{reprograma}",
+            "resumo_conhecimentos_interesses": "HTML, CSS, Javascript, API, SCRUM, Node.js, MongoDB, Express."
+        },
+        {
+            "interesse_evento_curso": "Front-end Study Group: Lógica com JavaScript",
+            "instituicao":"Womakerscode",
+            "resumo_conhecimentos_interesses": "Conceitos de lógica e sintaxe moderna do javascript."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":6},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 6},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 4},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 6},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 4}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 7},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 6},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 5},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 7},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 4},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 3},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 0},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 2},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 3},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 6},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 3},
+        {"habilidade_ferramenta":"FTP", "pontuacao": 1},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 4},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 3},
+        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 0},
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 0}
+    ]
+}
