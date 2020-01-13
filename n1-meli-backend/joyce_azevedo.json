@@ -1,0 +1,97 @@
+{
+    "nome_completo":"Joyce de Azevedo Ferreira",
+    "o_que_eu_quero":"Busco uma oportunidade na área de desenvolvimento para que eu possa aplicar meus conhecimentos adquiridos em sala de aula",
+
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/joyceeazevedo/",
+    "link_github":"https://github.com/JoyceeAzevedo",
+    "email": "azevedoeferreira@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Me chamo Joyce tenho 24 anos sou formada em Sistema de Informação", 
+        "Possuo  6 anos de experiência na área de tecnologia da informação. Durante este período pude participar de diversos projetos tanto com clientes internos como externos. Atualmente estou voltada a implantação de sistema jurídico.,
+        Com a implantação de alguns sistemas aonde eu posso somente realizar as parametrizações, senti a necessidade de não está somente a frente da tecnologia e sim por traz de todo seu desenvolvimento
+        Há 4 pouco mais de 4 meses estou me dedicando a área de desenvolvimento",
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Consultora de Implantação",
+            "empresa":"Fácil Informática ",
+            "periodo":"Maio/2016 atual",
+            "atividades_desenvolvidas": "Implantação de sistemas jurídicos, parametrização do sistema de acordo com a solicitação do key user, documentação de AR, contato direto com o cliente, responsável por atualização de cronograma, treinamento de usuários para utilização do sistema e envio de status report, banco de dados (SQL Server), integração SAP e active directory",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Estágio - Analista de suporte técnico",
+            "empresa":"Reprograma - Cliente Fulano",
+            "periodo":"Jan/2014 a Maio/2016",
+            "atividades_desenvolvidas": "Suporte Técnico de (Software/Hardware), instalação de equipamento, montagem de estação de trabalho ,instalação de sistemas operacionais, manutenção em sistemas, desenvolvimentos de aplicações básicas e monitoramento de servividores, acompanhamentos em projeto de implantação",
+            "link":null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Desenvolvimento Back-End",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Lógica de programação, HTML/CSS, Javascript, API, Testes Unitários, SCRUM, NODE.JS, MongoDB."
+        },
+        {
+            "curso": "Analista de Negócio de T.I",
+            "instituicao":"Trainning Education",
+            "periodo":"Ago/2018 a Ago/2018",
+            "resumo_conhecimentos_aprendidos": "Levantamento de Requisitos do cliente"
+        }
+
+        {
+            "curso": "Analista de Processos T.I",
+            "instituicao":"Trainning Education",
+            "periodo":"Ago/2019 a Ago/2019",
+            "resumo_conhecimentos_aprendidos": "Mapeamento de Processos de T.I através de BPMN"
+        }
+
+        {
+            "curso": "Java e Orientação a Objetos",
+            "instituicao":"Caelum",
+            "periodo":"Fev/2016 a Fev/2016",
+            "resumo_conhecimentos_aprendidos": "Java e Orientação Objeto"
+        }
+
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso online de Javascript",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+        },
+        {
+            "interesse_evento_curso": "Curso ES6",
+            "instituicao":"Udemy",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":4},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 4},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"NODE", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 3},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 5},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 3},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 3},
+        {"habilidade_ferramenta":"SQLSERVER", "pontuacao": 6},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 6},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 8},
+        {"habilidade_ferramenta":"LEVANTAMENTO DE REQUISITOS", "pontuacao": 8},
+        {"habilidade_ferramenta":"CONTATO COM CLIENTE", "pontuacao": 8},
+        {"habilidade_ferramenta":"FTP", "pontuacao": 5}
+        
+    ]
+}
