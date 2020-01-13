@@ -1,0 +1,92 @@
+{
+    "nome_completo":"Daniela Lira Monteiro",
+    "o_que_eu_quero":"Trabalhar como Dev e poder passar o meu conhecimento para outras pessoas.",
+    "cidade_estado:":"Embu das Artes - São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/dannydlira/",
+    "link_github":"https://github.com/Dannydlira",
+    "email": "dannydlira@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Tenho 40 anos, uma filha de 10 anos.", 
+        "Já trabalhei em diversas áreas e nunca estava feliz, agora me encontrei na tecnologia.", 
+        "Gosto de ler, andar de patins e assistir séries e filmes com minha filha.",
+        "No momento estou estudando Java online e estou na faculdade." 
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Estágio em Java",
+            "empresa":"Qintess antiga Resource IT ",
+            "periodo":"Jun/2019 atual",
+            "atividades_desenvolvidas": "Spring Boot, PostgreSQL.",
+            "link": "https://www.resourceit.com/"
+        },
+
+        {
+            "cargo_funcao": "Analista de Cadastro Jr",
+            "empresa":"Infracommerce",
+            "periodo":"Out/2013 a Out/2014",
+            "atividades_desenvolvidas": "Setor de qualidade de imagens nos sites, descritivos de produtos.",
+            "link": "https://www.infracommerce.com.br"
+        },
+        {
+            "cargo_funcao": "Vendedora",
+            "empresa":"Casas Bahia Comercial Ltda",
+            "periodo":"Mar/2005 a Set/2009",
+            "atividades_desenvolvidas": "Atendimento ao público, organização de mercadorias, atendimento ao telefone.",
+            "link":"http://casasbahia.com.br"
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Sistemas de Informação",
+            "instituicao":"Uninove",
+            "periodo":"Jan/2019 a Dez/2022",
+            "resumo_conhecimentos_aprendidos": "Lógica de Programação, , Projeto Integrado em Desenvolvimento Web, Desenvolvimento em Banco de Dados"
+            
+        },
+        {
+            "curso": "Back-end",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Bootcamp com 14 semanas de duração, focado em Back-End (Javascript e NodeJs) no Mercado Livre",
+            
+            "Neste bootcamp, aprendemos:"
+        
+           "- Lógica de Programação,
+            - HTML5 and CSS,
+            - JavaScript,
+            - API,
+            - Unit testing,
+            - Git and Github,
+            - Scrum,
+            - NODE.JS,
+            -MongoDB"
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": " Lógica de Programação",
+            "instituicao":"Node Studio Treinamentos",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+        },
+        {
+            "interesse_evento_curso": "Java",
+            "instituicao":"Loiane Groner ",
+            "resumo_conhecimentos_interesses": "Entendimento sobre Lógica de programação básica, Orientação a Objetos, Coleções (Estruturas de dados do Java)"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":8},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 8},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 7},
+        {"habilidade_ferramenta":"NODE", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 6},
+        {"habilidade_ferramenta":"Java", "pontuacao": 6}
+        
+    ]
+}
