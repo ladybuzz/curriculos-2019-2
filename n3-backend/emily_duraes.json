@@ -1,0 +1,91 @@
+{
+    "nome_completo":"Emily Almeida Durães",
+    "o_que_eu_quero":"Atuar como analista júnior em desenvolvimento web backend.",
+    "cidade_estado:":"Osasco/SP",
+    "link_linkedin": "https://www.linkedin.com/in/emilyduraes/",
+    "link_github":"https://github.com/emilyduraes",
+    "email": "emilyduraes@yahoo.com.br",
+
+    "um_pouco_sobre_mim":[
+        "Formando em Relações Internacionais, sou apaixonada por tecnologia e metodologias ágeis. Estou buscando transição de carreira para o desenvolvimento backend.", 
+        "Atuo desde 2018 com metodologias ágeis, na área de RH. Desde então sempre tive curiosidade em trabalhar com desenvolvimento web. Após o curso de férias na Mastertech, entrei na Reprograma e percebi que é com desenvolvimento que quero focar minha carreira. Assim, entendi que poderia unir meus conhecimentos em inglês e política (graças a minha graduação), com a visão de pessoas que a trajetória dentro do RH me permitiu, para trazer empatia e diversidade para dentro do ambiente de tecnologia.", 
+        "Além disso, sempre gostei muito de jogos (tanto online quanto boardgames), curto música e conversar, tendo a curiosidade como uma característica que me define. :)"
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Analista de Desenvolvimento Organizacional I",
+            "empresa":"Employer - terceirizada dentro da Cielo S/A",
+            "periodo":"Jan/2020 a Presente",
+            "atividades_desenvolvidas": "Trabalho no projeto de Transformação Digital, dentro do time de Gestão da Mudança, focada na formação e sustento de times ágeis na Vice Presidência de Desenvolvimento Organizacional (VPEDO) da Cielo. Busco a disseminação das metodologias ágeis dentro das temáticas estratégicas da VPEDO para 2020. Sou também Scrum Master de um destes times ágeis, trabalhando na disseminação da nova Cultura da Cielo pautada na colaboração e autonomia para toda a empresa, utilizando Scrum e Kanban.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Estagiária de Desenvolvimento Organizacional",
+            "empresa":"Cielo S/A",
+            "periodo":"Ago/2018 a Dez/2019",
+            "atividades_desenvolvidas": "Atuei dentro da área de Gestão da Mudança, no projeto de Transformação Digital, fomentando a cultura digital, inovação e mudanças dos processos do RH. Organizei eventos e treinamentos voltados a evolução contínua dentro dos squads com olhar especial ao pilar de Pessoas.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Coordenadora de Gestão de Pessoas",
+            "empresa":"EPPEN JR",
+            "periodo":"Abr/2017 a Nov/2018",
+            "atividades_desenvolvidas": "Organizei eventos internos. Fui responsável pelo processo seletivo de trainees. Fui Business Partner do departamento de Marketing durante um ano. Além disso, fiz parte de um Centro de Pesquisa, em que fui responsável pela criação de uma plataforma e-commerce para um pequeno mercado da região de Osasco. Liderei uma equipe de 5 pessoas na estruturação e aplicação do Plano de Desenvolvimento Individual.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Diretora Adjunta de Comunicação",
+            "empresa":"Centro Acadêmico de Relações Internacionais",
+            "periodo":"Fev/2017 a Nov/2017",
+            "atividades_desenvolvidas": "Criei conteúdo para divulgação das atividades do CARI nas redes sociais. Organizei eventos dentro da universidade voltados a área de Relações Internacionais. Atuei como mediadora dos interesses dos alunos e da Universidade.",
+            "link": null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Relações Internacionais",
+            "instituicao":"Universidade Federal de São Paulo",
+            "periodo":"Mar/2015 a Presente",
+            "resumo_conhecimentos_aprendidos": "Na graduação, meu principal foco é o estudo da Segurança Internacional, especializado na visão política da cibersegurança."
+        },
+        {
+            "curso": "Desenvolvimento Backend",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Estudo e criação de API REST utilizando a linguagem JavaScript com foco em Node.JS e MongoDB."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Academia da Programação",
+            "instituicao":"Matertech",
+            "resumo_conhecimentos_interesses": "Aprendi a base sobre HTML, CSS, manipulação de DOM com JavaScript e criação de servidor com Python utilizando framework Django."
+        },
+        {
+            "interesse_evento_curso": "Métricas Ágeis",
+            "instituicao":"Knowledge 21 (K21)",
+            "resumo_conhecimentos_interesses": "Curso que mostrou métricas de eficácia e eficiência para utilização dentro dos times ágeis."
+        },
+        {
+            "interesse_evento_curso": "Técnicas Ágeis de Facilitação",
+            "instituicao":"Knowledge 21 (K21)",
+            "resumo_conhecimentos_interesses": "Aprendi diversas técnicas de facilitação para serem utilizadas enquanto Scrum Master."
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":6},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 8}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 9},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 4},
+        {"habilidade_ferramenta":"JIRA", "pontuacao": 5},
+        {"habilidade_ferramenta":"INGLÊS", "pontuacao": 10},
+        {"habilidade_ferramenta":"PACOTE OFFICE", "pontuacao": 10}
+    ]
+}
