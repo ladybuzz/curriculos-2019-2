@@ -1,0 +1,88 @@
+{
+    "nome_completo":"Ana Gabriela Siqueira Franco",
+    "o_que_eu_quero":"Quero trabalhar como desenvolvedora backend, aprender inteligencia artificial e aplicar em inovação.",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "www.linkedin.com/in/AnaGFranco",
+    "link_github":"https://github.com/AnaGFranco",
+    "email": "anagsfranco@hotmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Sou formada em análise e desenvolvimento de sistemas, MBA engenharia de software e aluna da reprograma do curso de Backend", 
+        "Trabalho com implantação de software juridico",
+        "Sou apaixonada por inteligencia artificial, machine learning e principamente inovação",
+        "No meu tempo livre me dedico aos estudos e gosto de frequentar eventos voltados para tecnologia"
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Técnica de implantação de software jurídico",
+            "empresa":"Fácil Informática, Espaider",
+            "periodo":"JUN/2018 até momento",
+            "atividades_desenvolvidas": "Implantação de sistemas jurídicos, levantamento de requisitos, parametrização do sistema, documentação de AR, suporte ao cliente, treinamento e acompanhamento pós implantação, responsável por atualização de cronograma e enviar de status report, banco de dados (SQL Server) e integração SAP",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Auxiliar de informatica",
+            "empresa":"Bk Consultoria e Serviço Ltda",
+            "periodo":"Fev/2018 a Mai/2018",
+            "atividades_desenvolvidas": "Atendiemeto e suporte  aos funcionarios da Procuradoria de São Paulo.",
+            "link": null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "bootcamp Backend",
+            "instituicao":"Reprograma",
+            "periodo":"Set/2019 a Dez/2018",
+            "resumo_conhecimentos_aprendidos": "Lógica de Programação, HTML, CSS, Javascript, Git, API, Testes Unitários, NODE.JS, Scrum, MongoDB, UX, Orientação Profissional e Projetos."
+        },
+        {
+            "curso": "MBA em engenharia de software",
+            "instituicao":"Fiap - Faculdade de Informática e Administração Paulista",
+            "periodo":"Abr/2018 a Abr/2019",
+            "resumo_conhecimentos_aprendidos": "Boas práticas de mercado, gestão de pessoa,  gerenciamento de inovação, de projetos e arquitetura do software."
+        },
+        {
+            "curso": "Analise de desenvolvimento de sistemas",
+            "instituicao":"Universidade de Mogi das Cruzes",
+            "periodo":"Jan/2016 a Dez/2017",
+            "resumo_conhecimentos_aprendidos": "Modelar sistemas utilizando as melhores práticas de desenvolvimento, lógica de programação e desenvolvimento."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso de inglês",
+            "instituicao":"Cultura Inglesa",
+            "resumo_conhecimentos_interesses": "Leitura, interpretação e conversação com inglês"
+        },
+        {
+            "interesse_evento_curso": "Curso de espanhol",
+            "instituicao":"CEL - Centro de Estudo de Línguas",
+            "resumo_conhecimentos_interesses": "Leitura, interpretação e conversação com espanhol"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":6},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 6},
+        {"habilidade_ferramenta":"Node.js", "pontuacao": 8},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 9},
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 7},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 6},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 4},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 7},
+        {"habilidade_ferramenta":"SQLSERVER", "pontuacao": 7},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 7},
+        {"habilidade_ferramenta":"MICROSSERVIÇOS", "pontuacao": 4},
+        {"habilidade_ferramenta":"LEVANTAMENTO DE REQUISITOS", "pontuacao": 9},
+        {"habilidade_ferramenta":"SUPORTE AO CLIENTE", "pontuacao": 9},
+        {"habilidade_ferramenta":"ATENDIMENTO AO CLIENTE", "pontuacao": 9},
+        {"habilidade_ferramenta":"COMUNICAÇÃO INTRPESSOAL", "pontuacao": 10},
+        {"habilidade_ferramenta":"UML", "pontuacao": 7},
+        {"habilidade_ferramenta":"INGLÊS", "pontuacao": 7},
+        {"habilidade_ferramenta":"ESPANHOL", "pontuacao": 5}    
+    ]
+}
