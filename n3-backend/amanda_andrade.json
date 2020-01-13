@@ -1,0 +1,63 @@
+{
+    "nome_completo":"Amanda Andrade dos Santos",
+    "o_que_eu_quero":"Transição de carreira para ingressar como Desenvolvedora Backend Jr. e aprimorar meus conhecimentos na área de tecnologia, aprendendo novas stacks.",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/amandaandrade94/",
+    "link_github":"https://github.com/darthmnd",
+    "email": "andr.mandy@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        "Sou Agente de Organização Escolar no Governo do Estado de São Paulo há 6 anos", 
+        "Formada em Ciência da Computação desde Agosto de 2018 e atualmente aluna de Backend pela {reprograma}.", 
+        "Comecei a me interessar por T.I. quando adolescente, onde aprendi de forma autônoma a alterar códigos html para personalizar blogs pessoais.",
+        "Durante o Ensino Médio, fiz parte de uma ONG chamada Projeto Girassol, que ensinava conceitos básicos de informática para jovens periféricos."
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+            "cargo_funcao": "Agente de Organização Escolar",
+            "empresa":"Governo do Estado de São Paulo",
+            "periodo":"Mar/2013 - atualmente",
+            "atividades_desenvolvidas": "Atendimento ao público geral presencialmente e por telefone, elaboração de documentos escolares.",
+            "link": null
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Bootcamp Backend",
+            "instituicao":"{reprograma}",
+            "periodo":"Set/2019 a Dez/2019",
+            "resumo_conhecimentos_aprendidos": "Lógica de Programação, Desenvolvimento em Javascript, Criação de APIs, Testes Unitários, SCRUM, NODE.JS, MongoDB e bibliotecas: express, mongooose, chai e mocha."
+        },
+        {
+            "curso": "Ciência da Computação",
+            "instituicao":"Universidade Nove de Julho",
+            "periodo":"Jul/2014 a Ago/2018",
+            "resumo_conhecimentos_aprendidos": "Analisar, especificar, desenvolver, implantar e avaliar sistemas informatizados, elaborar softwares de propósito geral e específico."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Introdução à Ciência da Computação com Python Parte 1",
+            "instituicao":"Coursera",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica de python e conceitos de Ciência da Computação"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao": 8},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 7},
+        {"habilidade_ferramenta":"NODE", "pontuacao": 7},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 7}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 7},
+        {"habilidade_ferramenta":"MONGODB", "pontuacao": 7},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 4}, 
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 1},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 1},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 1},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 1}
+       
+    ]
+}
