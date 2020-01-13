@@ -1,0 +1,68 @@
+{
+    "nome_completo":"Monique Almeida Souza de Jesus",
+    "o_que_eu_quero":"Trabalhar com desenvolvimento front end",
+    "cidade_estado:":"São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/monique-almeida-092b4615b/",
+    "link_github":"https://github.com/monique1087",
+    "email": "monique10879@gmail.com",
+
+    "um_pouco_sobre_mim":[
+        " Sou formada no Ensino Médio Regular, mas entrei na Etec no curso de Informática para Internet, onde tive o primeiro contato com as linguagens de programação. Lá aprendi um pouco de front, back e redes, interligado com o ensino médio. No último desisti porque  era muita cobrança, da minha parte, pois eu iria estudar para entrar na faculdade e ainda ter que fazer TCC. Tenho muita vontade em fazer faculdade. Sou interessada nos assuntos de igualdade de gênero, racial e sexual. Estou sempre aberta á aprender."
+    ],
+
+    "no_que_ja_trabalhei":[
+        {
+          "Nunca tive um emprego, mas já experimentei trabalhar em Buffet para crianças e na C&A em períodos sazonais."
+        },
+        {
+           
+        }
+    ],
+
+    "o_que_ja_estudei":[
+        {
+            "curso": "Informática para Internet",
+            "instituicao":"ETEC Parque da Juventude",
+            "periodo":"Jan/2015 a Dez/2016",
+            "resumo_conhecimentos_aprendidos": "Obtive conhecimentos sobre Ética e cidadania, redes, HTML, CSS, PHP, Javascript, Arduíno, MySQL, Fluxograma, Lógica de Programação."
+        }
+    ],
+
+    "meus_outros_aprendizados_e_interesses":[
+        {
+            "interesse_evento_curso": "Curso Bootcamp FrontEnd",
+            "instituicao":"Reprograma",
+            "resumo_conhecimentos_interesses": "Programação front end com conteúdo de UX Design, Git e Github, Scrum, Lógica de Programação, HTML, CSS, Javascript e bibliotecas e frameworks como Sass, React e Bootstrap."
+        },
+        {
+            "interesse_evento_curso": "Curso Iniciante de Programação",
+            "instituicao":"Mastertech",
+            "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+        }
+    ],
+
+    "no_que_me_destaco":[
+        {"habilidade_ferramenta":"HTML", "pontuacao":8},
+        {"habilidade_ferramenta":"CSS", "pontuacao": 7},
+        {"habilidade_ferramenta":"SASS", "pontuacao": 6},
+        {"habilidade_ferramenta":"JAVASCRIPT", "pontuacao": 8},
+        {"habilidade_ferramenta":"JQUERY", "pontuacao": 6}, 
+        {"habilidade_ferramenta":"NODE", "pontuacao": 1}, 
+        {"habilidade_ferramenta":"GIT/GITHUB", "pontuacao": 8},
+        {"habilidade_ferramenta":"BOOTSTRAP", "pontuacao": 9},
+        {"habilidade_ferramenta":"REACT", "pontuacao": 7},
+        {"habilidade_ferramenta":"METODOLOGIAS ÁGEIS", "pontuacao": 6},
+        {"habilidade_ferramenta":"RESPONSIVIDADE", "pontuacao": 8},
+        {"habilidade_ferramenta":"UX DESIGN", "pontuacao": 5},
+        {"habilidade_ferramenta":"TECNOLOGIA ASSISTIVAS", "pontuacao": 6},
+        {"habilidade_ferramenta":"WORDPRESS", "pontuacao": 9},
+        {"habilidade_ferramenta":"PHP", "pontuacao": 3},
+        {"habilidade_ferramenta":"MySQL", "pontuacao": 3},
+        {"habilidade_ferramenta":"HOSPEDAGEM DE SITE", "pontuacao": 3},
+        {"habilidade_ferramenta":"FTP", "pontuacao": 3},
+        {"habilidade_ferramenta":"CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8},
+        {"habilidade_ferramenta":"PHOTOSHOP", "pontuacao": 5},
+        {"habilidade_ferramenta":"ILUSTRATOR", "pontuacao": 6},
+        {"habilidade_ferramenta":"INDESIGN", "pontuacao": 1}
+    ]
+}
