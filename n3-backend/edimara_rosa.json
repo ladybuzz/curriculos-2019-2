@@ -8,7 +8,7 @@
 
     "um_pouco_sobre_mim":[
         "Eu sou a Mara, uma pessoa que sempre foi curiosa, criativa, esforçada e estudiosa. Nascida e crescida na periferia do extremo leste de São Paulo, mas que nunca deixei a distância e os obstáculos  serem protagonistas na minha vida.", 
-        "Sou formada bolsita em ciências contábeis pela Trevisan Escola de Negócios. Atuei por alguns anos na área financeira. Além disso já fui garçonete, bartender, caixa de restaurante. Experiências que me ajudaram a aprimorar minhas habilidades análiticas, trabalho em equipe, comunicação, colaborar com outras áreas e me expressar de uma maneira mais objetiva. Em 2016 decidi fazer um intercâmbio, para além do inglês, crescer como ser humano; Passei 24 meses vivendo com uma família americana, com total imersão na cultura, estudando inglês e sendo responsável pelos cuidados e segurança de três crianças. Após o meu retorno, resolvi estudar assuntos da área tecnológica, uma área que sempre tive paixão e curiosidade. Acredito que a tecnologia impacta vidas, e por isso estou em transição de carreira. Quero fazer parte dessa mudança, para ajudar empresas, e desenvolver softwares, apps, sites que tragam mais diversidade.",
+        "Sou formada bolsita em ciências contábeis pela Trevisan Escola de Negócios. Atuei por alguns anos na área financeira. Além disso já fui garçonete, bartender, caixa de restaurante. Experiências que me ajudaram a aprimorar minhas habilidades análiticas, trabalho em equipe, comunicação, colaborar com outras áreas e me expressar de uma maneira mais objetiva. Em 2016 decidi fazer um intercâmbio, para além do inglês, crescer como ser humano; Passei 24 meses vivendo com uma família americana, com total imersão na cultura, estudando inglês e sendo responsável pelos cuidados e segurança de três crianças. Após o meu retorno, resolvi estudar assuntos da área tecnológica, uma área que sempre tive paixão e curiosidade. Acredito que a tecnologia impacta vidas, e por isso estou em transição de carreira. Quero fazer parte dessa mudança e ajudar empresas a desenvolverem sistemas que tragam mais diversidade.",
         "Eu sempre estou procurando assuntos novos na internet. Curto jogar jogos de tabuleiros com amigos e/ou familiares. Amo a natureza, então sempre que posso estou em alguma parte verde do Brasil, sou vegetariana e amo animais, já resgatei alguns cães e gatos das ruas e quero poder fazer muito mais no futuro."
     ],
 
@@ -16,8 +16,8 @@
         {
             "cargo_funcao": "Desenvolvedora Backend Jr – ChatBot",
             "empresa":"Startup Pode Perguntar",
-            "periodo":"Set/2019 até o momento",
-            "atividades_desenvolvidas": "Curadoria do fluxo e conteúdo do Bot no Dialogflow(Intents, Entities, Contexts, Payloads etc). Utilização do git, heroku, mongoDb e Node.js para implementação de estruturas no back-end."
+            "periodo":"Set/2019 a Jan/2020",
+            "atividades_desenvolvidas": "Curadoria do fluxo e conteúdo do Bot no Dialogflow(Intents, Entities, Contexts, Payloads etc). Análise de performance. Auxílio nas dependências front-end e back-end do chatbot."
         },
         {
             "cargo_funcao": "Estágio – Planejamento Financeiro",
